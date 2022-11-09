@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "741",
+    "name": "古生物学（包含古人类学）",
+    "lemmaId": "34555504285995264",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "585",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "66465238890918155",
+        "name": "化石",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "741",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555504285995264",
+        "name": "古生物学（包含古人类学）",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "741",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

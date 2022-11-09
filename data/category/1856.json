@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1856",
+    "name": "林学其他学科",
+    "lemmaId": "39886088659037953",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "862",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886088659037953",
+        "name": "林学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1856",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

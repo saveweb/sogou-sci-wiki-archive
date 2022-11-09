@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1098",
+    "name": "天线电波传播",
+    "lemmaId": "39886067452636931",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1096",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886067452636931",
+        "name": "天线电波传播",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1098",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1001",
+    "name": "方差分析",
+    "lemmaId": "19764404610409728",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "997",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

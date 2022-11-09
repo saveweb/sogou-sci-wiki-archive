@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1046",
+    "name": "航空器结构与设计",
+    "lemmaId": "39886066043350788",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "9",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1047",
+        "name": "气球、飞艇",
+        "lemmaId": "39886066194345472",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1046",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066194345472",
+            "name": "气球、飞艇",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1047",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1048",
+        "name": "定翼机",
+        "lemmaId": "39886066093682434",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1046",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066093682434",
+            "name": "定翼机",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1048",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1049",
+        "name": "旋翼机",
+        "lemmaId": "39886066244677132",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1046",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066244677132",
+            "name": "旋翼机",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1049",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1050",
+        "name": "航空器结构与设计其他学科",
+        "lemmaId": "39886066160791305",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1046",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066160791305",
+            "name": "航空器结构与设计其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1050",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

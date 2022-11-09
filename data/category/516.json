@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "516",
+    "name": "数字控制机床",
+    "lemmaId": "19764070525707524",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "513",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39066932212690437",
+        "name": "数控车床",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "516",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764070525707524",
+        "name": "数字控制机床",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "516",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

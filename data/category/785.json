@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "785",
+    "name": "海洋调查与监测",
+    "lemmaId": "34555510644560140",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "594",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555510644560140",
+        "name": "海洋调查与监测",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "785",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

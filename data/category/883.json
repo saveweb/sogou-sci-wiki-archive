@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "883",
+    "name": "代数数论",
+    "lemmaId": "39886061714828802",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "880",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886061714828802",
+        "name": "代数数论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "883",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

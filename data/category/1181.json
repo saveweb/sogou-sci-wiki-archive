@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1181",
+    "name": "多相流体力学",
+    "lemmaId": "39886069784669701",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1174",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886069784669701",
+        "name": "多相流体力学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1181",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

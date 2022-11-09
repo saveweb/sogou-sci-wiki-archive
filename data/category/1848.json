@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1848",
+    "name": "林业机械化与电气化",
+    "lemmaId": "39886088457711368",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1845",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886088457711368",
+        "name": "林业机械化与电气化",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1848",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

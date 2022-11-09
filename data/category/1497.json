@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1497",
+    "name": "轧制",
+    "lemmaId": "39886078844366342",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "858",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886078844366342",
+        "name": "轧制",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1497",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "871",
+    "name": "数学史",
+    "lemmaId": "39886061412838912",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "5",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886061412838912",
+        "name": "数学史",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "871",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

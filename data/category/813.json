@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "813",
+    "name": "行星地质学",
+    "lemmaId": "34555515291848966",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "807",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "814",
+        "name": "行星岩石圈科学",
+        "lemmaId": "34555515459621130",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "813",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555515459621130",
+            "name": "行星岩石圈科学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "814",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "815",
+        "name": "行星环境科学",
+        "lemmaId": "34555515627393280",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "813",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555515627393280",
+            "name": "行星环境科学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "815",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "816",
+        "name": "行星资源学",
+        "lemmaId": "34555515795165443",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "813",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555515795165443",
+            "name": "行星资源学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "816",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "817",
+        "name": "天体生物学",
+        "lemmaId": "34555515979714816",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "813",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555515979714816",
+            "name": "天体生物学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "817",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

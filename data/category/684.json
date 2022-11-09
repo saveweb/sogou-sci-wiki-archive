@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "684",
+    "name": "高层大气物理学",
+    "lemmaId": "34555497256341773",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "682",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555497256341773",
+        "name": "高层大气物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "684",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

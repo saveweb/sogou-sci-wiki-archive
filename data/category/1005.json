@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1005",
+    "name": "试验设计",
+    "lemmaId": "19764549481669901",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "997",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "509",
+    "name": "切削理论",
+    "lemmaId": "19764072606082313",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "508",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764072606082313",
+        "name": "切削理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "509",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

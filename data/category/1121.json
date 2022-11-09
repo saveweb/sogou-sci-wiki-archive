@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1121",
+    "name": "语音处理",
+    "lemmaId": "39886068140502538",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1117",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "43093734098763273",
+        "name": "自动语音识别技术",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1121",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "42115475018116867",
+        "name": "参数编码",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1121",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886068140502538",
+        "name": "语音处理",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1121",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

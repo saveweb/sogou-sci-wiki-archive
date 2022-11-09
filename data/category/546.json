@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "546",
+    "name": "材料表面与界面",
+    "lemmaId": "19764066801165582",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "7",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "33990982055776772",
+        "name": "超疏水表面",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "546",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764066801165582",
+        "name": "材料表面与界面",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "546",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1552",
+    "name": "河工学",
+    "lemmaId": "39886080253652751",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1550",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886080253652751",
+        "name": "河工学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1552",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

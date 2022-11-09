@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "798",
+    "name": "地球探测信息技术",
+    "lemmaId": "34555512674603277",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "587",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555512674603277",
+        "name": "地球探测信息技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "798",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

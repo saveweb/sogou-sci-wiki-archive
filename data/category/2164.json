@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2164",
+    "name": "核医学",
+    "lemmaId": "19764428299838727",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2086",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "472",
+    "name": "电机与电力拖动",
+    "lemmaId": "19764061063357699",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "468",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "78868132185321730",
+        "name": "永磁同步电机",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "472",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "57442311600142595",
+        "name": "步进电机",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "472",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "49327453524502022",
+        "name": "转差率",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "472",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39062017025273600",
+        "name": "电机",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "472",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764061063357699",
+        "name": "电机与电力拖动",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "472",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

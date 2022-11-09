@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "415",
+    "name": "结构化学",
+    "lemmaId": "19764078645880065",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "412",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764078645880065",
+        "name": "结构化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "415",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

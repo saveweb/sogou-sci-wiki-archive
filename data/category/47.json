@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "47",
+    "name": "几何光学",
+    "lemmaId": "19764058379003143",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "46",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764528526927108",
+        "name": "四分之一波片",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "47",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764058379003143",
+        "name": "几何光学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "47",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

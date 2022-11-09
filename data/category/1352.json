@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1352",
+    "name": "有机化学工程",
+    "lemmaId": "39886074616508164",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "859",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886074616508164",
+        "name": "有机化学工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1352",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

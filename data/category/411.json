@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "411",
+    "name": "分析化学其他学科",
+    "lemmaId": "19764097067263236",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "399",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764097067263236",
+        "name": "分析化学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "411",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

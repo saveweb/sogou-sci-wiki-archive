@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "204",
+    "name": "放射生理学",
+    "lemmaId": "19764058412557577",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "201",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764058412557577",
+        "name": "放射生理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "204",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

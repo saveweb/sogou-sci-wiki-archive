@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1100",
+    "name": "微波技术",
+    "lemmaId": "39886067502968591",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1096",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764409761015047",
+        "name": "毫米波",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1100",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886067502968591",
+        "name": "微波技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1100",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

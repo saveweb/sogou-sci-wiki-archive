@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1446",
+    "name": "储能技术",
+    "lemmaId": "39886077233753860",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "868",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "76867801247199492",
+        "name": "卡诺电池",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1446",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "43090009472925448",
+        "name": "圆柱电池",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1446",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886077233753860",
+        "name": "儲能技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1446",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

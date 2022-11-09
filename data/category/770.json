@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "770",
+    "name": "河流学与河口水文学",
+    "lemmaId": "34555508060868875",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "762",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555508060868875",
+        "name": "河流学与河口水文学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "770",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

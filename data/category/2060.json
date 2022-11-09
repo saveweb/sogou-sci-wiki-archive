@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2060",
+    "name": "安全电气工程",
+    "lemmaId": "39886094598172429",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2054",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886094598172429",
+        "name": "安全电气工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2060",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

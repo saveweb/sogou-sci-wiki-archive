@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "901",
+    "name": "范畴论",
+    "lemmaId": "39886062234922499",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "890",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886062234922499",
+        "name": "范畴论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "901",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "47138671467466760",
+        "name": "阿贝尔范畴",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "901",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "43991861118926599",
+        "name": "加法范畴",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "901",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

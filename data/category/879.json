@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "879",
+    "name": "数理逻辑与数学基础其他学科",
+    "lemmaId": "39886061630942723",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "872",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886061630942723",
+        "name": "数理逻辑与数学基础其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "879",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

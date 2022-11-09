@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "408",
+    "name": "放射分析",
+    "lemmaId": "19764070794142981",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "399",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764070794142981",
+        "name": "放射分析",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "408",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2023",
+    "name": "食品工程",
+    "lemmaId": "39886093692202499",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2022",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886093692202499",
+        "name": "食品工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2023",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

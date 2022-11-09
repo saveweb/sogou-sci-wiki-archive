@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "257",
+    "name": "昆虫病理学",
+    "lemmaId": "19764084064920835",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "251",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764084064920835",
+        "name": "昆虫病理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "257",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

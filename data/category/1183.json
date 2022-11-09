@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1183",
+    "name": "物理一化学流体力学",
+    "lemmaId": "39886069851778567",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1174",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886069851778567",
+        "name": "物理一化学流体力学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1183",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

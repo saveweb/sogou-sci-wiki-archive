@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "679",
+    "name": "应用气象学",
+    "lemmaId": "19764555202700544",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "588",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764437174985996",
+        "name": "风向玫瑰图",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "679",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

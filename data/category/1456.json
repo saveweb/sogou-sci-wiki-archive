@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1456",
+    "name": "生活間体废弃物能",
+    "lemmaId": "39886077518966540",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1448",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886077518966540",
+        "name": "生活間体废弃物能",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1456",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

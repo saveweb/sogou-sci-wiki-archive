@@ -1,0 +1,325 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "108",
+    "name": "原子核物理学",
+    "lemmaId": "19764069468742921",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 12,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "109",
+        "name": "核结构",
+        "lemmaId": "19764097151149326",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764097151149326",
+            "name": "核结构",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "109",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "110",
+        "name": "核能谱学",
+        "lemmaId": "19764101815215372",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764101815215372",
+            "name": "核能谱学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "110",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "111",
+        "name": "低能核反应",
+        "lemmaId": "19764079333745925",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764079333745925",
+            "name": "低能核反应",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "111",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "112",
+        "name": "中子物理学",
+        "lemmaId": "19764066062968076",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764066062968076",
+            "name": "中子物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "112",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "113",
+        "name": "裂变物理学",
+        "lemmaId": "19764099902612737",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764099902612737",
+            "name": "裂变物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "113",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "114",
+        "name": "聚变物理学",
+        "lemmaId": "19764059385636096",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764059385636096",
+            "name": "聚变物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "114",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "115",
+        "name": "轻粒子核物理学",
+        "lemmaId": "19764066851497231",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764066851497231",
+            "name": "轻粒子核物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "115",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "116",
+        "name": "重离子核物理学",
+        "lemmaId": "19764067153487111",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764067153487111",
+            "name": "重离子核物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "116",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "117",
+        "name": "中高能核物理学",
+        "lemmaId": "19764087806240012",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764087806240012",
+            "name": "中高能核物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "117",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "118",
+        "name": "原子核物理学其他学科",
+        "lemmaId": "19764058244785416",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "108",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "30041575933360133",
+            "name": "深地质处置",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "118",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764058244785416",
+            "name": "原子核物理学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "118",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

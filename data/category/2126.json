@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2126",
+    "name": "泌尿外科学",
+    "lemmaId": "59365957038045199",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2119",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365957038045199",
+        "name": "泌尿外科学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2126",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,151 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "953",
+    "name": "偏微分方程",
+    "lemmaId": "39886063627431424",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "5",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "954",
+        "name": "椭圆型偏微分方程",
+        "lemmaId": "39886063543545610",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "953",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886063543545610",
+            "name": "椭圆型偏微分方程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "954",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "955",
+        "name": "双曲型偏微分方程",
+        "lemmaId": "39886063694540288",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "953",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886063694540288",
+            "name": "双曲型偏微分方程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "955",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "956",
+        "name": "抛物型偏微分方程",
+        "lemmaId": "39886063610654477",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "953",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886063610654477",
+            "name": "抛物型偏微分方程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "956",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "957",
+        "name": "非线性偏微分方程",
+        "lemmaId": "19764576375547143",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "953",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "958",
+        "name": "偏微分方程其他学科",
+        "lemmaId": "39886063660986122",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "953",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886063660986122",
+            "name": "偏微分方程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "958",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

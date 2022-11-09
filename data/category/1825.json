@@ -1,0 +1,195 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1825",
+    "name": "森林经理学",
+    "lemmaId": "39886087937617418",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "862",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1826",
+        "name": "森林测计学",
+        "lemmaId": "39886087853731596",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1825",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087853731596",
+            "name": "森林测计学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1826",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1827",
+        "name": "森林测量学",
+        "lemmaId": "39886088004726283",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1825",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088004726283",
+            "name": "森林测量学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1827",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1828",
+        "name": "林业遥感",
+        "lemmaId": "39886087904063242",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1825",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087904063242",
+            "name": "林业遥感",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1828",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1829",
+        "name": "林业信息管理",
+        "lemmaId": "39886088055057927",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1825",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088055057927",
+            "name": "林业信息管理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1829",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1830",
+        "name": "林业系统工程",
+        "lemmaId": "39886087971172103",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1825",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087971172103",
+            "name": "林业系统工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1830",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1831",
+        "name": "森林经理学其他学科",
+        "lemmaId": "39886088105389574",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1825",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088105389574",
+            "name": "森林经理学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1831",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

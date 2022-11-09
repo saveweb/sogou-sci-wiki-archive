@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "398",
+    "name": "有机化学其他学科",
+    "lemmaId": "19764057875686667",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "389",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "40194013738855937",
+        "name": "1,2-丙二醇",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "398",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40171977167630081",
+        "name": "福尔马林",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "398",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764057875686667",
+        "name": "有机化学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "398",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

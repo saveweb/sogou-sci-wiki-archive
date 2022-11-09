@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1333",
+    "name": "固定床反应工程",
+    "lemmaId": "39886074230631940",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1330",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886074230631940",
+        "name": "固定床反应工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1333",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

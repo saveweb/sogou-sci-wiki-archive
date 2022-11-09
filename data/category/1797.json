@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1797",
+    "name": "有害生物监测预警",
+    "lemmaId": "39886087165865485",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1786",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886087165865485",
+        "name": "有害生物监测预警",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1797",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

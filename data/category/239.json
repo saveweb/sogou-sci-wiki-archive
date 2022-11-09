@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "239",
+    "name": "植物细胞学",
+    "lemmaId": "19764058345448709",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "233",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764594813707535",
+        "name": "扦插",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "239",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "24810796231964174",
+        "name": "质体",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "239",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "24686566047756041",
+        "name": "原生质体",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "239",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764058345448709",
+        "name": "植物细胞学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "239",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,282 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2054",
+    "name": "安全工程技术科学",
+    "lemmaId": "39886094430400261",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 10,
+    "allCategoryLemmaNum": 0,
+    "parentId": "860",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "2055",
+        "name": "安全工程理论",
+        "lemmaId": "39886094581394947",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2054",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094581394947",
+            "name": "安全工程理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2055",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2056",
+        "name": "火灾科学与消防工程",
+        "lemmaId": "39886094480731908",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2054",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094480731908",
+            "name": "火灾科学与消防工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2056",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2057",
+        "name": "爆炸安全工程",
+        "lemmaId": "39886094631726602",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2054",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094631726602",
+            "name": "爆炸安全工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2057",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2058",
+        "name": "安全设备工程",
+        "lemmaId": "39886094531063555",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2054",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094531063555",
+            "name": "安全设备工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2058",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2059",
+        "name": "安全机械工程",
+        "lemmaId": "39886094682058245",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2054",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094682058245",
+            "name": "安全机械工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2059",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2060",
+        "name": "安全电气工程",
+        "lemmaId": "39886094598172429",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2054",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094598172429",
+            "name": "安全电气工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2060",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2061",
+        "name": "安全人机工程",
+        "lemmaId": "39886094749167106",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2054",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094749167106",
+            "name": "安全人机工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2061",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2062",
+        "name": "安全系统工程",
+        "lemmaId": "39886094648504064",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2054",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094648504064",
+            "name": "安全系统工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2062",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2063",
+        "name": "安全工程技术科学其他学科",
+        "lemmaId": "39886094799498767",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2054",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094799498767",
+            "name": "安全工程技术科学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2063",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "637",
+    "name": "乏燃料后处理技术",
+    "lemmaId": "34555490746781955",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "8",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555490746781955",
+        "name": "乏燃料后处理技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "637",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "31898728533081354",
+        "name": "干法后处理",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "637",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

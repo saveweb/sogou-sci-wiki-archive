@@ -1,0 +1,267 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1290",
+    "name": "系统学",
+    "lemmaId": "39886072922009357",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 9,
+    "allCategoryLemmaNum": 0,
+    "parentId": "856",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "960",
+        "name": "微分动力系统",
+        "lemmaId": "39886063711317772",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1290",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886063711317772",
+            "name": "微分动力系统",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "960",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1291",
+        "name": "混沌",
+        "lemmaId": "39886073073004045",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1290",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073073004045",
+            "name": "混沌",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1291",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1292",
+        "name": "一般系统论",
+        "lemmaId": "39886072972340994",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1290",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072972340994",
+            "name": "一般系统论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1292",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1293",
+        "name": "耗散结构理论",
+        "lemmaId": "19764472189035791",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1290",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1294",
+        "name": "协同学",
+        "lemmaId": "39886073022672643",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1290",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073022672643",
+            "name": "协同学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1294",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1295",
+        "name": "突变论",
+        "lemmaId": "39886073173667341",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1290",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073173667341",
+            "name": "突变论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1295",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1296",
+        "name": "超循环论",
+        "lemmaId": "39886073073004303",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1290",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073073004303",
+            "name": "超循环论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1296",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1297",
+        "name": "复杂系统与复杂性科学",
+        "lemmaId": "39886073223998985",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1290",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073223998985",
+            "name": "复杂系统与复杂性科学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1297",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1298",
+        "name": "系统学其他学科",
+        "lemmaId": "39886073123335937",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1290",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073123335937",
+            "name": "系统学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1298",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

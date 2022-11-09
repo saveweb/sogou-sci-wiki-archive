@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1324",
+    "name": "萃取",
+    "lemmaId": "19764403402450188",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1321",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

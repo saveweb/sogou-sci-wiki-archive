@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1988",
+    "name": "纺织机械与设备",
+    "lemmaId": "39886092568129294",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "867",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1989",
+        "name": "纺织器材设计与制造",
+        "lemmaId": "39886092719123983",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1988",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092719123983",
+            "name": "纺织器材设计与制造",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1989",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1990",
+        "name": "纺织机械设计与制造",
+        "lemmaId": "39886092618460934",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1988",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092618460934",
+            "name": "纺织机械设计与制造",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1990",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1991",
+        "name": "纺织机械与设备其他学科",
+        "lemmaId": "39886092769455626",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1988",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092769455626",
+            "name": "纺织机械与设备其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1991",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

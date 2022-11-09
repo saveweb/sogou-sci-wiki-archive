@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1093",
+    "name": "航空航天可靠性工程",
+    "lemmaId": "39886067419082245",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1090",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886067419082245",
+        "name": "航空航天可靠性工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1093",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

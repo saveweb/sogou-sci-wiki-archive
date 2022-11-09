@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "701",
+    "name": "能源地球化学",
+    "lemmaId": "34555498699182347",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "650",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555498699182347",
+        "name": "能源地球化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "701",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,770 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "650",
+    "name": "地球化学",
+    "lemmaId": "19764481013851392",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 8,
+    "lemmaNum": 33,
+    "allCategoryLemmaNum": 0,
+    "parentId": "16",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "651",
+        "name": "元素地球化学",
+        "lemmaId": "34555492793602307",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 5,
+        "lemmaNum": 6,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "36175144607046152",
+            "name": "地球化学储库",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "651",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "35743152753105164",
+            "name": "大离子亲石元素",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "651",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "35743079453448454",
+            "name": "高场强元素",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "651",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34567251155767814",
+            "name": "丰度",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "651",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555492793602307",
+            "name": "元素地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "651",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "33374010070811656",
+            "name": "元素分配系数",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "651",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "652",
+        "name": "稳定同位素地球化学",
+        "lemmaId": "34555492994928911",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555492994928911",
+            "name": "稳定同位素地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "652",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "33640914186421002",
+            "name": "稳定同位素分馏",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "652",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "653",
+        "name": "放射性同位素地球化学",
+        "lemmaId": "34555493112369410",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555493112369410",
+            "name": "放射性同位素地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "653",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "654",
+        "name": "同位素地质年代学",
+        "lemmaId": "34555493280141574",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "49765924873479946",
+            "name": "同位素测年",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "654",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555493280141574",
+            "name": "同位素地质年代学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "654",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "655",
+        "name": "地幔地球化学",
+        "lemmaId": "34555493397582094",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555493397582094",
+            "name": "地幔地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "655",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "656",
+        "name": "矿床地球化学",
+        "lemmaId": "34555493582131467",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555493582131467",
+            "name": "矿床地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "656",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "657",
+        "name": "勘探地球化学",
+        "lemmaId": "34555493766680847",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555493766680847",
+            "name": "勘探地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "657",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "658",
+        "name": "实验地球化学",
+        "lemmaId": "34555493934453007",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555493934453007",
+            "name": "实验地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "658",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "659",
+        "name": "有机地球化学",
+        "lemmaId": "34555494119002381",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555494119002381",
+            "name": "有机地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "659",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "660",
+        "name": "生物地球化学",
+        "lemmaId": "34555494286774534",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555494286774534",
+            "name": "生物地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "660",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "661",
+        "name": "环境地球化学",
+        "lemmaId": "34555494404215047",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555494404215047",
+            "name": "环境地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "661",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "695",
+        "name": "地球内部化学",
+        "lemmaId": "34555498044870919",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555498044870919",
+            "name": "地球内部化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "695",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "697",
+        "name": "成矿地球化学",
+        "lemmaId": "34555498212643078",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555498212643078",
+            "name": "成矿地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "697",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "698",
+        "name": "岩石地球化学",
+        "lemmaId": "34555498397192459",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555498397192459",
+            "name": "岩石地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "698",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "699",
+        "name": "勘查地球化学",
+        "lemmaId": "34555498531410191",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555498531410191",
+            "name": "勘查地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "699",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "701",
+        "name": "能源地球化学",
+        "lemmaId": "34555498699182347",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555498699182347",
+            "name": "能源地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "701",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "702",
+        "name": "理论和计算机地球化学",
+        "lemmaId": "34555498883731719",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555498883731719",
+            "name": "理论和计算机地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "702",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "703",
+        "name": "宇宙化学",
+        "lemmaId": "34555499068281089",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 5,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "category",
+            "id": "1228",
+            "name": "空间化学",
+            "lemmaId": "39886071210733312",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "703",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "1229",
+            "name": "天体元素学",
+            "lemmaId": "39886071344950792",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "703",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "1230",
+            "name": "月球与行星化学",
+            "lemmaId": "39886071277842182",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "703",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "1231",
+            "name": "宇宙化学其他学科",
+            "lemmaId": "39886071428836869",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "703",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "704",
+        "name": "沉积与古环境地球化学",
+        "lemmaId": "34555499236053251",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555499236053251",
+            "name": "沉积与古环境地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "704",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "705",
+        "name": "水文地球化学",
+        "lemmaId": "34555499353493766",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555499353493766",
+            "name": "水文地球化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "705",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "707",
+        "name": "地球化学其他学科",
+        "lemmaId": "34555499521265930",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "650",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555499521265930",
+            "name": "地球化学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "707",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

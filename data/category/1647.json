@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1647",
+    "name": "控制科学与技术其他学科",
+    "lemmaId": "39886083005115919",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1638",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886083005115919",
+        "name": "控制科学与技术其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1647",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

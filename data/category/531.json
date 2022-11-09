@@ -1,0 +1,194 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "531",
+    "name": "机械制造自动化",
+    "lemmaId": "19764096094184717",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 5,
+    "lemmaNum": 11,
+    "allCategoryLemmaNum": 0,
+    "parentId": "6",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "532",
+        "name": "成组技术",
+        "lemmaId": "19764072773854477",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "531",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764072773854477",
+            "name": "成组技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "532",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "533",
+        "name": "数控技术",
+        "lemmaId": "19764095976744200",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "531",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764095976744200",
+            "name": "数控技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "533",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "534",
+        "name": "机器人技术",
+        "lemmaId": "19764089500738824",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "531",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "40350760365485568",
+            "name": "纳米机器人",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "534",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764089500738824",
+            "name": "机器人技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "534",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "535",
+        "name": "计算机辅助制造",
+        "lemmaId": "19764063915484417",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "531",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764063915484417",
+            "name": "计算机辅助制造",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "535",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "536",
+        "name": "机械制造自动化其他学科",
+        "lemmaId": "19764057573696768",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "531",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "49047379831201293",
+            "name": "挖掘机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "536",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764057573696768",
+            "name": "机械制造自动化其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "536",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

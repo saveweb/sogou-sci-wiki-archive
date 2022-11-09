@@ -1,0 +1,224 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2134",
+    "name": "妇产科学",
+    "lemmaId": "59365957289703430",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 8,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2086",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "2135",
+        "name": "妇科学",
+        "lemmaId": "59365957323258113",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2134",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365957323258113",
+            "name": "妇科学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2135",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2136",
+        "name": "产科学",
+        "lemmaId": "59365957356812298",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2134",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365957356812298",
+            "name": "产科学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2136",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2137",
+        "name": "围产医学",
+        "lemmaId": "59365957373589760",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2134",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365957373589760",
+            "name": "围产医学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2137",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2138",
+        "name": "助产学",
+        "lemmaId": "59365957407143944",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2134",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365957407143944",
+            "name": "助产学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2138",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2139",
+        "name": "胎儿学",
+        "lemmaId": "59365957440698639",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2134",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365957440698639",
+            "name": "胎儿学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2139",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2140",
+        "name": "妇科产科手术学",
+        "lemmaId": "59365957474252808",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2134",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365957474252808",
+            "name": "妇科产科手术学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2140",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2141",
+        "name": "妇产科学其他学科",
+        "lemmaId": "59365957507807495",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2134",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365957507807495",
+            "name": "妇产科学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2141",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

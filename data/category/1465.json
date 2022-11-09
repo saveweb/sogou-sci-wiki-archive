@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1465",
+    "name": "氢能",
+    "lemmaId": "19764429826565389",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1460",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

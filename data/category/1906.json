@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1906",
+    "name": "水产品贮藏与加工",
+    "lemmaId": "39886090185764622",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "863",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886090185764622",
+        "name": "水产品贮藏与加工",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1906",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

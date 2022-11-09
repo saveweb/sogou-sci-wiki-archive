@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "454",
+    "name": "微尺度热物理学",
+    "lemmaId": "19764092772295939",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "449",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764092772295939",
+        "name": "微尺度热物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "454",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

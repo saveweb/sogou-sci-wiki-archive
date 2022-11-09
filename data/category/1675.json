@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1675",
+    "name": "海底矿产开发",
+    "lemmaId": "39886083743313423",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1673",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886083743313423",
+        "name": "海底矿产开发",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1675",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

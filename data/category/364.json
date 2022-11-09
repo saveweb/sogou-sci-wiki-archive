@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "364",
+    "name": "计算机制造与检测",
+    "lemmaId": "19764060945917186",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "359",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764060945917186",
+        "name": "计算机制造与检测",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "364",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

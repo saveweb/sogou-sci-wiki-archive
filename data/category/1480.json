@@ -1,0 +1,311 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1480",
+    "name": "冶金技术",
+    "lemmaId": "39886078206832387",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 11,
+    "allCategoryLemmaNum": 0,
+    "parentId": "858",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1481",
+        "name": "提炼冶金",
+        "lemmaId": "39886078357827086",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078357827086",
+            "name": "提炼冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1481",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1482",
+        "name": "粉末冶金",
+        "lemmaId": "39886078273941253",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078273941253",
+            "name": "粉末冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1482",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1483",
+        "name": "真空冶金",
+        "lemmaId": "39886078424935950",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078424935950",
+            "name": "真空冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1483",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1484",
+        "name": "电磁冶金",
+        "lemmaId": "39886078324272903",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078324272903",
+            "name": "电磁冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1484",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1485",
+        "name": "原子能冶金",
+        "lemmaId": "39886078475267597",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078475267597",
+            "name": "原子能冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1485",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1486",
+        "name": "湿法冶金",
+        "lemmaId": "39886078391381765",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078391381765",
+            "name": "湿法冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1486",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1487",
+        "name": "纤维冶金",
+        "lemmaId": "39886078525599237",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078525599237",
+            "name": "纤维冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1487",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1488",
+        "name": "卤素冶金",
+        "lemmaId": "39886078441713414",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078441713414",
+            "name": "卤素冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1488",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1489",
+        "name": "微生物冶金",
+        "lemmaId": "39886078592708096",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078592708096",
+            "name": "微生物冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1489",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1490",
+        "name": "治金技术其他学科",
+        "lemmaId": "39886078508822282",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1480",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078508822282",
+            "name": "治金技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1490",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1627",
+    "name": "海洋重力测量",
+    "lemmaId": "39886082451467782",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1625",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886082451467782",
+        "name": "海洋重力测量",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1627",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

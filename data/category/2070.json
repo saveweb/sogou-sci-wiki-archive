@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2070",
+    "name": "安全社会工程",
+    "lemmaId": "39886094866607884",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "860",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "2071",
+        "name": "安全管理工程",
+        "lemmaId": "39886095017602575",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2070",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886095017602575",
+            "name": "安全管理工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2071",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2072",
+        "name": "安全经济工程",
+        "lemmaId": "39886094950493957",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2070",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094950493957",
+            "name": "安全经济工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2072",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2073",
+        "name": "安全教育工程",
+        "lemmaId": "39886095101488653",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2070",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886095101488653",
+            "name": "安全教育工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2073",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2074",
+        "name": "安全社会工程其他学科",
+        "lemmaId": "39886095000825607",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2070",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886095000825607",
+            "name": "安全社会工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2074",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

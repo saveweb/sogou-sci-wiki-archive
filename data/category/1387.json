@@ -1,0 +1,250 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1387",
+    "name": "建筑材料",
+    "lemmaId": "39886075723804171",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 7,
+    "lemmaNum": 13,
+    "allCategoryLemmaNum": 0,
+    "parentId": "850",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1388",
+        "name": "金属建筑材料",
+        "lemmaId": "39886075623141125",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1387",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075623141125",
+            "name": "金属建筑材料",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1388",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1389",
+        "name": "非金属建筑材料",
+        "lemmaId": "39886075774135817",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1387",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "40356409136672527",
+            "name": "水磨石",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1389",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "69368536253936134",
+            "name": "石膏矿渣水泥",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1389",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886075774135817",
+            "name": "非金属建筑材料",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1389",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1390",
+        "name": "复合建筑材料",
+        "lemmaId": "39886075690249988",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1387",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764429692347657",
+            "name": "人造石材",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1390",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886075690249988",
+            "name": "复合建筑材料",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1390",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1391",
+        "name": "特种建筑材料(包括隔音、防水、防火、绝热、耐震、防蚀、装修材料等)",
+        "lemmaId": "39886075841244677",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1387",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "69149808081842437",
+            "name": "PVC防水卷材",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1391",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "69145114571780616",
+            "name": "丙凝防水涂料",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1391",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886075841244677",
+            "name": "特种建筑材料(包括隔音、防水、防火、绝热、耐震、防蚀、装修材料等)",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1391",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1392",
+        "name": "建筑材料其他学科",
+        "lemmaId": "39886075740581635",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1387",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764409442247950",
+            "name": "硅酸盐水泥",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1392",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886075740581635",
+            "name": "建筑材料其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1392",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

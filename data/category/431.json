@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "431",
+    "name": "天然高分子",
+    "lemmaId": "19764062791410948",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "427",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764062791410948",
+        "name": "天然高分子",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "431",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

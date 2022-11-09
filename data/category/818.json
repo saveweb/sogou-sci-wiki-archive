@@ -1,0 +1,136 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "818",
+    "name": "行星化学",
+    "lemmaId": "34555516147486979",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 8,
+    "allCategoryLemmaNum": 0,
+    "parentId": "807",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "819",
+        "name": "行星物质科学",
+        "lemmaId": "34555516231373066",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "818",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555516231373066",
+            "name": "行星物质科学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "819",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "28307212774422787",
+            "name": "晚期薄层增生",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "819",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "820",
+        "name": "行星年代学",
+        "lemmaId": "34555516348813578",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "818",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555516348813578",
+            "name": "行星年代学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "820",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "821",
+        "name": "同位素行星化学",
+        "lemmaId": "34555516516585740",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "818",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "36855865902389514",
+            "name": "核合成（nucleosynthesis）",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "821",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555516516585740",
+            "name": "同位素行星化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "821",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

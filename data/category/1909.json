@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1909",
+    "name": "水产经济学",
+    "lemmaId": "39886090387090948",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "863",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886090387090948",
+        "name": "水产经济学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1909",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

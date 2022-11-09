@@ -1,0 +1,369 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "920",
+    "name": "拓扑学",
+    "lemmaId": "19764589075899656",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 12,
+    "allCategoryLemmaNum": 0,
+    "parentId": "5",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "921",
+        "name": "点集拓扑学",
+        "lemmaId": "39886062738238986",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062738238986",
+            "name": "点集拓扑学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "921",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "922",
+        "name": "代数拓扑学",
+        "lemmaId": "39886062654353160",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062654353160",
+            "name": "代数拓扑学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "922",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "923",
+        "name": "同伦论",
+        "lemmaId": "39886062788570629",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062788570629",
+            "name": "同伦论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "923",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "924",
+        "name": "低维拓扑学",
+        "lemmaId": "39886062704684808",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062704684808",
+            "name": "低维拓扑学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "924",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "925",
+        "name": "同调论",
+        "lemmaId": "39886062855679490",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062855679490",
+            "name": "同调论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "925",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "926",
+        "name": "维数论",
+        "lemmaId": "39886062755016460",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062755016460",
+            "name": "维数论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "926",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "927",
+        "name": "格上拓扑学",
+        "lemmaId": "39886062906011139",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062906011139",
+            "name": "格上拓扑学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "927",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "928",
+        "name": "纤维丛论",
+        "lemmaId": "39886062822125314",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062822125314",
+            "name": "纤维丛论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "928",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "929",
+        "name": "几何拓扑学",
+        "lemmaId": "39886062973120004",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062973120004",
+            "name": "几何拓扑学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "929",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "930",
+        "name": "奇点理论",
+        "lemmaId": "39886062872456964",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062872456964",
+            "name": "奇点理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "930",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "931",
+        "name": "微分拓扑学",
+        "lemmaId": "39886063023451656",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886063023451656",
+            "name": "微分拓扑学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "931",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "932",
+        "name": "拓扑学其他学科",
+        "lemmaId": "39886062922788611",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "920",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062922788611",
+            "name": "拓扑学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "932",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

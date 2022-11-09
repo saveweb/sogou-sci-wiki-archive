@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "978",
+    "name": "插值法与逼近论",
+    "lemmaId": "39886064214634254",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "977",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886064214634254",
+        "name": "插值法与逼近论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "978",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "874",
+    "name": "证明论",
+    "lemmaId": "39886061379284738",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "872",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764540975621382",
+        "name": "错位相减法",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "874",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886061379284738",
+        "name": "证明论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "874",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

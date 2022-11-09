@@ -1,0 +1,151 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1515",
+    "name": "选矿工程",
+    "lemmaId": "39886079330905602",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 5,
+    "lemmaNum": 10,
+    "allCategoryLemmaNum": 0,
+    "parentId": "802",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1516",
+        "name": "选矿理论",
+        "lemmaId": "39886079230242575",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1515",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "41806718040043021",
+            "name": "水煤浆",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1516",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886079230242575",
+            "name": "选矿理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1516",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1517",
+        "name": "选矿技术",
+        "lemmaId": "39886079381237248",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1515",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079381237248",
+            "name": "选矿技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1517",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1518",
+        "name": "矿石处理",
+        "lemmaId": "39886079280574217",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1515",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079280574217",
+            "name": "矿石处理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1518",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1519",
+        "name": "选矿工程其他学科",
+        "lemmaId": "39886079431568907",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1515",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079431568907",
+            "name": "选矿工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1519",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

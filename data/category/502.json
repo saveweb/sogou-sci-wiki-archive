@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "502",
+    "name": "热处理工艺与设备",
+    "lemmaId": "19764098963088640",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "498",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764098963088640",
+        "name": "热处理工艺与设备",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "502",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

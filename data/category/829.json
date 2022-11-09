@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "829",
+    "name": "固体废弃物的处理与处置",
+    "lemmaId": "34555518429188367",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "591",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764457559303424",
+        "name": "垃圾填埋",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "829",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764412546032897",
+        "name": "粉煤灰",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "829",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "49889249859774210",
+        "name": "白色污染",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "829",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "49619489641244168",
+        "name": "垃圾焚烧",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "829",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555518429188367",
+        "name": "固体废弃物的处理与处置",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "829",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

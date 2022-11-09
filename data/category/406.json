@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "406",
+    "name": "色谱分析",
+    "lemmaId": "19764066750833929",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "399",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764066750833929",
+        "name": "色谱分析",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "406",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

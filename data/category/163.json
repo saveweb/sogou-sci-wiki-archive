@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "163",
+    "name": "细胞病理学",
+    "lemmaId": "19764088443774216",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "157",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "47267590950653701",
+        "name": "HeLa细胞",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "163",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "42764578005741312",
+        "name": "肥大",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "163",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764088443774216",
+        "name": "细胞病理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "163",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

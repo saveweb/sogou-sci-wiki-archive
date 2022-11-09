@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2048",
+    "name": "安全系统学",
+    "lemmaId": "39886094262628107",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "860",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "2049",
+        "name": "安全运筹学",
+        "lemmaId": "39886094413622790",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2048",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094413622790",
+            "name": "安全运筹学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2049",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2050",
+        "name": "安全信息论",
+        "lemmaId": "39886094329736972",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2048",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094329736972",
+            "name": "安全信息论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2050",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2051",
+        "name": "安全控制论",
+        "lemmaId": "39886094480731658",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2048",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094480731658",
+            "name": "安全控制论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2051",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2052",
+        "name": "安全模拟与安全仿真学",
+        "lemmaId": "39886094380068608",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2048",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094380068608",
+            "name": "安全模拟与安全仿真学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2052",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2053",
+        "name": "安全系统学其他学科",
+        "lemmaId": "39886094531063296",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2048",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094531063296",
+            "name": "安全系统学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2053",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1580",
+    "name": "铁路运输",
+    "lemmaId": "39886081042181895",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "853",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1581",
+        "name": "铁路电气化工程",
+        "lemmaId": "39886081176399370",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1580",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081176399370",
+            "name": "铁路电气化工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1581",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1582",
+        "name": "铁路通信信号工程",
+        "lemmaId": "39886081092513543",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1580",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081092513543",
+            "name": "铁路通信信号工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1582",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1583",
+        "name": "铁路机车车辆工程",
+        "lemmaId": "39886081243508236",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1580",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081243508236",
+            "name": "铁路机车车辆工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1583",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1584",
+        "name": "铁路运输管理",
+        "lemmaId": "39886081159622407",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1580",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081159622407",
+            "name": "铁路运输管理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1584",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1585",
+        "name": "铁路运输其他学科",
+        "lemmaId": "39886081310617094",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1580",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081310617094",
+            "name": "铁路运输其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1585",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

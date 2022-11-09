@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1488",
+    "name": "卤素冶金",
+    "lemmaId": "39886078441713414",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1480",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886078441713414",
+        "name": "卤素冶金",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1488",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

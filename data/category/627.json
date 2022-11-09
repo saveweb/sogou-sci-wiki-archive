@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "627",
+    "name": "核电站",
+    "lemmaId": "11151",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "624",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

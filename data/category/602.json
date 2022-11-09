@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "602",
+    "name": "核材料与工艺技术",
+    "lemmaId": "34555484539212038",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "8",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "603",
+        "name": "核燃料与工艺技术",
+        "lemmaId": "34555484706984202",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "602",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555484706984202",
+            "name": "核燃料与工艺技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "603",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "604",
+        "name": "核材料与工艺技术其他学科",
+        "lemmaId": "34555484874756366",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "602",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555484874756366",
+            "name": "核材料与工艺技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "604",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

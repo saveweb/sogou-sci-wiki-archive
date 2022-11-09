@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "751",
+    "name": "火山学",
+    "lemmaId": "34555505359737089",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "585",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "40356353704750856",
+        "name": "岩浆",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "751",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "67187168451309834",
+        "name": "鲍文反应系列",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "751",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555505359737089",
+        "name": "火山学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "751",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

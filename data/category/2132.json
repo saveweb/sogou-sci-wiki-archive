@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2132",
+    "name": "小儿外科学",
+    "lemmaId": "59365957222594566",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2119",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365957222594566",
+        "name": "小儿外科学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2132",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

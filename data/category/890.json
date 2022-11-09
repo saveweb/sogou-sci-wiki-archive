@@ -1,0 +1,511 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "890",
+    "name": "代数学",
+    "lemmaId": "39886061798715151",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 5,
+    "lemmaNum": 19,
+    "allCategoryLemmaNum": 0,
+    "parentId": "5",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "891",
+        "name": "线性代数",
+        "lemmaId": "39886061949709829",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886061949709829",
+            "name": "线性代数",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "891",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "892",
+        "name": "群论",
+        "lemmaId": "19764424826955017",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "893",
+        "name": "域论",
+        "lemmaId": "39886062000041486",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062000041486",
+            "name": "域论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "893",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "894",
+        "name": "李群",
+        "lemmaId": "39886061916155650",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886061916155650",
+            "name": "李群",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "894",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "895",
+        "name": "李代数",
+        "lemmaId": "19764515742688515",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "896",
+        "name": "Kac-Moody代数",
+        "lemmaId": "39886061949710090",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886061949710090",
+            "name": "Kac-Moody代数",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "896",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "897",
+        "name": "环论",
+        "lemmaId": "39886062100704772",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062100704772",
+            "name": "环论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "897",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "23603458946903821",
+            "name": "素理想",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "897",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "898",
+        "name": "模论",
+        "lemmaId": "39886062000041741",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "46441131214409731",
+            "name": "自由模",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "898",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886062000041741",
+            "name": "模论",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "898",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "899",
+        "name": "格论",
+        "lemmaId": "39886062151036429",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062151036429",
+            "name": "格论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "899",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "900",
+        "name": "泛代数理论",
+        "lemmaId": "39886062083927818",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062083927818",
+            "name": "泛代数理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "900",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "901",
+        "name": "范畴论",
+        "lemmaId": "39886062234922499",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062234922499",
+            "name": "范畴论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "901",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "47138671467466760",
+            "name": "阿贝尔范畴",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "901",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "43991861118926599",
+            "name": "加法范畴",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "901",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "902",
+        "name": "同调代数",
+        "lemmaId": "39886062134259468",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062134259468",
+            "name": "同调代数",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "902",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "903",
+        "name": "代数K理论",
+        "lemmaId": "39886062285254150",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062285254150",
+            "name": "代数K理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "903",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "904",
+        "name": "微分代数",
+        "lemmaId": "39886062184591116",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062184591116",
+            "name": "微分代数",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "904",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "905",
+        "name": "代数编码理论",
+        "lemmaId": "39886062335585797",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062335585797",
+            "name": "代数编码理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "905",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "906",
+        "name": "代数学其他学科",
+        "lemmaId": "39886062234922761",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "890",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062234922761",
+            "name": "代数学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "906",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

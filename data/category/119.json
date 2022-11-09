@@ -1,0 +1,194 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "119",
+    "name": "高能物理学",
+    "lemmaId": "19764100942800137",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 8,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "120",
+        "name": "基本粒子物理学",
+        "lemmaId": "19764058982982927",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "119",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "28279907268180231",
+            "name": "正比计数器",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "120",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "20336695228509709",
+            "name": "反物质",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "120",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764058982982927",
+            "name": "基本粒子物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "120",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "121",
+        "name": "宇宙线物理学",
+        "lemmaId": "19764092638078219",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "119",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764092638078219",
+            "name": "宇宙线物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "121",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "122",
+        "name": "粒子加速器物理学",
+        "lemmaId": "19764064603350281",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "119",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764064603350281",
+            "name": "粒子加速器物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "122",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "123",
+        "name": "高能物理实验",
+        "lemmaId": "19764090809361677",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "119",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764090809361677",
+            "name": "高能物理实验",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "123",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "124",
+        "name": "高能物理学其他学科",
+        "lemmaId": "19764063378613512",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "119",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764063378613512",
+            "name": "高能物理学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "124",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

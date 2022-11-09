@@ -1,0 +1,237 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1434",
+    "name": "市政工程",
+    "lemmaId": "39886076914986756",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 10,
+    "allCategoryLemmaNum": 0,
+    "parentId": "850",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1435",
+        "name": "城市给水排水工程",
+        "lemmaId": "39886077065981440",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1434",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886077065981440",
+            "name": "城市给水排水工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1435",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1436",
+        "name": "通风与空调工程",
+        "lemmaId": "39886076965318412",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1434",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076965318412",
+            "name": "通风与空调工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1436",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1437",
+        "name": "供热与供燃气工程",
+        "lemmaId": "39886077116313097",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1434",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886077116313097",
+            "name": "供热与供燃气工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1437",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1438",
+        "name": "电讯管道工程",
+        "lemmaId": "39886077015650057",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1434",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886077015650057",
+            "name": "电讯管道工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1438",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1439",
+        "name": "城市系统工程",
+        "lemmaId": "39886077166644744",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1434",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "69502978544972301",
+            "name": "综合管廊",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1439",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886077166644744",
+            "name": "城市系统工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1439",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1440",
+        "name": "市政工程其他学科",
+        "lemmaId": "39886077065981708",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1434",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "68864096086339851",
+            "name": "挂篮悬臂施工法",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1440",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "68493063223325192",
+            "name": "水泥搅拌桩",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1440",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886077065981708",
+            "name": "市政工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1440",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

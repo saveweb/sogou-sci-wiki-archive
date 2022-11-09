@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1763",
+    "name": "茶学",
+    "lemmaId": "39886086226341378",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1759",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886086226341378",
+        "name": "茶学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1763",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "162",
+    "name": "细胞免疫学",
+    "lemmaId": "19764064368469262",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "157",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "48750671377243909",
+        "name": "CAR-T疗法",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "162",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39236947553578752",
+        "name": "B细胞",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "162",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764064368469262",
+        "name": "细胞免疫学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "162",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

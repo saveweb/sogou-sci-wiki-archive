@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1306",
+    "name": "系统工程方法论",
+    "lemmaId": "39886073358216963",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "856",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1307",
+        "name": "系统建模",
+        "lemmaId": "39886073492434440",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1306",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073492434440",
+            "name": "系统建模",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1307",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1308",
+        "name": "决策分析",
+        "lemmaId": "39886073391771406",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1306",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073391771406",
+            "name": "决策分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1308",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1309",
+        "name": "决策支持系统",
+        "lemmaId": "39886073542766080",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1306",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073542766080",
+            "name": "决策支持系统",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1309",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1310",
+        "name": "管理信息系统",
+        "lemmaId": "39886073458880269",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1306",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073458880269",
+            "name": "管理信息系统",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1310",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1311",
+        "name": "系统工程方法论其他学科",
+        "lemmaId": "39886073609874954",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1306",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073609874954",
+            "name": "系统工程方法论其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1311",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

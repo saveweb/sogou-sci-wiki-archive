@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "357",
+    "name": "软件工程",
+    "lemmaId": "10131",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "350",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "65430700756644107",
+        "name": "瀑布模型",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "357",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "50063772164859649",
+        "name": "面向对象",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "357",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,280 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1400",
+    "name": "土木建筑结构",
+    "lemmaId": "39886075958685443",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 11,
+    "allCategoryLemmaNum": 0,
+    "parentId": "850",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1401",
+        "name": "木结构",
+        "lemmaId": "39886076109680130",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1400",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076109680130",
+            "name": "木结构",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1401",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1402",
+        "name": "砖结构",
+        "lemmaId": "39886076025794316",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1400",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076025794316",
+            "name": "砖结构",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1402",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1403",
+        "name": "金属结构",
+        "lemmaId": "39886076176789002",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1400",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076176789002",
+            "name": "金属结构",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1403",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1404",
+        "name": "混凝土与钢筋混凝土结构",
+        "lemmaId": "39886076076125954",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 3,
+        "lemmaNum": 4,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1400",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "82491476185002240",
+            "name": "框架结构",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1404",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764414357972229",
+            "name": "施工缝",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1404",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "102096808611758856",
+            "name": "混凝土加固技术",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1404",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886076076125954",
+            "name": "混凝土与钢筋混凝土结构",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1404",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1405",
+        "name": "喷锚结构",
+        "lemmaId": "39886076227120646",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1400",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076227120646",
+            "name": "喷锚结构",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1405",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1406",
+        "name": "复合结构",
+        "lemmaId": "19764557501179136",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1400",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1407",
+        "name": "特种结构",
+        "lemmaId": "39886076277452288",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1400",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076277452288",
+            "name": "特种结构",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1407",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1408",
+        "name": "土木建筑结构其他学科",
+        "lemmaId": "39886076176789250",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1400",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076176789250",
+            "name": "土木建筑结构其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1408",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

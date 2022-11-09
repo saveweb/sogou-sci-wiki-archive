@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "417",
+    "name": "胶体化学与界面化学",
+    "lemmaId": "19764066465621262",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "412",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "42262956846640902",
+        "name": "超疏水性",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "417",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "33960041077821707",
+        "name": "吸附",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "417",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "26711146924881421",
+        "name": "胶体",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "417",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "23374414666018312",
+        "name": "气溶胶",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "417",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764066465621262",
+        "name": "胶体化学与界面化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "417",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

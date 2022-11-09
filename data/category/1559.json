@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1559",
+    "name": "水利管理",
+    "lemmaId": "39886080555642375",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "864",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1560",
+        "name": "水利工程管理",
+        "lemmaId": "39886080454979330",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1559",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080454979330",
+            "name": "水利工程管理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1560",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1561",
+        "name": "水利工程检查观测",
+        "lemmaId": "39886080605974026",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1559",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080605974026",
+            "name": "水利工程检查观测",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1561",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1562",
+        "name": "水利管理自动化系统",
+        "lemmaId": "39886080505310981",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1559",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080505310981",
+            "name": "水利管理自动化系统",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1562",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1563",
+        "name": "水利管理其他学科",
+        "lemmaId": "39886080656305666",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1559",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080656305666",
+            "name": "水利管理其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1563",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

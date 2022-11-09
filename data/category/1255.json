@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1255",
+    "name": "运动宇宙学",
+    "lemmaId": "39886072099925506",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1252",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886072099925506",
+        "name": "运动宇宙学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1255",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1458",
+    "name": "天然气水合物能",
+    "lemmaId": "39886077602852611",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1448",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886077602852611",
+        "name": "天然气水合物能",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1458",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

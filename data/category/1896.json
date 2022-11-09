@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1896",
+    "name": "水产化学",
+    "lemmaId": "39886089917329166",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1895",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886089917329166",
+        "name": "水产化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1896",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

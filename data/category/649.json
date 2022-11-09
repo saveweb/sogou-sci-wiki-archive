@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "649",
+    "name": "前寒武纪地质学",
+    "lemmaId": "34555492458057998",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "585",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555492458057998",
+        "name": "前寒武纪地质学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "649",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,338 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1038",
+    "name": "航空航天基础学科",
+    "lemmaId": "39886065825246976",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 13,
+    "allCategoryLemmaNum": 0,
+    "parentId": "9",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "42",
+        "name": "热力学",
+        "lemmaId": "19764057456256262",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 4,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764418871043329",
+            "name": "气体常数",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "42",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764057456256262",
+            "name": "热力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "42",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39317885692177924",
+            "name": "做功",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "42",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "33110171571995406",
+            "name": "化学势",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "42",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "44",
+        "name": "传热学",
+        "lemmaId": "19764065911973125",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764065911973125",
+            "name": "传热学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "44",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "452",
+        "name": "燃烧学",
+        "lemmaId": "19764067002492171",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764067002492171",
+            "name": "燃烧学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "452",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1039",
+        "name": "大气层飞行力学",
+        "lemmaId": "39886065976241669",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886065976241669",
+            "name": "大气层飞行力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1039",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1040",
+        "name": "空气动力学",
+        "lemmaId": "19764413569443084",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1041",
+        "name": "航天动力学",
+        "lemmaId": "39886066026573325",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066026573325",
+            "name": "航天动力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1041",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1042",
+        "name": "飞行器结构力学",
+        "lemmaId": "39886065925910277",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886065925910277",
+            "name": "飞行器结构力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1042",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1043",
+        "name": "航天摩擦学",
+        "lemmaId": "39886066076904965",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066076904965",
+            "name": "航天摩擦学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1043",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1044",
+        "name": "飞行原理",
+        "lemmaId": "39886065993019139",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886065993019139",
+            "name": "飞行原理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1044",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1045",
+        "name": "航空航天基础学科其他学科",
+        "lemmaId": "39886066144013827",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1038",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066144013827",
+            "name": "航空航天基础学科其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1045",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

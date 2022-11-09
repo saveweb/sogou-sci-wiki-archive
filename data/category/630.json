@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "630",
+    "name": "同位素技术",
+    "lemmaId": "34555489404604686",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "8",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "631",
+        "name": "同位素分离技术",
+        "lemmaId": "34555489572376847",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "630",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555489572376847",
+            "name": "同位素分离技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "631",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "632",
+        "name": "同位素制备技术",
+        "lemmaId": "34555489756926219",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "630",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555489756926219",
+            "name": "同位素制备技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "632",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "633",
+        "name": "同位素应用技术",
+        "lemmaId": "34555489941475598",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "630",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555489941475598",
+            "name": "同位素应用技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "633",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "634",
+        "name": "同位素技术其他学科",
+        "lemmaId": "34555490126024966",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "630",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555490126024966",
+            "name": "同位素技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "634",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

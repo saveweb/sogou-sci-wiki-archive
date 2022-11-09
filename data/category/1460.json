@@ -1,0 +1,194 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1460",
+    "name": "二次能源",
+    "lemmaId": "39886077653184263",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "868",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1461",
+        "name": "煤气能",
+        "lemmaId": "39886077787401738",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1460",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886077787401738",
+            "name": "煤气能",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1461",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1462",
+        "name": "电能",
+        "lemmaId": "19764406657230080",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1460",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1463",
+        "name": "燕汽能",
+        "lemmaId": "39886077854510607",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1460",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886077854510607",
+            "name": "燕汽能",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1463",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1464",
+        "name": "沼气能",
+        "lemmaId": "39886077787401988",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1460",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886077787401988",
+            "name": "沼气能",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1464",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1465",
+        "name": "氢能",
+        "lemmaId": "19764429826565389",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1460",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1466",
+        "name": "激光能",
+        "lemmaId": "39886077837733639",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1460",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886077837733639",
+            "name": "激光能",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1466",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1467",
+        "name": "二次能源其他学科",
+        "lemmaId": "39886077988728335",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1460",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886077988728335",
+            "name": "二次能源其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1467",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

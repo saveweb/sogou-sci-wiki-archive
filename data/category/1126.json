@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1126",
+    "name": "无线通信技术",
+    "lemmaId": "19764483631097097",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1124",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "60611271497678595",
+        "name": "低功耗广域网",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1126",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

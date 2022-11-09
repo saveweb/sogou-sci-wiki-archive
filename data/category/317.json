@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "317",
+    "name": "生物工程其他学科",
+    "lemmaId": "19764070609593612",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "312",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764070609593612",
+        "name": "生物工程其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "317",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "49",
+    "name": "非线性光学",
+    "lemmaId": "19764084987667723",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "46",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764084987667723",
+        "name": "非线性光学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "49",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "32955620478960646",
+        "name": "介电常数",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "49",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "27993717759555085",
+        "name": "可饱和吸收",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "49",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

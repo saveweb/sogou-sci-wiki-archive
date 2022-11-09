@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "831",
+    "name": "环境影响评估",
+    "lemmaId": "34555518781509888",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "591",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "49660244065822214",
+        "name": "环境影响评价",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "831",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555518781509888",
+        "name": "环境影响评估",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "831",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

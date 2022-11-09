@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "521",
+    "name": "仪器仪表材料",
+    "lemmaId": "19764074082477322",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "519",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764074082477322",
+        "name": "仪器仪表材料",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "521",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

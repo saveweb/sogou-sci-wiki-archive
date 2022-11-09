@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "377",
+    "name": "计算机其他学科",
+    "lemmaId": "19764095708308750",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764483412993292",
+        "name": "osi七层模型",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "377",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "60322755274407680",
+        "name": "窄带物联网",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "377",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "36877864942983681",
+        "name": "边缘检测",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "377",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764095708308750",
+        "name": "计算机其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "377",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

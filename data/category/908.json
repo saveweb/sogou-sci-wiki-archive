@@ -1,0 +1,452 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "908",
+    "name": "几何学",
+    "lemmaId": "39886062285254410",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 11,
+    "lemmaNum": 23,
+    "allCategoryLemmaNum": 0,
+    "parentId": "5",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "909",
+        "name": "几何学基础",
+        "lemmaId": "39886062436249090",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 6,
+        "lemmaNum": 7,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764402949465359",
+            "name": "圆柱",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "909",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764601507816704",
+            "name": "几何图形",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "909",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "45855837096283910",
+            "name": "反演变换",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "909",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40925839306551052",
+            "name": "切割线定理",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "909",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40494689551412996",
+            "name": "剖视图",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "909",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40382289636519433",
+            "name": "梯形中位线定理",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "909",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886062436249090",
+            "name": "几何学基础",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "909",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "910",
+        "name": "欧氏几何学",
+        "lemmaId": "39886062335586053",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062335586053",
+            "name": "欧氏几何学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "910",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "911",
+        "name": "非欧几何学",
+        "lemmaId": "39886062486580736",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062486580736",
+            "name": "非欧几何学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "911",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "912",
+        "name": "球面几何学",
+        "lemmaId": "39886062402694922",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062402694922",
+            "name": "球面几何学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "912",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "913",
+        "name": "向量和张量分析",
+        "lemmaId": "39886062536912389",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062536912389",
+            "name": "向量和张量分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "913",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "914",
+        "name": "仿射几何学",
+        "lemmaId": "39886062453026566",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062453026566",
+            "name": "仿射几何学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "914",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "915",
+        "name": "射影几何学",
+        "lemmaId": "39886062587244044",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "45231912968556302",
+            "name": "布列安桑定理",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "915",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "44197568594349068",
+            "name": "极点与极线",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "915",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886062587244044",
+            "name": "射影几何学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "915",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "916",
+        "name": "微分几何学",
+        "lemmaId": "39886062503358219",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062503358219",
+            "name": "微分几何学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "916",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "917",
+        "name": "分数维几何",
+        "lemmaId": "39886062637575680",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062637575680",
+            "name": "分数维几何",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "917",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "918",
+        "name": "计算几何学",
+        "lemmaId": "39886062553689856",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062553689856",
+            "name": "计算几何学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "918",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "919",
+        "name": "几何学其他学科",
+        "lemmaId": "39886062687907343",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "908",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886062687907343",
+            "name": "几何学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "919",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

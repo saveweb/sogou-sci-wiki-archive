@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1568",
+    "name": "防洪工程其他学科",
+    "lemmaId": "39886080689860357",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1564",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886080689860357",
+        "name": "防洪工程其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1568",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

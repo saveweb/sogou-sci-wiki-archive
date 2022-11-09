@@ -1,0 +1,453 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "46",
+    "name": "光学",
+    "lemmaId": "19764065375102219",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 9,
+    "lemmaNum": 45,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "47",
+        "name": "几何光学",
+        "lemmaId": "19764058379003143",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764528526927108",
+            "name": "四分之一波片",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "47",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764058379003143",
+            "name": "几何光学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "47",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "48",
+        "name": "物理光学",
+        "lemmaId": "19764075290436867",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764075290436867",
+            "name": "物理光学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "48",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "49",
+        "name": "非线性光学",
+        "lemmaId": "19764084987667723",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764084987667723",
+            "name": "非线性光学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "49",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "32955620478960646",
+            "name": "介电常数",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "49",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "27993717759555085",
+            "name": "可饱和吸收",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "49",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "50",
+        "name": "光谱学",
+        "lemmaId": "19764093275612423",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764093275612423",
+            "name": "光谱学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "50",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "51",
+        "name": "量子光学",
+        "lemmaId": "19764058026681609",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764058026681609",
+            "name": "量子光学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "51",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "52",
+        "name": "信息光学",
+        "lemmaId": "19764057825355009",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764057825355009",
+            "name": "信息光学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "52",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "53",
+        "name": "导波光学",
+        "lemmaId": "19764082185872654",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764082185872654",
+            "name": "导波光学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "53",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "54",
+        "name": "发光学",
+        "lemmaId": "19764098560435465",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764098560435465",
+            "name": "发光学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "54",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "55",
+        "name": "红外物理",
+        "lemmaId": "19764100724696330",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764455076275462",
+            "name": "太赫兹波",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "55",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764100724696330",
+            "name": "红外物理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "55",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "56",
+        "name": "激光物理",
+        "lemmaId": "19764066297849091",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764427830076674",
+            "name": "X射线",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "56",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764066297849091",
+            "name": "激光物理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "56",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "57",
+        "name": "应用光学",
+        "lemmaId": "19764072203429126",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34119522810089986",
+            "name": "瞬态吸收谱技术",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "57",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764072203429126",
+            "name": "应用光学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "57",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "58",
+        "name": "光学其他学科",
+        "lemmaId": "19764064083256581",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "46",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764064083256581",
+            "name": "光学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "58",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

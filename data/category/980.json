@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "980",
+    "name": "偏微分方程数值解",
+    "lemmaId": "39886064264965899",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "977",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886064264965899",
+        "name": "偏微分方程数值解",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "980",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

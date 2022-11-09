@@ -1,0 +1,266 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1221",
+    "name": "天体物理学",
+    "lemmaId": "10211",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 10,
+    "allCategoryLemmaNum": 0,
+    "parentId": "19",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1184",
+        "name": "等离子体动力学",
+        "lemmaId": "39886069751115520",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1221",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886069751115520",
+            "name": "等离子体动力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1184",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1222",
+        "name": "理论天体物理学",
+        "lemmaId": "39886071042961157",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1221",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "74592448956936716",
+            "name": "千新星",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1222",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886071042961157",
+            "name": "理论天体物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1222",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1223",
+        "name": "相对论天体物理学",
+        "lemmaId": "39886071210733062",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1221",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886071210733062",
+            "name": "相对论天体物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1223",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1224",
+        "name": "磁流体力学",
+        "lemmaId": "39886071110070027",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1221",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886071110070027",
+            "name": "磁流体力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1224",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1225",
+        "name": "高能天体物理学",
+        "lemmaId": "39886071261064711",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1221",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "103722653734486784",
+            "name": "伽马射线暴",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1225",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "73397797361103106",
+            "name": "宇宙线",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1225",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886071261064711",
+            "name": "高能天体物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1225",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1226",
+        "name": "实测天体物理学",
+        "lemmaId": "39886071160401672",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1221",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886071160401672",
+            "name": "实测天体物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1226",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1227",
+        "name": "天体物理学其他学科",
+        "lemmaId": "39886071294619141",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1221",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886071294619141",
+            "name": "天体物理学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1227",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

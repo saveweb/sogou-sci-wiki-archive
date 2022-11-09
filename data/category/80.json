@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "80",
+    "name": "半导体物理学",
+    "lemmaId": "19764070559261963",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "77",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764395500381451",
+        "name": "半导体",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "80",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764070559261963",
+        "name": "半导体物理学",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "80",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

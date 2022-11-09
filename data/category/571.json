@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "571",
+    "name": "复合材料",
+    "lemmaId": "19764061214352644",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "7",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "572",
+        "name": "金属基复合材料",
+        "lemmaId": "19764058144122113",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "571",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764058144122113",
+            "name": "金属基复合材料",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "572",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "573",
+        "name": "无机非金属基复合材料",
+        "lemmaId": "19764060140610821",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "571",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764060140610821",
+            "name": "无机非金属基复合材料",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "573",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "574",
+        "name": "聚合物基复合材料",
+        "lemmaId": "19764066952160526",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "571",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764066952160526",
+            "name": "聚合物基复合材料",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "574",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "575",
+        "name": "复合材料其他学科",
+        "lemmaId": "19764062959183107",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "571",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764062959183107",
+            "name": "复合材料其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "575",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

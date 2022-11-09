@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "182",
+    "name": "特殊环境生理学",
+    "lemmaId": "19764100456260873",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "165",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764100456260873",
+        "name": "特殊环境生理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "182",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

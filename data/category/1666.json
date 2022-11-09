@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1666",
+    "name": "全球定位系统",
+    "lemmaId": "30921169179786504",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1664",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "197",
+    "name": "毒理遗传学",
+    "lemmaId": "19764085558093066",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "187",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764085558093066",
+        "name": "毒理遗传学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "197",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

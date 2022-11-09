@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "559",
+    "name": "玻璃与非晶无机非金属材料",
+    "lemmaId": "19764092218647821",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "558",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764578606916873",
+        "name": "镀膜玻璃",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "559",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764092218647821",
+        "name": "玻璃与非晶无机非金属材料",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "559",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "899",
+    "name": "格论",
+    "lemmaId": "39886062151036429",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "890",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886062151036429",
+        "name": "格论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "899",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

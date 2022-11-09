@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2108",
+    "name": "呼吸病学",
+    "lemmaId": "59365956517951502",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2106",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365956517951502",
+        "name": "呼吸病学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2108",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

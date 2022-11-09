@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1125",
+    "name": "有线通信技术",
+    "lemmaId": "39886068274720267",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1124",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886068274720267",
+        "name": "有线通信技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1125",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

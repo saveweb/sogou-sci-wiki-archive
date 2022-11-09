@@ -1,0 +1,381 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1096",
+    "name": "电子技术",
+    "lemmaId": "19764059066869007",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 5,
+    "lemmaNum": 14,
+    "allCategoryLemmaNum": 0,
+    "parentId": "14",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1097",
+        "name": "电子电路",
+        "lemmaId": "10655",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 3,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764477725517064",
+            "name": "绝缘栅双极晶体管",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1097",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764570134422795",
+            "name": "零漂",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1097",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40748733410864650",
+            "name": "bms",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1097",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1098",
+        "name": "天线电波传播",
+        "lemmaId": "39886067452636931",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067452636931",
+            "name": "天线电波传播",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1098",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1099",
+        "name": "无线电技术",
+        "lemmaId": "19764552451237133",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1100",
+        "name": "微波技术",
+        "lemmaId": "39886067502968591",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764409761015047",
+            "name": "毫米波",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1100",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886067502968591",
+            "name": "微波技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1100",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1101",
+        "name": "敏感电子学",
+        "lemmaId": "39886067637186051",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067637186051",
+            "name": "敏感电子学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1101",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1102",
+        "name": "微电子学",
+        "lemmaId": "19764555991229708",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1103",
+        "name": "仿真技术",
+        "lemmaId": "39886067687517704",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067687517704",
+            "name": "仿真技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1103",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1104",
+        "name": "超导电子技术",
+        "lemmaId": "39886067586854663",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067586854663",
+            "name": "超导电子技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1104",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1105",
+        "name": "电子元件与器件技术",
+        "lemmaId": "39886067737849346",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067737849346",
+            "name": "电子元件与器件技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1105",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1106",
+        "name": "电子柬、离子束技术",
+        "lemmaId": "39886067637186318",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067637186318",
+            "name": "电子柬、离子束技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1106",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1107",
+        "name": "红外与夜视技术",
+        "lemmaId": "39886067788180999",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067788180999",
+            "name": "红外与夜视技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1107",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1108",
+        "name": "电子技术其他学科",
+        "lemmaId": "39886067704295178",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1096",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067704295178",
+            "name": "电子技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1108",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1214",
+    "name": "摄动理论",
+    "lemmaId": "39886070808080142",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1213",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886070808080142",
+        "name": "摄动理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1214",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

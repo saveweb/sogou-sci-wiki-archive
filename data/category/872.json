@@ -1,0 +1,238 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "872",
+    "name": "数理逻辑与数学基础",
+    "lemmaId": "39886061328953102",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 10,
+    "allCategoryLemmaNum": 0,
+    "parentId": "5",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "873",
+        "name": "演绎逻辑学",
+        "lemmaId": "39886061479947777",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "872",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886061479947777",
+            "name": "演绎逻辑学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "873",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "874",
+        "name": "证明论",
+        "lemmaId": "39886061379284738",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "872",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764540975621382",
+            "name": "错位相减法",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "874",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886061379284738",
+            "name": "证明论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "874",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "875",
+        "name": "递归论",
+        "lemmaId": "39886061513502215",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "872",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886061513502215",
+            "name": "递归论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "875",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "876",
+        "name": "模型论",
+        "lemmaId": "39886061429616394",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "872",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886061429616394",
+            "name": "模型论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "876",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "877",
+        "name": "公理集合论",
+        "lemmaId": "39886061563833858",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "872",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886061563833858",
+            "name": "公理集合论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "877",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "878",
+        "name": "数学基础",
+        "lemmaId": "19764479822669067",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "872",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "40383288300301832",
+            "name": "加法",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "878",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "879",
+        "name": "数理逻辑与数学基础其他学科",
+        "lemmaId": "39886061630942723",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "872",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886061630942723",
+            "name": "数理逻辑与数学基础其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "879",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

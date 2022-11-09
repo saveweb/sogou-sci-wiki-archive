@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1746",
+    "name": "农业基础学科其他学科",
+    "lemmaId": "39886085622361858",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1737",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886085622361858",
+        "name": "农业基础学科其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1746",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

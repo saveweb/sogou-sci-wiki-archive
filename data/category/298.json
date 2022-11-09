@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "298",
+    "name": "病毒生态学",
+    "lemmaId": "19764061667337484",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "295",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764061667337484",
+        "name": "病毒生态学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "298",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

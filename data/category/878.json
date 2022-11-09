@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "878",
+    "name": "数学基础",
+    "lemmaId": "19764479822669067",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "872",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "40383288300301832",
+        "name": "加法",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "878",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,311 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "30",
+    "name": "声学",
+    "lemmaId": "10575",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 10,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "31",
+        "name": "物理声学",
+        "lemmaId": "19764071532340486",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764071532340486",
+            "name": "物理声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "31",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "32",
+        "name": "非线性声学",
+        "lemmaId": "19764085105108235",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764085105108235",
+            "name": "非线性声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "32",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "33",
+        "name": "量子声学",
+        "lemmaId": "19764083528049921",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764083528049921",
+            "name": "量子声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "33",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "34",
+        "name": "超声学",
+        "lemmaId": "19764060258051328",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764060258051328",
+            "name": "超声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "34",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "35",
+        "name": "水声学",
+        "lemmaId": "19764074367689986",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764074367689986",
+            "name": "水声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "35",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "36",
+        "name": "电声学",
+        "lemmaId": "19764058899096841",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764058899096841",
+            "name": "电声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "36",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "37",
+        "name": "环境声学",
+        "lemmaId": "19764084299801868",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764084299801868",
+            "name": "环境声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "37",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "38",
+        "name": "语言声学",
+        "lemmaId": "19764089165194501",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764089165194501",
+            "name": "语言声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "38",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "39",
+        "name": "生理声学",
+        "lemmaId": "19764065677092111",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764065677092111",
+            "name": "生理声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "39",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "40",
+        "name": "声学其他学科",
+        "lemmaId": "19764084417242369",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "30",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764084417242369",
+            "name": "声学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "40",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

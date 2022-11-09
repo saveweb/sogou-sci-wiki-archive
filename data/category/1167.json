@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1167",
+    "name": "非线性振动力学",
+    "lemmaId": "39886069415570947",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1165",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886069415570947",
+        "name": "非线性振动力学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1167",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

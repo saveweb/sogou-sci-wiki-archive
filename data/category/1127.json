@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1127",
+    "name": "光纤通信技术",
+    "lemmaId": "39886068325051916",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1124",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "41030944940912397",
+        "name": "光交换技术",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1127",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40944364624572166",
+        "name": "雪崩光电二极管",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1127",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40922734129081860",
+        "name": "同步数字系列SDH",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1127",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886068325051916",
+        "name": "光纤通信技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1127",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,195 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1759",
+    "name": "园艺学",
+    "lemmaId": "39886086108900866",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "857",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1760",
+        "name": "果树学",
+        "lemmaId": "39886086008237831",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1759",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086008237831",
+            "name": "果树学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1760",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1761",
+        "name": "瓜果学",
+        "lemmaId": "39886086159232520",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1759",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086159232520",
+            "name": "瓜果学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1761",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1762",
+        "name": "蔬菜学",
+        "lemmaId": "39886086075346702",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1759",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086075346702",
+            "name": "蔬菜学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1762",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1763",
+        "name": "茶学",
+        "lemmaId": "39886086226341378",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1759",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086226341378",
+            "name": "茶学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1763",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1764",
+        "name": "观赏园艺学",
+        "lemmaId": "39886086142455558",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1759",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086142455558",
+            "name": "观赏园艺学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1764",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1765",
+        "name": "园艺学其他学科",
+        "lemmaId": "39886086293450247",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1759",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086293450247",
+            "name": "园艺学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1765",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

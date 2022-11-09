@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "360",
+    "name": "计算机元器件",
+    "lemmaId": "19764076699723023",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "359",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764076699723023",
+        "name": "计算机元器件",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "360",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

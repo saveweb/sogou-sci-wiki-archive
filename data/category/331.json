@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "331",
+    "name": "人工智能理论",
+    "lemmaId": "19764085876860161",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "330",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "44003176596143620",
+        "name": "多智能体",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "331",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "42090536340844045",
+        "name": "智能体",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "331",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764085876860161",
+        "name": "人工智能理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "331",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

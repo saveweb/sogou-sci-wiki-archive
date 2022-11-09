@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1386",
+    "name": "土木建筑工程测量",
+    "lemmaId": "39886075572809472",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "850",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886075572809472",
+        "name": "土木建筑工程测量",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1386",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

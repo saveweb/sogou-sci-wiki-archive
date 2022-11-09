@@ -1,0 +1,311 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1967",
+    "name": "纺织技术",
+    "lemmaId": "39886092064812554",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 11,
+    "allCategoryLemmaNum": 0,
+    "parentId": "867",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1968",
+        "name": "纺织品结构与设计",
+        "lemmaId": "39886091980926723",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091980926723",
+            "name": "纺织品结构与设计",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1968",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1969",
+        "name": "棉纺学",
+        "lemmaId": "39886092131921417",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092131921417",
+            "name": "棉纺学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1969",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1970",
+        "name": "棉织学",
+        "lemmaId": "39886092031258373",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092031258373",
+            "name": "棉织学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1970",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1971",
+        "name": "麻纺织",
+        "lemmaId": "39886092182253070",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092182253070",
+            "name": "麻纺织",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1971",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1972",
+        "name": "毛纺织",
+        "lemmaId": "39886092115144448",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092115144448",
+            "name": "毛纺织",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1972",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1973",
+        "name": "丝纺织",
+        "lemmaId": "39886092266139150",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092266139150",
+            "name": "丝纺织",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1973",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1974",
+        "name": "化学纤维纺织",
+        "lemmaId": "39886092165476098",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092165476098",
+            "name": "化学纤维纺织",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1974",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1975",
+        "name": "新型纺纱、无纺布与特种织物",
+        "lemmaId": "39886092316470798",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092316470798",
+            "name": "新型纺纱、无纺布与特种织物",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1975",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1976",
+        "name": "针织",
+        "lemmaId": "39886092215807748",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092215807748",
+            "name": "针织",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1976",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1977",
+        "name": "纺织技术其他学科",
+        "lemmaId": "39886092366802446",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1967",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886092366802446",
+            "name": "纺织技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1977",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

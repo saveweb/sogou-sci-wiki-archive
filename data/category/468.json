@@ -1,0 +1,452 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "468",
+    "name": "电气工程",
+    "lemmaId": "15276454182912522",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 10,
+    "lemmaNum": 76,
+    "allCategoryLemmaNum": 0,
+    "parentId": "11",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "469",
+        "name": "电工新理论与电磁新技术",
+        "lemmaId": "19764061835109632",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764061835109632",
+            "name": "电工新理论与电磁新技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "469",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "470",
+        "name": "电路理论",
+        "lemmaId": "19764065861641476",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "41039116300742414",
+            "name": "交流电",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "470",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764065861641476",
+            "name": "电路理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "470",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "471",
+        "name": "电气测量技术及其仪器仪表",
+        "lemmaId": "19764091178460431",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764091178460431",
+            "name": "电气测量技术及其仪器仪表",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "471",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "472",
+        "name": "电机与电力拖动",
+        "lemmaId": "19764061063357699",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 4,
+        "lemmaNum": 5,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "78868132185321730",
+            "name": "永磁同步电机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "472",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "57442311600142595",
+            "name": "步进电机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "472",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "49327453524502022",
+            "name": "转差率",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "472",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39062017025273600",
+            "name": "电机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "472",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764061063357699",
+            "name": "电机与电力拖动",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "472",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "473",
+        "name": "电器学",
+        "lemmaId": "19764093829260557",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "23121729526181640",
+            "name": "高压断路器",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "473",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764093829260557",
+            "name": "电器学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "473",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "474",
+        "name": "电力电子技术",
+        "lemmaId": "19764083628713217",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34803221306300161",
+            "name": "功率半导体器件",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "474",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764083628713217",
+            "name": "电力电子技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "474",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "475",
+        "name": "高电压工程",
+        "lemmaId": "19764082840184075",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764412747359488",
+            "name": "变电站",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "475",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764082840184075",
+            "name": "高电压工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "475",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "476",
+        "name": "绝缘技术",
+        "lemmaId": "19764069854618886",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764069854618886",
+            "name": "绝缘技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "476",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "477",
+        "name": "电力系统及其自动化",
+        "lemmaId": "19764059519853825",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764059519853825",
+            "name": "电力系统及其自动化",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "477",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "478",
+        "name": "电加工技术",
+        "lemmaId": "19764084887004428",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764084887004428",
+            "name": "电加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "478",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "479",
+        "name": "电气工程其他学科",
+        "lemmaId": "19764058177676553",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "468",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764058177676553",
+            "name": "电气工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "479",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

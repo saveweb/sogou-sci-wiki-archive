@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1189",
+    "name": "辐射流体力学",
+    "lemmaId": "39886070002773507",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1174",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886070002773507",
+        "name": "辐射流体力学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1189",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

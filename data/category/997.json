@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "997",
+    "name": "数理统计学",
+    "lemmaId": "19764595484796172",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "5",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "998",
+        "name": "抽样理论",
+        "lemmaId": "39886064751505158",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886064751505158",
+            "name": "抽样理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "998",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "999",
+        "name": "假设检验",
+        "lemmaId": "19764408351728906",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1000",
+        "name": "非参数统计",
+        "lemmaId": "19764524013856010",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1001",
+        "name": "方差分析",
+        "lemmaId": "19764404610409728",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1002",
+        "name": "相关回归分析",
+        "lemmaId": "39886064835391245",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886064835391245",
+            "name": "相关回归分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1002",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1003",
+        "name": "统计推断",
+        "lemmaId": "39886064986385921",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886064986385921",
+            "name": "统计推断",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1003",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1004",
+        "name": "贝叶斯统计",
+        "lemmaId": "19775183569036558",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1005",
+        "name": "试验设计",
+        "lemmaId": "19764549481669901",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1006",
+        "name": "多元分析",
+        "lemmaId": "39886064936054543",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886064936054543",
+            "name": "多元分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1006",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1007",
+        "name": "统计判决理论",
+        "lemmaId": "39886065087049217",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886065087049217",
+            "name": "统计判决理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1007",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1008",
+        "name": "时间序列分析",
+        "lemmaId": "19764419777012999",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1009",
+        "name": "数理统计学其他学科",
+        "lemmaId": "39886065154158081",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "997",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886065154158081",
+            "name": "数理统计学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1009",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2151",
+    "name": "口腔影像诊断学",
+    "lemmaId": "59365957776242947",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2147",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365957776242947",
+        "name": "口腔影像诊断学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2151",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,383 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1773",
+    "name": "土壤学",
+    "lemmaId": "39886086494776843",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 13,
+    "allCategoryLemmaNum": 0,
+    "parentId": "857",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "720",
+        "name": "土壤地理学",
+        "lemmaId": "34555501500977415",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555501500977415",
+            "name": "土壤地理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "720",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1774",
+        "name": "土壤物理学",
+        "lemmaId": "39886086410891020",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086410891020",
+            "name": "土壤物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1774",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1775",
+        "name": "土壤化学",
+        "lemmaId": "39886086545108480",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086545108480",
+            "name": "土壤化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1775",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1776",
+        "name": "土壤生物学",
+        "lemmaId": "39886086461222665",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086461222665",
+            "name": "土壤生物学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1776",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1777",
+        "name": "土壤生态学",
+        "lemmaId": "39886086612217349",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086612217349",
+            "name": "土壤生态学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1777",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1778",
+        "name": "土壤耕作学",
+        "lemmaId": "39886086511554312",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086511554312",
+            "name": "土壤耕作学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1778",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1779",
+        "name": "土壤改良学",
+        "lemmaId": "39886086662549005",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086662549005",
+            "name": "土壤改良学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1779",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1780",
+        "name": "土壤肥料学",
+        "lemmaId": "39886086561885967",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086561885967",
+            "name": "土壤肥料学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1780",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1781",
+        "name": "土壤分类学",
+        "lemmaId": "39886086712880655",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086712880655",
+            "name": "土壤分类学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1781",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1782",
+        "name": "土壤环境学",
+        "lemmaId": "19764060073501962",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1783",
+        "name": "土壤调查与评价",
+        "lemmaId": "39886086763212299",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086763212299",
+            "name": "土壤调查与评价",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1783",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1784",
+        "name": "土壤修复",
+        "lemmaId": "39886086679326472",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086679326472",
+            "name": "土壤修复",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1784",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1785",
+        "name": "土壤学其他学科",
+        "lemmaId": "39886086813543941",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1773",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086813543941",
+            "name": "土壤学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1785",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

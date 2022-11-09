@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1132",
+    "name": "邮政",
+    "lemmaId": "39886068325052175",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1124",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886068325052175",
+        "name": "邮政",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1132",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

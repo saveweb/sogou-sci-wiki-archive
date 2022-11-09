@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1751",
+    "name": "作物生态学",
+    "lemmaId": "39886085857242629",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1747",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886085857242629",
+        "name": "作物生态学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1751",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

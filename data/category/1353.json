@@ -1,0 +1,121 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1353",
+    "name": "电化学工程",
+    "lemmaId": "39886074767502860",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "859",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1354",
+        "name": "电解",
+        "lemmaId": "19764422931129603",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1353",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1355",
+        "name": "电镀",
+        "lemmaId": "19764407110214923",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1353",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1356",
+        "name": "电池",
+        "lemmaId": "19764393235457285",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1353",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1357",
+        "name": "腐蚀与防腐化学",
+        "lemmaId": "39886074901720589",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1353",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074901720589",
+            "name": "腐蚀与防腐化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1357",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1358",
+        "name": "电化学工程其他学科",
+        "lemmaId": "39886074801057544",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1353",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074801057544",
+            "name": "电化学工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1358",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

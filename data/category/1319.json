@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1319",
+    "name": "化工测量技术与仪器仪表",
+    "lemmaId": "39886073844755972",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "859",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886073844755972",
+        "name": "化工测量技术与仪器仪表",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1319",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

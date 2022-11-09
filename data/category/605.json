@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "605",
+    "name": "粒子加速器",
+    "lemmaId": "10466",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "8",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "122",
+        "name": "粒子加速器物理学",
+        "lemmaId": "19764064603350281",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "605",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764064603350281",
+            "name": "粒子加速器物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "122",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "607",
+        "name": "粒子加速器工程技术",
+        "lemmaId": "34555485310963968",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "605",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555485310963968",
+            "name": "粒子加速器工程技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "607",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "608",
+        "name": "粒子加速器应用",
+        "lemmaId": "34555485478736135",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "605",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555485478736135",
+            "name": "粒子加速器应用",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "608",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "609",
+        "name": "粒子加速器其他学科",
+        "lemmaId": "34555485680062731",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "605",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555485680062731",
+            "name": "粒子加速器其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "609",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "132",
+    "name": "理论生物物理学",
+    "lemmaId": "19764100137493774",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "129",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764100137493774",
+        "name": "理论生物物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "132",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

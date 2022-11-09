@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "366",
+    "name": "计算机工程其他学科",
+    "lemmaId": "19764097704797453",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "359",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764097704797453",
+        "name": "计算机工程其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "366",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

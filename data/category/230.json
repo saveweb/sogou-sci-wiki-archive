@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "230",
+    "name": "比较神经生物学",
+    "lemmaId": "19764072908072206",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "222",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764072908072206",
+        "name": "比较神经生物学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "230",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

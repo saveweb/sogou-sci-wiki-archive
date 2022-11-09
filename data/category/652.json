@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "652",
+    "name": "稳定同位素地球化学",
+    "lemmaId": "34555492994928911",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "650",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555492994928911",
+        "name": "稳定同位素地球化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "652",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "33640914186421002",
+        "name": "稳定同位素分馏",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "652",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

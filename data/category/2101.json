@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2101",
+    "name": "麻醉学",
+    "lemmaId": "59365956266293514",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2086",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "2102",
+        "name": "麻醉生理学",
+        "lemmaId": "59365956299847688",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2101",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365956299847688",
+            "name": "麻醉生理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2102",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2103",
+        "name": "麻醉药理学",
+        "lemmaId": "59365956316625164",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2101",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365956316625164",
+            "name": "麻醉药理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2103",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2104",
+        "name": "麻醉应用解剖学",
+        "lemmaId": "59365956366956554",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2101",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365956366956554",
+            "name": "麻醉应用解剖学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2104",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2105",
+        "name": "麻醉学其他学科",
+        "lemmaId": "59365956400511236",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2101",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365956400511236",
+            "name": "麻醉学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2105",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

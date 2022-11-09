@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "641",
+    "name": "核科学技术其他学科",
+    "lemmaId": "34555491300430089",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "8",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555491300430089",
+        "name": "核科学技术其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "641",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "26699792507745807",
+        "name": "碘-129",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "641",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

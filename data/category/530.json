@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "530",
+    "name": "流体传动与控制",
+    "lemmaId": "19764057473033486",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "6",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39728447068597763",
+        "name": "膨胀阀",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "530",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39060516051643913",
+        "name": "润滑油",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "530",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764057473033486",
+        "name": "流体传动与控制",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "530",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

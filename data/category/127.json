@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "127",
+    "name": "物理学其他学科",
+    "lemmaId": "19764072941626624",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764395131282689",
+        "name": "游标卡尺",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "127",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39504789196795660",
+        "name": "人造地球卫星",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "127",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764072941626624",
+        "name": "物理学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "127",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

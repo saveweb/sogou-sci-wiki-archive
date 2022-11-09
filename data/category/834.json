@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "834",
+    "name": "天然产物化学",
+    "lemmaId": "34555519351935244",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "832",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "41185449611390477",
+        "name": "木脂素",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "834",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555519351935244",
+        "name": "天然产物化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "834",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34215865352212993",
+        "name": "三七皂苷",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "834",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "33572018448253701",
+        "name": "银杏内酯",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "834",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "33254688111477763",
+        "name": "槲皮素",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "834",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

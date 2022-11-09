@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2116",
+    "name": "感染性疾病学",
+    "lemmaId": "59365956752832525",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2106",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365956752832525",
+        "name": "感染性疾病学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2116",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

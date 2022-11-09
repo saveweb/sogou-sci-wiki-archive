@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "243",
+    "name": "植物遗传学",
+    "lemmaId": "19764076515173636",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "233",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "33787785223622927",
+        "name": "植物繁殖",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "243",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "24256165814742790",
+        "name": "作物品种",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "243",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "24106321536101896",
+        "name": "回交育种法",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "243",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "23939706802679297",
+        "name": "植物雄性不育",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "243",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764076515173636",
+        "name": "植物遗传学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "243",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

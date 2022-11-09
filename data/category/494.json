@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "494",
+    "name": "机械零件及传动",
+    "lemmaId": "19764068864763139",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "492",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "49200003909985538",
+        "name": "滚动轴承",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "494",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "49188091012881933",
+        "name": "齿轮模数",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "494",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40625160742530560",
+        "name": "联轴器",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "494",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39174303089978894",
+        "name": "法兰",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "494",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764068864763139",
+        "name": "机械零件及传动",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "494",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

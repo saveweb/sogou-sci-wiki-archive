@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "277",
+    "name": "动物行为学",
+    "lemmaId": "19764067539363077",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "264",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764395970143502",
+        "name": "冬眠",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "277",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764067539363077",
+        "name": "动物行为学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "277",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "26443972796757775",
+        "name": "亲子冲突",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "277",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "26151919097493263",
+        "name": "隐雌性选择",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "277",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

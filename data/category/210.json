@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "210",
+    "name": "生物进化论",
+    "lemmaId": "19764067874907395",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "4",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "45997552209793035",
+        "name": "获得性遗传",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "210",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "45984218534154242",
+        "name": "定向进化",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "210",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "36594711489698059",
+        "name": "生命始祖",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "210",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764067874907395",
+        "name": "生物进化论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "210",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1094",
+    "name": "航空航天系统工程其他学科",
+    "lemmaId": "39886067335196423",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1090",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886067335196423",
+        "name": "航空航天系统工程其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1094",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

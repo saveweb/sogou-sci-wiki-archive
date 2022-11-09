@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1665",
+    "name": "地理信息系统",
+    "lemmaId": "19764406472680715",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1664",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

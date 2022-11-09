@@ -1,0 +1,224 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2087",
+    "name": "临床诊断学",
+    "lemmaId": "59365955863640328",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 8,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2086",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "2088",
+        "name": "症状诊断学",
+        "lemmaId": "59365955897194508",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2087",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365955897194508",
+            "name": "症状诊断学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2088",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2089",
+        "name": "物理诊断学",
+        "lemmaId": "59365955913971978",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2087",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365955913971978",
+            "name": "物理诊断学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2089",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2090",
+        "name": "机能诊断学",
+        "lemmaId": "59365955947526157",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2087",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365955947526157",
+            "name": "机能诊断学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2090",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2091",
+        "name": "医学影像学",
+        "lemmaId": "59365955981080839",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2087",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365955981080839",
+            "name": "医学影像学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2091",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2092",
+        "name": "临床放射学",
+        "lemmaId": "59365956014635015",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2087",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365956014635015",
+            "name": "临床放射学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2092",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2093",
+        "name": "实验诊断学",
+        "lemmaId": "59365956031412490",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2087",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365956031412490",
+            "name": "实验诊断学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2093",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2094",
+        "name": "临床诊断学其他学科",
+        "lemmaId": "59365956064966661",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2087",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365956064966661",
+            "name": "临床诊断学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2094",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

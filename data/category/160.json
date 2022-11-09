@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "160",
+    "name": "细胞生理学",
+    "lemmaId": "19764089567847680",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "157",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39745287182380800",
+        "name": "腺苷",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "160",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764089567847680",
+        "name": "细胞生理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "160",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "11211",
+        "name": "自噬",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "160",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

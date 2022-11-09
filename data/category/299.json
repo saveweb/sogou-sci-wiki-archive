@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "299",
+    "name": "病毒分类学",
+    "lemmaId": "19764090138273038",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "295",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "50140315562059277",
+        "name": "烟草花叶病毒",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "299",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "48778157238558466",
+        "name": "肝炎病毒",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "299",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39983693166571018",
+        "name": "诺瓦克病毒",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "299",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "26202429959714575",
+        "name": "双生病毒科",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "299",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764090138273038",
+        "name": "病毒分类学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "299",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

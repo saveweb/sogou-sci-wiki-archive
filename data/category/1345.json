@@ -1,0 +1,195 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1345",
+    "name": "无机化学工程",
+    "lemmaId": "39886074549399052",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "859",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1346",
+        "name": "酸碱盐工程技术",
+        "lemmaId": "39886074448736009",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1345",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074448736009",
+            "name": "酸碱盐工程技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1346",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1347",
+        "name": "硅酸盐工程技术",
+        "lemmaId": "39886074599730703",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1345",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074599730703",
+            "name": "硅酸盐工程技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1347",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1348",
+        "name": "放射化工",
+        "lemmaId": "39886074515844877",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1345",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074515844877",
+            "name": "放射化工",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1348",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1349",
+        "name": "化肥工程技术",
+        "lemmaId": "39886074666839566",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1345",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074666839566",
+            "name": "化肥工程技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1349",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1350",
+        "name": "化学冶金",
+        "lemmaId": "39886074566176520",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1345",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074566176520",
+            "name": "化学冶金",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1350",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1351",
+        "name": "无机化学工程其他学科",
+        "lemmaId": "39886074717171202",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1345",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074717171202",
+            "name": "无机化学工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1351",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

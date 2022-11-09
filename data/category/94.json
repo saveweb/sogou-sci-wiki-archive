@@ -1,0 +1,195 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "94",
+    "name": "等离子体物理学",
+    "lemmaId": "19764080474596619",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 10,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "95",
+        "name": "热核聚变等离子体物理学",
+        "lemmaId": "19764071331013901",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "94",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764071331013901",
+            "name": "热核聚变等离子体物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "95",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "96",
+        "name": "低温等离子体物理学",
+        "lemmaId": "19764067656803599",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "94",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764067656803599",
+            "name": "低温等离子体物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "96",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "97",
+        "name": "等离子体光谱学",
+        "lemmaId": "19764085809751305",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "94",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764085809751305",
+            "name": "等离子体光谱学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "97",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "98",
+        "name": "凝聚态等离子体物理学",
+        "lemmaId": "19764085423875332",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "94",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764085423875332",
+            "name": "凝聚态等离子体物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "98",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "99",
+        "name": "非中性等离子体物理学",
+        "lemmaId": "19764098845648143",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "94",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764098845648143",
+            "name": "非中性等离子体物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "99",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "100",
+        "name": "等离子体物理学其他学科",
+        "lemmaId": "19764069149975815",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "94",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764069149975815",
+            "name": "等离子体物理学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "100",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

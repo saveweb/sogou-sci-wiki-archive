@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1540",
+    "name": "专门水工建筑物",
+    "lemmaId": "39886079918108425",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1538",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886079918108425",
+        "name": "专门水工建筑物",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1540",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

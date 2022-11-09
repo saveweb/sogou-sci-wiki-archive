@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2110",
+    "name": "消化病学",
+    "lemmaId": "59365956551505923",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2106",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "106297714966348299",
+        "name": "消化身心疾病",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2110",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "59365956551505923",
+        "name": "消化病学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2110",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

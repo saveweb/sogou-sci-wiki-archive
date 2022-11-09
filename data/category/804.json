@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "804",
+    "name": "矿物加工工程",
+    "lemmaId": "34555513815453959",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "802",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "43851314504957453",
+        "name": "选煤",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "804",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "43714217706028803",
+        "name": "褐煤提质技术",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "804",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555513815453959",
+        "name": "矿物加工工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "804",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

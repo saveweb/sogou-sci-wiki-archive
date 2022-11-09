@@ -1,0 +1,412 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "762",
+    "name": "水文学",
+    "lemmaId": "19764483530433799",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 14,
+    "allCategoryLemmaNum": 0,
+    "parentId": "16",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "763",
+        "name": "水文物理学",
+        "lemmaId": "34555507222008067",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555507222008067",
+            "name": "水文物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "763",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "764",
+        "name": "水文化学",
+        "lemmaId": "34555507289116938",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555507289116938",
+            "name": "水文化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "764",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "765",
+        "name": "水文地理学",
+        "lemmaId": "34555507406557449",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555507406557449",
+            "name": "水文地理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "765",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "766",
+        "name": "水文气象学",
+        "lemmaId": "34555507591106827",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555507591106827",
+            "name": "水文气象学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "766",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "767",
+        "name": "水文测量",
+        "lemmaId": "34555507725324554",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555507725324554",
+            "name": "水文测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "767",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "768",
+        "name": "水文图学",
+        "lemmaId": "34555507825987840",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555507825987840",
+            "name": "水文图学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "768",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "769",
+        "name": "湖沼学",
+        "lemmaId": "34555507893096707",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555507893096707",
+            "name": "湖沼学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "769",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "770",
+        "name": "河流学与河口水文学",
+        "lemmaId": "34555508060868875",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555508060868875",
+            "name": "河流学与河口水文学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "770",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "771",
+        "name": "地下水文学",
+        "lemmaId": "34555508245418245",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555508245418245",
+            "name": "地下水文学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "771",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "772",
+        "name": "区域水文学",
+        "lemmaId": "34555508413190407",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555508413190407",
+            "name": "区域水文学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "772",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "773",
+        "name": "生态水文学",
+        "lemmaId": "34555508597739788",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "43141802986864390",
+            "name": "矿井充水水源",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "773",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555508597739788",
+            "name": "生态水文学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "773",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "774",
+        "name": "同位素水文学",
+        "lemmaId": "34555508765511947",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555508765511947",
+            "name": "同位素水文学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "774",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "775",
+        "name": "水文学其它学科",
+        "lemmaId": "34555508866175232",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "762",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555508866175232",
+            "name": "水文学其它学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "775",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1957",
+    "name": "产品应用专用性技术",
+    "lemmaId": "39886091779599874",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "854",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1958",
+        "name": "印刷、复制技术",
+        "lemmaId": "39886091695714050",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1957",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091695714050",
+            "name": "印刷、复制技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1958",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1959",
+        "name": "产品应用专用性技术其他学科",
+        "lemmaId": "39886091829931521",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1957",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091829931521",
+            "name": "产品应用专用性技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1959",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

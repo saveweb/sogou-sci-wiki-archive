@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "800",
+    "name": "矿产普查与勘探",
+    "lemmaId": "34555513026924814",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "16",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "40356429571321607",
+        "name": "膨润土",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "800",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "35986524256360972",
+        "name": "油页岩",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "800",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "35716796300417536",
+        "name": "油砂",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "800",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34741268651202574",
+        "name": "煤层气",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "800",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555513026924814",
+        "name": "矿产普查与勘探",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "800",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

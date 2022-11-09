@@ -1,0 +1,395 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1124",
+    "name": "通信技术",
+    "lemmaId": "39886068106948363",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 11,
+    "lemmaNum": 20,
+    "allCategoryLemmaNum": 0,
+    "parentId": "14",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1125",
+        "name": "有线通信技术",
+        "lemmaId": "39886068274720267",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068274720267",
+            "name": "有线通信技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1125",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1126",
+        "name": "无线通信技术",
+        "lemmaId": "19764483631097097",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "60611271497678595",
+            "name": "低功耗广域网",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1126",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1127",
+        "name": "光纤通信技术",
+        "lemmaId": "39886068325051916",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 3,
+        "lemmaNum": 4,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "41030944940912397",
+            "name": "光交换技术",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1127",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40944364624572166",
+            "name": "雪崩光电二极管",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1127",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40922734129081860",
+            "name": "同步数字系列SDH",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1127",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886068325051916",
+            "name": "光纤通信技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1127",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1128",
+        "name": "通信传输技术",
+        "lemmaId": "39886068224388867",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068224388867",
+            "name": "通信传输技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1128",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1129",
+        "name": "通信网络技术",
+        "lemmaId": "39886068375383559",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764394476971266",
+            "name": "局域网",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1129",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886068375383559",
+            "name": "通信网络技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1129",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39776943591157263",
+            "name": "通信协议",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1129",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1130",
+        "name": "通信终端技术",
+        "lemmaId": "39886068291497730",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068291497730",
+            "name": "通信终端技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1130",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1131",
+        "name": "电信",
+        "lemmaId": "10953",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "40777692563402254",
+            "name": "电报",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1131",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40411979873021698",
+            "name": "互联网服务提供商",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1131",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1132",
+        "name": "邮政",
+        "lemmaId": "39886068325052175",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068325052175",
+            "name": "邮政",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1132",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1133",
+        "name": "邮电通信管理工程",
+        "lemmaId": "39886068476046856",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068476046856",
+            "name": "邮电通信管理工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1133",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1134",
+        "name": "通信技术其他学科",
+        "lemmaId": "39886068375383813",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1124",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068375383813",
+            "name": "通信技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1134",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

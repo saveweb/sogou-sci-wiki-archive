@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "36",
+    "name": "电声学",
+    "lemmaId": "19764058899096841",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "30",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764058899096841",
+        "name": "电声学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "36",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1577",
+    "name": "公路标志、信号、监控工程",
+    "lemmaId": "39886081075736064",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1576",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886081075736064",
+        "name": "公路标志、信号、监控工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1577",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

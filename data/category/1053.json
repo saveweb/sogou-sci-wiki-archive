@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1053",
+    "name": "人造地球卫星",
+    "lemmaId": "39504789196795660",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1051",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1581",
+    "name": "铁路电气化工程",
+    "lemmaId": "39886081176399370",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1580",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886081176399370",
+        "name": "铁路电气化工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1581",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

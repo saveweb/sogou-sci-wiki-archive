@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1583",
+    "name": "铁路机车车辆工程",
+    "lemmaId": "39886081243508236",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1580",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886081243508236",
+        "name": "铁路机车车辆工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1583",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

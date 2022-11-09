@@ -1,0 +1,135 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "832",
+    "name": "药物化学",
+    "lemmaId": "10483",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 5,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "13",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "833",
+        "name": "药物合成化学",
+        "lemmaId": "34555519184163085",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "832",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555519184163085",
+            "name": "药物合成化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "833",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "834",
+        "name": "天然产物化学",
+        "lemmaId": "34555519351935244",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 4,
+        "lemmaNum": 5,
+        "allCategoryLemmaNum": 0,
+        "parentId": "832",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "41185449611390477",
+            "name": "木脂素",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "834",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555519351935244",
+            "name": "天然产物化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "834",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34215865352212993",
+            "name": "三七皂苷",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "834",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "33572018448253701",
+            "name": "银杏内酯",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "834",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "33254688111477763",
+            "name": "槲皮素",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "834",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

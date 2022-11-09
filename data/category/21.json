@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "21",
+    "name": "物理学史",
+    "lemmaId": "19764086061409546",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "40752068402638594",
+        "name": "伽利略·伽利雷",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "21",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40640869602192906",
+        "name": "牛顿运动定律",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "21",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764086061409546",
+        "name": "物理学史",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "21",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "10413",
+        "name": "阿尔伯特·爱因斯坦",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "21",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

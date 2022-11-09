@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "996",
+    "name": "概率论其他学科",
+    "lemmaId": "39886064701173510",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "987",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886064701173510",
+        "name": "概率论其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "996",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

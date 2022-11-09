@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1372",
+    "name": "制药工程",
+    "lemmaId": "39048050060062220",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "859",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "844",
+        "name": "医药工程",
+        "lemmaId": "34555521029656836",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1372",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555521029656836",
+            "name": "医药工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "844",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1373",
+        "name": "农药工程",
+        "lemmaId": "39886075337928204",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1372",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075337928204",
+            "name": "农药工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1373",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1374",
+        "name": "兽药工程",
+        "lemmaId": "39886075237265162",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1372",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075237265162",
+            "name": "兽药工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1374",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1375",
+        "name": "制药工程其他学科",
+        "lemmaId": "39886075388259853",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1372",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075388259853",
+            "name": "制药工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1375",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

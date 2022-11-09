@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "90",
+    "name": "超导物理学",
+    "lemmaId": "19764075139441934",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "77",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764075139441934",
+        "name": "超导物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "90",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

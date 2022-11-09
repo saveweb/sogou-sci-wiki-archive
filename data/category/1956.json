@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1956",
+    "name": "兵器科学与技术其他学科",
+    "lemmaId": "39886091645382406",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1944",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886091645382406",
+        "name": "兵器科学与技术其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1956",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

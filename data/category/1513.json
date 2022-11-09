@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1513",
+    "name": "非金属矿开采",
+    "lemmaId": "39886079280573961",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "803",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886079280573961",
+        "name": "非金属矿开采",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1513",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "598",
+    "name": "辐射物理与技术",
+    "lemmaId": "34555160235626753",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "8",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555160235626753",
+        "name": "辐射物理与技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "598",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "30816238347238917",
+        "name": "核电池",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "598",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "29648038733559809",
+        "name": "MCNP",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "598",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

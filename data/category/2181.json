@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2181",
+    "name": "护理管理学",
+    "lemmaId": "59365958715767050",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2175",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365958715767050",
+        "name": "护理管理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2181",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

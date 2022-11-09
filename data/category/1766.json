@@ -1,0 +1,195 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1766",
+    "name": "农产品贮藏与加工",
+    "lemmaId": "39886086192787209",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "857",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1767",
+        "name": "粮油产品贮藏与加工",
+        "lemmaId": "39886086343781895",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1766",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086343781895",
+            "name": "粮油产品贮藏与加工",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1767",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1768",
+        "name": "果蔬贮藏与加工",
+        "lemmaId": "39886086243118853",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1766",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086243118853",
+            "name": "果蔬贮藏与加工",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1768",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1769",
+        "name": "畜产品贮藏与加工",
+        "lemmaId": "39886086394113545",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1766",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086394113545",
+            "name": "畜产品贮藏与加工",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1769",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1770",
+        "name": "土特产品贮藏与加工",
+        "lemmaId": "39886086310227722",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1766",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086310227722",
+            "name": "土特产品贮藏与加工",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1770",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1771",
+        "name": "农副产品综合利用",
+        "lemmaId": "39886086461222408",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1766",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086461222408",
+            "name": "农副产品综合利用",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1771",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1772",
+        "name": "农产品贮藏与加工其他学科",
+        "lemmaId": "39886086360559365",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1766",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086360559365",
+            "name": "农产品贮藏与加工其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1772",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1454",
+    "name": "生物能",
+    "lemmaId": "39886077468634888",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1448",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886077468634888",
+        "name": "生物能",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1454",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

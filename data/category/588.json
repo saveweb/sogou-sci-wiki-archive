@@ -1,0 +1,366 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "588",
+    "name": "大气科学",
+    "lemmaId": "19764071146464515",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 28,
+    "lemmaNum": 472,
+    "allCategoryLemmaNum": 0,
+    "parentId": "16",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "673",
+        "name": "大气物理学",
+        "lemmaId": "34555495410848012",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "588",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "41467187319303687",
+            "name": "理想气体",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "673",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555495410848012",
+            "name": "大气物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "673",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "674",
+        "name": "大气化学",
+        "lemmaId": "34555495578620165",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "588",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555495578620165",
+            "name": "大气化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "674",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "675",
+        "name": "大气环境学",
+        "lemmaId": "34555495696060674",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "588",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764559430558976",
+            "name": "大气压强",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "675",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555495696060674",
+            "name": "大气环境学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "675",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "676",
+        "name": "大气探测",
+        "lemmaId": "34555495863832844",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "588",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "66551355753443850",
+            "name": "双偏振天气雷达",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "676",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555495863832844",
+            "name": "大气探测",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "676",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "677",
+        "name": "气候学",
+        "lemmaId": "34555495981273349",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 3,
+        "lemmaNum": 4,
+        "allCategoryLemmaNum": 0,
+        "parentId": "588",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "32653527159423746",
+            "name": "天气",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "677",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764445429376271",
+            "name": "西风带",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "677",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "56147067256498699",
+            "name": "基林曲线",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "677",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555495981273349",
+            "name": "气候学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "677",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "678",
+        "name": "大气边界层物理学",
+        "lemmaId": "34555496165822723",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "588",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555496165822723",
+            "name": "大气边界层物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "678",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "679",
+        "name": "应用气象学",
+        "lemmaId": "19764555202700544",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "588",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764437174985996",
+            "name": "风向玫瑰图",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "679",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "680",
+        "name": "全球环境变化",
+        "lemmaId": "34555496602030348",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "588",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555496602030348",
+            "name": "全球环境变化",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "680",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "681",
+        "name": "大气科学其他学科",
+        "lemmaId": "34555496719470851",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "588",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555496719470851",
+            "name": "大气科学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "681",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

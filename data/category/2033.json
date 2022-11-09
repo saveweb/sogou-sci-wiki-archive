@@ -1,0 +1,253 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2033",
+    "name": "安全社会科学",
+    "lemmaId": "39886093977415171",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 9,
+    "allCategoryLemmaNum": 0,
+    "parentId": "860",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "2034",
+        "name": "安全社会学",
+        "lemmaId": "39886093893529350",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2033",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093893529350",
+            "name": "安全社会学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2034",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2035",
+        "name": "安全法学",
+        "lemmaId": "39886094044524047",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2033",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094044524047",
+            "name": "安全法学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2035",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2036",
+        "name": "安全经济学",
+        "lemmaId": "39886093943860999",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2033",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093943860999",
+            "name": "安全经济学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2036",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2037",
+        "name": "安全管理学",
+        "lemmaId": "39886094094855684",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2033",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094094855684",
+            "name": "安全管理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2037",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2038",
+        "name": "安全教育学",
+        "lemmaId": "39886093994192647",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2033",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093994192647",
+            "name": "安全教育学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2038",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2039",
+        "name": "安全伦理学",
+        "lemmaId": "39886094145187340",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2033",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094145187340",
+            "name": "安全伦理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2039",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2040",
+        "name": "安全文化学",
+        "lemmaId": "39886094044524292",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2033",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094044524292",
+            "name": "安全文化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2040",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2041",
+        "name": "安全社会科学其他学科",
+        "lemmaId": "39886094195518979",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2033",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094195518979",
+            "name": "安全社会科学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2041",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

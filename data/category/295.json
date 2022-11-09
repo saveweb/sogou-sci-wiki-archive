@@ -1,0 +1,250 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "295",
+    "name": "病毒学",
+    "lemmaId": "19764061013026048",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 6,
+    "lemmaNum": 12,
+    "allCategoryLemmaNum": 0,
+    "parentId": "4",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "296",
+        "name": "病毒生物化学",
+        "lemmaId": "19764065274438913",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "295",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764065274438913",
+            "name": "病毒生物化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "296",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "297",
+        "name": "分子病毒学",
+        "lemmaId": "19764062673970440",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "295",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "35268612268775939",
+            "name": "人类免疫缺陷病毒",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "297",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764062673970440",
+            "name": "分子病毒学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "297",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "298",
+        "name": "病毒生态学",
+        "lemmaId": "19764061667337484",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "295",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764061667337484",
+            "name": "病毒生态学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "298",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "299",
+        "name": "病毒分类学",
+        "lemmaId": "19764090138273038",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 4,
+        "lemmaNum": 5,
+        "allCategoryLemmaNum": 0,
+        "parentId": "295",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "50140315562059277",
+            "name": "烟草花叶病毒",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "299",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "48778157238558466",
+            "name": "肝炎病毒",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "299",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39983693166571018",
+            "name": "诺瓦克病毒",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "299",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "26202429959714575",
+            "name": "双生病毒科",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "299",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764090138273038",
+            "name": "病毒分类学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "299",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "300",
+        "name": "病毒学其他学科",
+        "lemmaId": "19764099499959558",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "295",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "46456112915975941",
+            "name": "逆转录病毒",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "300",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764099499959558",
+            "name": "病毒学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "300",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

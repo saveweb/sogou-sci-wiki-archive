@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1085",
+    "name": "发射场、试验场",
+    "lemmaId": "39886067200978436",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1084",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886067200978436",
+        "name": "发射场、试验场",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1085",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

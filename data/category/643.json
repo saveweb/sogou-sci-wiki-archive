@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "643",
+    "name": "古生物学与地层学",
+    "lemmaId": "34555491468202247",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "585",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "43651404010651403",
+        "name": "临夏盆地",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "643",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "35688666261117442",
+        "name": "沉积作用方式",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "643",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "35686240376347139",
+        "name": "地层接触关系",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "643",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555491468202247",
+        "name": "古生物学与地层学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "643",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

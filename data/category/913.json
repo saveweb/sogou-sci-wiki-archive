@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "913",
+    "name": "向量和张量分析",
+    "lemmaId": "39886062536912389",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "908",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886062536912389",
+        "name": "向量和张量分析",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "913",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

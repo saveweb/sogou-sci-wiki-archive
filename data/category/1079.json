@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1079",
+    "name": "飞行器发射与回收、飞行技术",
+    "lemmaId": "39886067016429056",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "9",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1080",
+        "name": "飞行技术",
+        "lemmaId": "39886066932543244",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1079",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066932543244",
+            "name": "飞行技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1080",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1081",
+        "name": "飞行器发射与回收",
+        "lemmaId": "39886067066760718",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1079",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067066760718",
+            "name": "飞行器发射与回收",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1081",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1082",
+        "name": "飞行事故",
+        "lemmaId": "39886066982874881",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1079",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066982874881",
+            "name": "飞行事故",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1082",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1083",
+        "name": "飞行器发射与回收、飞行技术其他学科",
+        "lemmaId": "39886067133869578",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1079",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067133869578",
+            "name": "飞行器发射与回收、飞行技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1083",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

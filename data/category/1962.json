@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1962",
+    "name": "纺织化学",
+    "lemmaId": "39886091796377358",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1961",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886091796377358",
+        "name": "纺织化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1962",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

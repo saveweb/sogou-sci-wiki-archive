@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1979",
+    "name": "染炼技术",
+    "lemmaId": "39886092433911306",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1978",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886092433911306",
+        "name": "染炼技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1979",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

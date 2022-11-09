@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "232",
+    "name": "神经生物学其他学科",
+    "lemmaId": "19764097553802503",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "222",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764097553802503",
+        "name": "神经生物学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "232",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

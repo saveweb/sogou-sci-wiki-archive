@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "579",
+    "name": "微波光子",
+    "lemmaId": "19764058647438604",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "15",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764058647438604",
+        "name": "微波光子",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "579",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

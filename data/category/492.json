@@ -1,0 +1,222 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "492",
+    "name": "机械设计方法学",
+    "lemmaId": "19764058278339845",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 5,
+    "lemmaNum": 10,
+    "allCategoryLemmaNum": 0,
+    "parentId": "6",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "493",
+        "name": "机械设计原理与方法",
+        "lemmaId": "19764062204208397",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "492",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764062204208397",
+            "name": "机械设计原理与方法",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "493",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "494",
+        "name": "机械零件及传动",
+        "lemmaId": "19764068864763139",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 4,
+        "lemmaNum": 5,
+        "allCategoryLemmaNum": 0,
+        "parentId": "492",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "49200003909985538",
+            "name": "滚动轴承",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "494",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "49188091012881933",
+            "name": "齿轮模数",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "494",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40625160742530560",
+            "name": "联轴器",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "494",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39174303089978894",
+            "name": "法兰",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "494",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764068864763139",
+            "name": "机械零件及传动",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "494",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "495",
+        "name": "机械公差、配合与技术测量",
+        "lemmaId": "19764070743811333",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "492",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764070743811333",
+            "name": "机械公差、配合与技术测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "495",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "496",
+        "name": "机械制图",
+        "lemmaId": "19764058563552513",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "492",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764058563552513",
+            "name": "机械制图",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "496",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "497",
+        "name": "机械设计其他学科",
+        "lemmaId": "19764058613884174",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "492",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764058613884174",
+            "name": "机械设计其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "497",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

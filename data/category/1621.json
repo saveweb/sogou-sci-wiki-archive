@@ -1,0 +1,195 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1621",
+    "name": "工程铡量技术",
+    "lemmaId": "39886082266918412",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "865",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1386",
+        "name": "土木建筑工程测量",
+        "lemmaId": "39886075572809472",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1621",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075572809472",
+            "name": "土木建筑工程测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1386",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1500",
+        "name": "矿山测量",
+        "lemmaId": "39886078794034959",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1621",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886078794034959",
+            "name": "矿山测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1500",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1536",
+        "name": "水利工程测量",
+        "lemmaId": "39886079783890697",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1621",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079783890697",
+            "name": "水利工程测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1536",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1622",
+        "name": "地籍测量",
+        "lemmaId": "39886082183032580",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1621",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082183032580",
+            "name": "地籍测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1622",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1623",
+        "name": "精密工程测量",
+        "lemmaId": "39886082334027272",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1621",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082334027272",
+            "name": "精密工程测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1623",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1624",
+        "name": "工程测量技术其他学科",
+        "lemmaId": "39886082233364228",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1621",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082233364228",
+            "name": "工程测量技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1624",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "648",
+    "name": "矿床学",
+    "lemmaId": "34555492340617481",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "585",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "70204780647100682",
+        "name": "造山型金矿",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "648",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "66699177236705551",
+        "name": "中硫型浅成低温热液矿床",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "648",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555492340617481",
+        "name": "矿床学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "648",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

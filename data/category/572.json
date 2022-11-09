@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "572",
+    "name": "金属基复合材料",
+    "lemmaId": "19764058144122113",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "571",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764058144122113",
+        "name": "金属基复合材料",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "572",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

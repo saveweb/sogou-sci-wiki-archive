@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1837",
+    "name": "野生动物保护与管理",
+    "lemmaId": "39886088256384516",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "862",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886088256384516",
+        "name": "野生动物保护与管理",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1837",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

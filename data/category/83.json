@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "83",
+    "name": "非晶态物理学",
+    "lemmaId": "19764074233472263",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "77",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764074233472263",
+        "name": "非晶态物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "83",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

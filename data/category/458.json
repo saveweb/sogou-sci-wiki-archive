@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "458",
+    "name": "制冷与低温工程",
+    "lemmaId": "19764061600228622",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "456",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "90930564831461898",
+        "name": "节流机构",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "458",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "28171998395906305",
+        "name": "空气源热泵",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "458",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764061600228622",
+        "name": "制冷与低温工程",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "458",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

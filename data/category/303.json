@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "303",
+    "name": "人类形态学",
+    "lemmaId": "19764079165973760",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "301",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39191989765304074",
+        "name": "恒牙",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "303",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39152579564826370",
+        "name": "绝骨",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "303",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764079165973760",
+        "name": "人类形态学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "303",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

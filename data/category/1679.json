@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1679",
+    "name": "近海工程",
+    "lemmaId": "39886083860753929",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1673",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886083860753929",
+        "name": "近海工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1679",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

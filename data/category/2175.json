@@ -1,0 +1,224 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2175",
+    "name": "护理学",
+    "lemmaId": "59365958531217676",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 8,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2086",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "2176",
+        "name": "基础护理学",
+        "lemmaId": "59365958564771848",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2175",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365958564771848",
+            "name": "基础护理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2176",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2177",
+        "name": "专科护理学",
+        "lemmaId": "59365958598326538",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2175",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365958598326538",
+            "name": "专科护理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2177",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2178",
+        "name": "特殊护理学",
+        "lemmaId": "59365958631880717",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2175",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365958631880717",
+            "name": "特殊护理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2178",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2179",
+        "name": "护理心理学",
+        "lemmaId": "59365958665435398",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2175",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365958665435398",
+            "name": "护理心理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2179",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2180",
+        "name": "护理伦理学",
+        "lemmaId": "59365958698989575",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2175",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365958698989575",
+            "name": "护理伦理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2180",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2181",
+        "name": "护理管理学",
+        "lemmaId": "59365958715767050",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2175",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365958715767050",
+            "name": "护理管理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2181",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2182",
+        "name": "护理学其他学科",
+        "lemmaId": "59365958766098437",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2175",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365958766098437",
+            "name": "护理学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2182",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

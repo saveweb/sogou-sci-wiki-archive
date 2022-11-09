@@ -1,0 +1,194 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1051",
+    "name": "航天器结构与设计",
+    "lemmaId": "39886066311785988",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "9",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1052",
+        "name": "火箭、导弹",
+        "lemmaId": "39886066211122950",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1051",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066211122950",
+            "name": "火箭、导弹",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1052",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1053",
+        "name": "人造地球卫星",
+        "lemmaId": "39504789196795660",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1051",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1054",
+        "name": "空间探测器",
+        "lemmaId": "19764519182017802",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1051",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1055",
+        "name": "宇宙飞船",
+        "lemmaId": "39886066395672076",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1051",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066395672076",
+            "name": "宇宙飞船",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1055",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1056",
+        "name": "航天站",
+        "lemmaId": "39886066311786255",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1051",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066311786255",
+            "name": "航天站",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1056",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1057",
+        "name": "航天飞机",
+        "lemmaId": "39886066446003717",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1051",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066446003717",
+            "name": "航天飞机",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1057",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1058",
+        "name": "航天器结构与设计其他学科",
+        "lemmaId": "39886066362117901",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1051",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066362117901",
+            "name": "航天器结构与设计其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1058",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

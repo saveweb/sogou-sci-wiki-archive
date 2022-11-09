@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1131",
+    "name": "电信",
+    "lemmaId": "10953",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1124",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "40777692563402254",
+        "name": "电报",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1131",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40411979873021698",
+        "name": "互联网服务提供商",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1131",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

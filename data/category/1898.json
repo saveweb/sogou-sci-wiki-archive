@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1898",
+    "name": "水产生物学",
+    "lemmaId": "39886089967660810",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1895",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886089967660810",
+        "name": "水产生物学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1898",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

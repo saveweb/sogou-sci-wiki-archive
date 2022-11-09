@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "216",
+    "name": "区域生态学",
+    "lemmaId": "19764057607251207",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "211",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764057607251207",
+        "name": "区域生态学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "216",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

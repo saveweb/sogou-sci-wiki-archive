@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "464",
+    "name": "内燃机工程",
+    "lemmaId": "19764082588525832",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "462",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764082588525832",
+        "name": "内燃机工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "464",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

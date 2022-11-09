@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "514",
+    "name": "机床基础理论",
+    "lemmaId": "19764061801555210",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "513",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764061801555210",
+        "name": "机床基础理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "514",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

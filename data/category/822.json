@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "822",
+    "name": "环境化学",
+    "lemmaId": "34555516701135114",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "589",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "62203901541154310",
+        "name": "周磊",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "822",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "36553263947995650",
+        "name": "土壤有机质",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "822",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "36460296176425483",
+        "name": "土壤固化/稳定化技术",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "822",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555516701135114",
+        "name": "环境化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "822",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

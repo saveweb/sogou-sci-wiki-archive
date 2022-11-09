@@ -1,0 +1,396 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "863",
+    "name": "水产学",
+    "lemmaId": "39886061161180678",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 17,
+    "allCategoryLemmaNum": 0,
+    "parentId": "0",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1895",
+        "name": "水产学基础学科",
+        "lemmaId": "39886090001214978",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 6,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "category",
+            "id": "1896",
+            "name": "水产化学",
+            "lemmaId": "39886089917329166",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1895",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "1897",
+            "name": "水产地理学",
+            "lemmaId": "39886090051546625",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1895",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "1898",
+            "name": "水产生物学",
+            "lemmaId": "39886089967660810",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1895",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "1899",
+            "name": "水域生态学",
+            "lemmaId": "39886090101878283",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1895",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "1900",
+            "name": "水产学基础学科其他学科",
+            "lemmaId": "39886090017992459",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1895",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1901",
+        "name": "水产增殖学",
+        "lemmaId": "39886090168987143",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090168987143",
+            "name": "水产增殖学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1901",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1902",
+        "name": "水产养殖学",
+        "lemmaId": "39886090085101319",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090085101319",
+            "name": "水产养殖学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1902",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1903",
+        "name": "水产饲料学",
+        "lemmaId": "39886090219318793",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090219318793",
+            "name": "水产饲料学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1903",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1904",
+        "name": "水产保护学",
+        "lemmaId": "39886090118655755",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090118655755",
+            "name": "水产保护学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1904",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1905",
+        "name": "捕捞学",
+        "lemmaId": "39886090269650439",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090269650439",
+            "name": "捕捞学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1905",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1906",
+        "name": "水产品贮藏与加工",
+        "lemmaId": "39886090185764622",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090185764622",
+            "name": "水产品贮藏与加工",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1906",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1907",
+        "name": "水产工程学",
+        "lemmaId": "39886090336759300",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090336759300",
+            "name": "水产工程学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1907",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1908",
+        "name": "水产资源学",
+        "lemmaId": "39886090236096260",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090236096260",
+            "name": "水产资源学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1908",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1909",
+        "name": "水产经济学",
+        "lemmaId": "39886090387090948",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090387090948",
+            "name": "水产经济学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1909",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1910",
+        "name": "水产学其他学科",
+        "lemmaId": "39886090286427919",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "863",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886090286427919",
+            "name": "水产学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1910",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

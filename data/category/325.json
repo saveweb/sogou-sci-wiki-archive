@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "325",
+    "name": "计算机可靠性理论",
+    "lemmaId": "19764078511662340",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "322",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764078511662340",
+        "name": "计算机可靠性理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "325",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,180 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1379",
+    "name": "土木建筑工程基础学科",
+    "lemmaId": "39886075505700366",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 9,
+    "allCategoryLemmaNum": 0,
+    "parentId": "850",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1380",
+        "name": "工程数学",
+        "lemmaId": "39886075421814534",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1379",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075421814534",
+            "name": "工程数学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1380",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1381",
+        "name": "工程力学",
+        "lemmaId": "19764403100460298",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1379",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1382",
+        "name": "建筑光学",
+        "lemmaId": "39886075455368966",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1379",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075455368966",
+            "name": "建筑光学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1382",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1383",
+        "name": "建筑声学",
+        "lemmaId": "39886075606363660",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1379",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075606363660",
+            "name": "建筑声学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1383",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1384",
+        "name": "建筑气象学",
+        "lemmaId": "39886075522477830",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1379",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075522477830",
+            "name": "建筑气象学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1384",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1385",
+        "name": "土木建筑工程基础学科其他学科",
+        "lemmaId": "39886075673472514",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1379",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886075673472514",
+            "name": "土木建筑工程基础学科其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1385",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

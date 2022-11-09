@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1997",
+    "name": "食品微生物学",
+    "lemmaId": "39886092937227789",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1993",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886092937227789",
+        "name": "食品微生物学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1997",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

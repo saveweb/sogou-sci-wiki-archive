@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "897",
+    "name": "环论",
+    "lemmaId": "39886062100704772",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "890",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886062100704772",
+        "name": "环论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "897",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "23603458946903821",
+        "name": "素理想",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "897",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

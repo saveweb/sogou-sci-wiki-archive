@@ -1,0 +1,340 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1673",
+    "name": "海洋工程与技术",
+    "lemmaId": "39886083676204552",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 12,
+    "allCategoryLemmaNum": 0,
+    "parentId": "869",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1674",
+        "name": "海洋工程结构与施工",
+        "lemmaId": "39886083592318734",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083592318734",
+            "name": "海洋工程结构与施工",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1674",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1675",
+        "name": "海底矿产开发",
+        "lemmaId": "39886083743313423",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083743313423",
+            "name": "海底矿产开发",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1675",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1676",
+        "name": "海水资源利用",
+        "lemmaId": "39886083659427591",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083659427591",
+            "name": "海水资源利用",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1676",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1677",
+        "name": "海洋环境工程",
+        "lemmaId": "39886083810422281",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083810422281",
+            "name": "海洋环境工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1677",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1678",
+        "name": "海岸工程",
+        "lemmaId": "39886083709759233",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083709759233",
+            "name": "海岸工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1678",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1679",
+        "name": "近海工程",
+        "lemmaId": "39886083860753929",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083860753929",
+            "name": "近海工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1679",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1680",
+        "name": "深海工程",
+        "lemmaId": "39886083776868111",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083776868111",
+            "name": "深海工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1680",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1681",
+        "name": "海洋资源开发利用技术",
+        "lemmaId": "39886083927862787",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083927862787",
+            "name": "海洋资源开发利用技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1681",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1682",
+        "name": "海洋观测预报技术",
+        "lemmaId": "39886083827199757",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083827199757",
+            "name": "海洋观测预报技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1682",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1683",
+        "name": "海洋环境保护技术",
+        "lemmaId": "39886083978194441",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083978194441",
+            "name": "海洋环境保护技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1683",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1684",
+        "name": "海洋工程与技术其他学科",
+        "lemmaId": "39886083877531397",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1673",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083877531397",
+            "name": "海洋工程与技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1684",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

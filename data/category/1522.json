@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1522",
+    "name": "石油、天然气储存与运输工程",
+    "lemmaId": "39886079398014726",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "802",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886079398014726",
+        "name": "石油、天然气储存与运输工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1522",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

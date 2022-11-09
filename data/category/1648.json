@@ -1,0 +1,195 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1648",
+    "name": "仿真科学技术",
+    "lemmaId": "39886082921230081",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "855",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1641",
+        "name": "控制系统仿真技术",
+        "lemmaId": "39886082820566542",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1648",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082820566542",
+            "name": "控制系统仿真技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1641",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1649",
+        "name": "仿真科学技术基础学科",
+        "lemmaId": "39886083055447553",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1648",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083055447553",
+            "name": "仿真科学技术基础学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1649",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1650",
+        "name": "仿真建模理论与技术",
+        "lemmaId": "39886082971561742",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1648",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082971561742",
+            "name": "仿真建模理论与技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1650",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1651",
+        "name": "仿真系统理论与技术",
+        "lemmaId": "39886083105779206",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1648",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083105779206",
+            "name": "仿真系统理论与技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1651",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1652",
+        "name": "仿真应用",
+        "lemmaId": "39886083021893382",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1648",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083021893382",
+            "name": "仿真应用",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1652",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1653",
+        "name": "仿真科学技术其他学科",
+        "lemmaId": "39886083156110855",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1648",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083156110855",
+            "name": "仿真科学技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1653",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

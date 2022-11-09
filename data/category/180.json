@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "180",
+    "name": "比较生理学",
+    "lemmaId": "19764074468353285",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "165",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764074468353285",
+        "name": "比较生理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "180",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

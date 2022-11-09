@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "92",
+    "name": "高压物理学",
+    "lemmaId": "19764094533903631",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "77",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764094533903631",
+        "name": "高压物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "92",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

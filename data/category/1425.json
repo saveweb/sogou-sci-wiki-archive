@@ -1,0 +1,253 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1425",
+    "name": "土木工程机械与设备",
+    "lemmaId": "39886076780768779",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 9,
+    "allCategoryLemmaNum": 0,
+    "parentId": "850",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1426",
+        "name": "起重机械",
+        "lemmaId": "39886076680105730",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1425",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076680105730",
+            "name": "起重机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1426",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1427",
+        "name": "土木工程运输机械",
+        "lemmaId": "39886076831100428",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1425",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076831100428",
+            "name": "土木工程运输机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1427",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1428",
+        "name": "土方机械",
+        "lemmaId": "39886076730437381",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1425",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076730437381",
+            "name": "土方机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1428",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1429",
+        "name": "桩工机械",
+        "lemmaId": "39886076881432070",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1425",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076881432070",
+            "name": "桩工机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1429",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1430",
+        "name": "石料开采加工机械",
+        "lemmaId": "39886076780769029",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1425",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076780769029",
+            "name": "石料开采加工机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1430",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1431",
+        "name": "钢筋混凝土机械",
+        "lemmaId": "39886076931763712",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1425",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076931763712",
+            "name": "钢筋混凝土机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1431",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1432",
+        "name": "装修机械",
+        "lemmaId": "39886076847877901",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1425",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076847877901",
+            "name": "装修机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1432",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1433",
+        "name": "土木工程机械与设备其他学科",
+        "lemmaId": "39886076998872576",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1425",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076998872576",
+            "name": "土木工程机械与设备其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1433",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

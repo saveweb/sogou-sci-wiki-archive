@@ -1,0 +1,237 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1654",
+    "name": "信息安全技术",
+    "lemmaId": "39886083072225029",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "855",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1655",
+        "name": "密码学",
+        "lemmaId": "19775006317749515",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1654",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1656",
+        "name": "安全协议",
+        "lemmaId": "39886083105779467",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1654",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083105779467",
+            "name": "安全协议",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1656",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1657",
+        "name": "系统安全",
+        "lemmaId": "39886083256774148",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1654",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083256774148",
+            "name": "系统安全",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1657",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1658",
+        "name": "网络安全",
+        "lemmaId": "19764394443416833",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1654",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1659",
+        "name": "软件安全",
+        "lemmaId": "19775286228821248",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1654",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1660",
+        "name": "信息隐藏",
+        "lemmaId": "39886083223219969",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1654",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083223219969",
+            "name": "信息隐藏",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1660",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1661",
+        "name": "安全测评",
+        "lemmaId": "39886083374214665",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1654",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083374214665",
+            "name": "安全测评",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1661",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1662",
+        "name": "信息安全工程",
+        "lemmaId": "39886083290328839",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1654",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083290328839",
+            "name": "信息安全工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1662",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1663",
+        "name": "信息安全其他学科",
+        "lemmaId": "39886083441323524",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1654",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083441323524",
+            "name": "信息安全其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1663",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

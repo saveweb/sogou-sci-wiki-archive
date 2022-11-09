@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "607",
+    "name": "粒子加速器工程技术",
+    "lemmaId": "34555485310963968",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "605",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555485310963968",
+        "name": "粒子加速器工程技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "607",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

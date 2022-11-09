@@ -1,0 +1,310 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "312",
+    "name": "生物工程",
+    "lemmaId": "19764060224496903",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 5,
+    "lemmaNum": 13,
+    "allCategoryLemmaNum": 0,
+    "parentId": "4",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "313",
+        "name": "细胞工程",
+        "lemmaId": "19764081934214410",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "312",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39207336606199553",
+            "name": "愈伤组织",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "313",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764081934214410",
+            "name": "细胞工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "313",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "314",
+        "name": "蛋白质工程",
+        "lemmaId": "19764062724302087",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "312",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764062724302087",
+            "name": "蛋白质工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "314",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "315",
+        "name": "酶工程",
+        "lemmaId": "19764070257272068",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "312",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764070257272068",
+            "name": "酶工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "315",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "23063536175427074",
+            "name": "米氏方程",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "315",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "316",
+        "name": "发酵工程",
+        "lemmaId": "19764084199138562",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "312",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764084199138562",
+            "name": "发酵工程",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "316",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1685",
+        "name": "基因工程",
+        "lemmaId": "19764476400116995",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "312",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "24363794004192780",
+            "name": "基因编辑",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1685",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1686",
+        "name": "代谢工程",
+        "lemmaId": "39886083927863040",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "312",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083927863040",
+            "name": "代谢工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1686",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1687",
+        "name": "生物传感技术",
+        "lemmaId": "39886084078857728",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "312",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886084078857728",
+            "name": "生物传感技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1687",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1688",
+        "name": "纳米生物分析技术",
+        "lemmaId": "39886083994971908",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "312",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083994971908",
+            "name": "纳米生物分析技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1688",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "317",
+        "name": "生物工程其他学科",
+        "lemmaId": "19764070609593612",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "312",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764070609593612",
+            "name": "生物工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "317",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

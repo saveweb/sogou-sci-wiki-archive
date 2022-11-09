@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "792",
+    "name": "极地科学",
+    "lemmaId": "34555511969960206",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "594",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555511969960206",
+        "name": "极地科学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "792",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

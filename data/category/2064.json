@@ -1,0 +1,238 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2064",
+    "name": "安全卫生工程技术",
+    "lemmaId": "39886094715612941",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 9,
+    "allCategoryLemmaNum": 0,
+    "parentId": "860",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "638",
+        "name": "辐射防护技术",
+        "lemmaId": "34555490931331337",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2064",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "38207390239187462",
+            "name": "辐射剂量",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "638",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555490931331337",
+            "name": "辐射防护技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "638",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1436",
+        "name": "通风与空调工程",
+        "lemmaId": "39886076965318412",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2064",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076965318412",
+            "name": "通风与空调工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1436",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2065",
+        "name": "防尘工程技术",
+        "lemmaId": "39886094866607628",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2064",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094866607628",
+            "name": "防尘工程技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2065",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2066",
+        "name": "防毒工程技术",
+        "lemmaId": "39886094765944589",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2064",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094765944589",
+            "name": "防毒工程技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2066",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2067",
+        "name": "噪声与振动控制",
+        "lemmaId": "39886094916939278",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2064",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094916939278",
+            "name": "噪声与振动控制",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2067",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2068",
+        "name": "个体防护工程",
+        "lemmaId": "39886094816276238",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2064",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094816276238",
+            "name": "个体防护工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2068",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2069",
+        "name": "安全卫生工程技术其他学科",
+        "lemmaId": "39886094950493710",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2064",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886094950493710",
+            "name": "安全卫生工程技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2069",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

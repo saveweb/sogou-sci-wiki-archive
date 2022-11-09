@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1135",
+    "name": "广播与电视工程技术",
+    "lemmaId": "39886068526378507",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "14",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "43240583912783616",
+        "name": "数字广播",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1135",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "42804714106023683",
+        "name": "数字电视",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1135",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886068526378507",
+        "name": "广播与电视工程技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1135",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

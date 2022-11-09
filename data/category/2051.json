@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2051",
+    "name": "安全控制论",
+    "lemmaId": "39886094480731658",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2048",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886094480731658",
+        "name": "安全控制论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2051",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "272",
+    "name": "动物生殖生物学",
+    "lemmaId": "19764093476939014",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "264",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764093476939014",
+        "name": "动物生殖生物学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "272",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

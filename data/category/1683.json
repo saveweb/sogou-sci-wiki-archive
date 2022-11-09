@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1683",
+    "name": "海洋环境保护技术",
+    "lemmaId": "39886083978194441",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1673",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886083978194441",
+        "name": "海洋环境保护技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1683",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

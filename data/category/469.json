@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "469",
+    "name": "电工新理论与电磁新技术",
+    "lemmaId": "19764061835109632",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "468",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764061835109632",
+        "name": "电工新理论与电磁新技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "469",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

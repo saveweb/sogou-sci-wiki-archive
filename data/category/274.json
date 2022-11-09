@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "274",
+    "name": "动物遗传学",
+    "lemmaId": "19764086648612107",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "264",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764086648612107",
+        "name": "动物遗传学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "274",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

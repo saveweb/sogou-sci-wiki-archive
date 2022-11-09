@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1440",
+    "name": "市政工程其他学科",
+    "lemmaId": "39886077065981708",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1434",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "68864096086339851",
+        "name": "挂篮悬臂施工法",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1440",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "68493063223325192",
+        "name": "水泥搅拌桩",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1440",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886077065981708",
+        "name": "市政工程其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1440",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

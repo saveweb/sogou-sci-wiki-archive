@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1650",
+    "name": "仿真建模理论与技术",
+    "lemmaId": "39886082971561742",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1648",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886082971561742",
+        "name": "仿真建模理论与技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1650",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

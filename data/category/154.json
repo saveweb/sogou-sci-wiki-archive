@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "154",
+    "name": "比较生物化学",
+    "lemmaId": "19764064720790787",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "143",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764064720790787",
+        "name": "比较生物化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "154",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

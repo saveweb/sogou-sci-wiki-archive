@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "29",
+    "name": "理论物理学其他学科",
+    "lemmaId": "19764072438310149",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "22",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "40749805642739467",
+        "name": "万有引力公式",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "29",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40746113380150790",
+        "name": "圆周运动",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "29",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40607738996223498",
+        "name": "简谐运动",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "29",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764072438310149",
+        "name": "理论物理学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "29",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

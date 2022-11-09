@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1547",
+    "name": "水处理",
+    "lemmaId": "39886080236875268",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "864",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1548",
+        "name": "给水处理",
+        "lemmaId": "39886080136212224",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1547",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080136212224",
+            "name": "给水处理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1548",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1549",
+        "name": "水处理其他学科",
+        "lemmaId": "39886080270429700",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1547",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080270429700",
+            "name": "水处理其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1549",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

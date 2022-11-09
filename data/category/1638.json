@@ -1,0 +1,339 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1638",
+    "name": "控制科学与技术",
+    "lemmaId": "39886082602462981",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 13,
+    "allCategoryLemmaNum": 0,
+    "parentId": "855",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "530",
+        "name": "流体传动与控制",
+        "lemmaId": "19764057473033486",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39728447068597763",
+            "name": "膨胀阀",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "530",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39060516051643913",
+            "name": "润滑油",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "530",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764057473033486",
+            "name": "流体传动与控制",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "530",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1639",
+        "name": "自动控制应用理论",
+        "lemmaId": "39886082753457673",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082753457673",
+            "name": "自动控制应用理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1639",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1640",
+        "name": "指挥与控制系统工程",
+        "lemmaId": "39886082669571847",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082669571847",
+            "name": "指挥与控制系统工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1640",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1641",
+        "name": "控制系统仿真技术",
+        "lemmaId": "39886082820566542",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082820566542",
+            "name": "控制系统仿真技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1641",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1642",
+        "name": "导航制导与控制",
+        "lemmaId": "39886082736680716",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082736680716",
+            "name": "导航制导与控制",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1642",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1643",
+        "name": "机电一体化技术",
+        "lemmaId": "39886082870898182",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082870898182",
+            "name": "机电一体化技术",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1643",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1644",
+        "name": "自动化仪器仪表与装置",
+        "lemmaId": "39886082787012363",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082787012363",
+            "name": "自动化仪器仪表与装置",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1644",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1645",
+        "name": "机器人控制",
+        "lemmaId": "39886082938007044",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082938007044",
+            "name": "机器人控制",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1645",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1646",
+        "name": "自动化技术应用",
+        "lemmaId": "39886082854121223",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082854121223",
+            "name": "自动化技术应用",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1646",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1647",
+        "name": "控制科学与技术其他学科",
+        "lemmaId": "39886083005115919",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1638",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886083005115919",
+            "name": "控制科学与技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1647",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1800",
+    "name": "有害生物生物防治",
+    "lemmaId": "39886087115534081",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1786",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886087115534081",
+        "name": "有害生物生物防治",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1800",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

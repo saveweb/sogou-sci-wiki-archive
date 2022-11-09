@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1514",
+    "name": "采矿工程其他学科",
+    "lemmaId": "39886079179910918",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "803",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "68485512771482117",
+        "name": "煤层气井完井",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1514",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "42775989163421449",
+        "name": "煤炭清洁开采技术",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1514",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "42667978252119564",
+        "name": "矿山水害",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1514",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "41115345192250893",
+        "name": "煤矿矿尘",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1514",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886079179910918",
+        "name": "采矿工程其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1514",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "420",
+    "name": "光化学",
+    "lemmaId": "19764096261956875",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "412",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764403637331205",
+        "name": "光化学烟雾",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "420",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764096261956875",
+        "name": "光化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "420",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "48037638975823618",
+        "name": "光催化技术",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "420",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "128",
+    "name": "生物数学",
+    "lemmaId": "19764094668121359",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "4",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764094668121359",
+        "name": "生物数学",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "128",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

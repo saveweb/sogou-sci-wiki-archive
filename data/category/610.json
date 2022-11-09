@@ -1,0 +1,224 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "610",
+    "name": "裂变堆工程技术",
+    "lemmaId": "34555485847834882",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 8,
+    "allCategoryLemmaNum": 0,
+    "parentId": "8",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "611",
+        "name": "裂变堆物理",
+        "lemmaId": "34555486015607052",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "610",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555486015607052",
+            "name": "裂变堆物理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "611",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "612",
+        "name": "裂变堆热工与水力",
+        "lemmaId": "34555486200156419",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "610",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555486200156419",
+            "name": "裂变堆热工与水力",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "612",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "613",
+        "name": "裂变堆控制",
+        "lemmaId": "34555486367928590",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "610",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555486367928590",
+            "name": "裂变堆控制",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "613",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "614",
+        "name": "裂变堆结构",
+        "lemmaId": "34555486535700736",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "610",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555486535700736",
+            "name": "裂变堆结构",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "614",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "615",
+        "name": "裂变堆屏蔽与防护",
+        "lemmaId": "34555486720250126",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "610",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555486720250126",
+            "name": "裂变堆屏蔽与防护",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "615",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "616",
+        "name": "裂变堆建造技术",
+        "lemmaId": "34555486904799500",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "610",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555486904799500",
+            "name": "裂变堆建造技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "616",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "617",
+        "name": "裂变堆工程技术其他学科",
+        "lemmaId": "34555487089348868",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "610",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555487089348868",
+            "name": "裂变堆工程技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "617",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

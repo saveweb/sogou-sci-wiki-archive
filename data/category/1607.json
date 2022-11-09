@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1607",
+    "name": "重力测量",
+    "lemmaId": "39886081881042437",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1605",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886081881042437",
+        "name": "重力测量",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1607",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

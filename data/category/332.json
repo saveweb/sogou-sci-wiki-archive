@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "332",
+    "name": "自然语言处理",
+    "lemmaId": "19764092923290887",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "330",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "28567572903376904",
+        "name": "命名实体识别",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "332",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764092923290887",
+        "name": "自然语言处理",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "332",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19606990082810886",
+        "name": "BERT",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "332",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

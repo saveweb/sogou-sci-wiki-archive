@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1530",
+    "name": "矿山安全",
+    "lemmaId": "39886079616118535",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "802",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "68360864146731526",
+        "name": "尾矿库",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1530",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "43275511677353472",
+        "name": "矿井火灾",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1530",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "43143652473601798",
+        "name": "水体下采煤",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1530",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886079616118535",
+        "name": "矿山安全",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1530",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "29802939681880079",
+        "name": "矿井突水灾害",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1530",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

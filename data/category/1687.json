@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1687",
+    "name": "生物传感技术",
+    "lemmaId": "39886084078857728",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "312",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886084078857728",
+        "name": "生物传感技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1687",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

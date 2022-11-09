@@ -1,0 +1,601 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1786",
+    "name": "植物保护学",
+    "lemmaId": "39886086729658112",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 21,
+    "allCategoryLemmaNum": 0,
+    "parentId": "857",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1787",
+        "name": "植物检疫学",
+        "lemmaId": "39886086880652803",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086880652803",
+            "name": "植物检疫学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1787",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1788",
+        "name": "植物免疫学",
+        "lemmaId": "39886086813544196",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086813544196",
+            "name": "植物免疫学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1788",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1789",
+        "name": "植物病理学",
+        "lemmaId": "39886086964538893",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086964538893",
+            "name": "植物病理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1789",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1790",
+        "name": "植物药理学",
+        "lemmaId": "39886086863875851",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086863875851",
+            "name": "植物药理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1790",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1791",
+        "name": "农业昆虫学",
+        "lemmaId": "39886087014870540",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087014870540",
+            "name": "农业昆虫学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1791",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1792",
+        "name": "植物病毒学",
+        "lemmaId": "39886086914207491",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086914207491",
+            "name": "植物病毒学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1792",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1793",
+        "name": "植物真菌学",
+        "lemmaId": "39886087065202178",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087065202178",
+            "name": "植物真菌学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1793",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1794",
+        "name": "植物细菌学",
+        "lemmaId": "39886086964539151",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086964539151",
+            "name": "植物细菌学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1794",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1795",
+        "name": "植物线虫学",
+        "lemmaId": "39886087115533836",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087115533836",
+            "name": "植物线虫学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1795",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1796",
+        "name": "农药学",
+        "lemmaId": "39886087014870799",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087014870799",
+            "name": "农药学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1796",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1797",
+        "name": "有害生物监测预警",
+        "lemmaId": "39886087165865485",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087165865485",
+            "name": "有害生物监测预警",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1797",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1798",
+        "name": "抗病虫害育种",
+        "lemmaId": "39886087065202433",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087065202433",
+            "name": "抗病虫害育种",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1798",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1799",
+        "name": "有害生物化学防治",
+        "lemmaId": "39886087216197134",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087216197134",
+            "name": "有害生物化学防治",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1799",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1800",
+        "name": "有害生物生物防治",
+        "lemmaId": "39886087115534081",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087115534081",
+            "name": "有害生物生物防治",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1800",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1801",
+        "name": "有害生物综合防治",
+        "lemmaId": "39886087266528770",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087266528770",
+            "name": "有害生物综合防治",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1801",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1802",
+        "name": "有害生物生态调控",
+        "lemmaId": "39886087182642948",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087182642948",
+            "name": "有害生物生态调控",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1802",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1803",
+        "name": "农业转基因生物安全学",
+        "lemmaId": "39886087333637641",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087333637641",
+            "name": "农业转基因生物安全学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1803",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1804",
+        "name": "杂草防除",
+        "lemmaId": "39886087232974601",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087232974601",
+            "name": "杂草防除",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1804",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1805",
+        "name": "鸟兽、鼠害防治",
+        "lemmaId": "39886087383969281",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087383969281",
+            "name": "鸟兽、鼠害防治",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1805",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1806",
+        "name": "植物保护学其他学科",
+        "lemmaId": "39886087283306249",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1786",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886087283306249",
+            "name": "植物保护学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1806",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

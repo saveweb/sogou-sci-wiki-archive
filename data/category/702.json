@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "702",
+    "name": "理论和计算机地球化学",
+    "lemmaId": "34555498883731719",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "650",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555498883731719",
+        "name": "理论和计算机地球化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "702",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

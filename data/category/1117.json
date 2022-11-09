@@ -1,0 +1,208 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1117",
+    "name": "信息处理技术",
+    "lemmaId": "19764533962745092",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "14",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1118",
+        "name": "信号检测",
+        "lemmaId": "39886067939176207",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1117",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886067939176207",
+            "name": "信号检测",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1118",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1119",
+        "name": "参数估计",
+        "lemmaId": "39886068090170891",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1117",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068090170891",
+            "name": "参数估计",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1119",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1120",
+        "name": "数据处理",
+        "lemmaId": "19764411942053125",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1117",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1121",
+        "name": "语音处理",
+        "lemmaId": "39886068140502538",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1117",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "43093734098763273",
+            "name": "自动语音识别技术",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1121",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "42115475018116867",
+            "name": "参数编码",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1121",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886068140502538",
+            "name": "语音处理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1121",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1122",
+        "name": "图像处理",
+        "lemmaId": "39886068056616707",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1117",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068056616707",
+            "name": "图像处理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1122",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1123",
+        "name": "信息处理技术其他学科",
+        "lemmaId": "39886068207611399",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1117",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068207611399",
+            "name": "信息处理技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1123",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

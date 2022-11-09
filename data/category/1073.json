@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1073",
+    "name": "飞行器试验技术",
+    "lemmaId": "39886066882211334",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "9",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1074",
+        "name": "航空器地面试验",
+        "lemmaId": "39886066781548296",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1073",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066781548296",
+            "name": "航空器地面试验",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1074",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1075",
+        "name": "航空器飞行试验",
+        "lemmaId": "39886066932542981",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1073",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066932542981",
+            "name": "航空器飞行试验",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1075",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1076",
+        "name": "航天器地面试验",
+        "lemmaId": "39886066831879951",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1073",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066831879951",
+            "name": "航天器地面试验",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1076",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1077",
+        "name": "航天器飞行试验",
+        "lemmaId": "39886066982874628",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1073",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066982874628",
+            "name": "航天器飞行试验",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1077",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1078",
+        "name": "飞行器试验技术其他学科",
+        "lemmaId": "39886066882211598",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1073",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886066882211598",
+            "name": "飞行器试验技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1078",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

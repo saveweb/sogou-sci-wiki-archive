@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1964",
+    "name": "纺织科学技术基础学科其他学科",
+    "lemmaId": "39886091846709001",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1961",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886091846709001",
+        "name": "纺织科学技术基础学科其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1964",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "175",
+    "name": "生殖生理学",
+    "lemmaId": "19764089416852742",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "165",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764551729816844",
+        "name": "顶体",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "175",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40788997051543304",
+        "name": "乳头",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "175",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764089416852742",
+        "name": "生殖生理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "175",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1014",
+    "name": "统计模拟",
+    "lemmaId": "39886065170935560",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1010",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886065170935560",
+        "name": "统计模拟",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1014",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

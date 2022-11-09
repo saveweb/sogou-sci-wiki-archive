@@ -1,0 +1,238 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1252",
+    "name": "星系与宇宙学",
+    "lemmaId": "39886071915376386",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 8,
+    "allCategoryLemmaNum": 0,
+    "parentId": "19",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1253",
+        "name": "星系动力学",
+        "lemmaId": "39886072049593869",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1252",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072049593869",
+            "name": "星系动力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1253",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1254",
+        "name": "星系天文学",
+        "lemmaId": "39886071965708035",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1252",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886071965708035",
+            "name": "星系天文学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1254",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1255",
+        "name": "运动宇宙学",
+        "lemmaId": "39886072099925506",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1252",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072099925506",
+            "name": "运动宇宙学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1255",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1256",
+        "name": "星系际物质",
+        "lemmaId": "39886072016039695",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1252",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072016039695",
+            "name": "星系际物质",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1256",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1257",
+        "name": "大爆炸宇宙论",
+        "lemmaId": "19764532486350091",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1252",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1258",
+        "name": "星系形成与演化",
+        "lemmaId": "39886072049594117",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1252",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072049594117",
+            "name": "星系形成与演化",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1258",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1259",
+        "name": "宇宙大尺度结构起源与演化",
+        "lemmaId": "39886072200588813",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1252",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072200588813",
+            "name": "宇宙大尺度结构起源与演化",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1259",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1260",
+        "name": "星系与宇宙学其他学科",
+        "lemmaId": "39886072099925771",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1252",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072099925771",
+            "name": "星系与宇宙学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1260",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

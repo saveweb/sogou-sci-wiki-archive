@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1097",
+    "name": "电子电路",
+    "lemmaId": "10655",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1096",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764477725517064",
+        "name": "绝缘栅双极晶体管",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1097",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764570134422795",
+        "name": "零漂",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1097",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40748733410864650",
+        "name": "bms",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1097",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "336",
+    "name": "机器学习",
+    "lemmaId": "11157",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "330",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "33498663997162509",
+        "name": "元学习",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "336",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "33271073344603136",
+        "name": "课程学习",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "336",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

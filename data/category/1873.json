@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1873",
+    "name": "草原学",
+    "lemmaId": "59365948917872899",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1864",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365948917872899",
+        "name": "草原学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1873",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886089263017481",
+        "name": "草原学(包括牧草学、牧草育种学、牧草栽培学、草地生态学、草地保护学等)",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1873",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

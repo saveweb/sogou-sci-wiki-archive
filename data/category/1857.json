@@ -1,0 +1,195 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1857",
+    "name": "畜牧、兽医科学基础学科",
+    "lemmaId": "39886088810032643",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "866",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1858",
+        "name": "家畜生物化学",
+        "lemmaId": "39886088726146830",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1857",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088726146830",
+            "name": "家畜生物化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1858",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1859",
+        "name": "家畜生理学",
+        "lemmaId": "39886088877141508",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1857",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088877141508",
+            "name": "家畜生理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1859",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1860",
+        "name": "家畜遗传学",
+        "lemmaId": "39886088776478464",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1857",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088776478464",
+            "name": "家畜遗传学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1860",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1861",
+        "name": "家畜生态学",
+        "lemmaId": "39886088927473157",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1857",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088927473157",
+            "name": "家畜生态学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1861",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1862",
+        "name": "家畜微生物学",
+        "lemmaId": "39886088826810121",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1857",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088826810121",
+            "name": "家畜微生物学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1862",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1863",
+        "name": "畜牧、兽医科学基础学科其他学科",
+        "lemmaId": "39886088961027584",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1857",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088961027584",
+            "name": "畜牧、兽医科学基础学科其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1863",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

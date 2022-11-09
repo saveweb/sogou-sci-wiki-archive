@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "634",
+    "name": "同位素技术其他学科",
+    "lemmaId": "34555490126024966",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "630",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555490126024966",
+        "name": "同位素技术其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "634",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

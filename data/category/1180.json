@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1180",
+    "name": "粘性流体力学",
+    "lemmaId": "39886069633675010",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1174",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886069633675010",
+        "name": "粘性流体力学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1180",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "557",
+    "name": "金属材料其他学科",
+    "lemmaId": "19764058597106947",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "551",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764058597106947",
+        "name": "金属材料其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "557",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

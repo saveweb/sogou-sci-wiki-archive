@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1728",
+    "name": "包装技术",
+    "lemmaId": "39886085119045389",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1722",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886085119045389",
+        "name": "包装技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1728",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "608",
+    "name": "粒子加速器应用",
+    "lemmaId": "34555485478736135",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "605",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555485478736135",
+        "name": "粒子加速器应用",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "608",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "218",
+    "name": "群落生态学",
+    "lemmaId": "19764078343890181",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "211",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764391943611656",
+        "name": "食物链",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "218",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40356486345420553",
+        "name": "群落演替",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "218",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "50083989247010569",
+        "name": "中度干扰假说",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "218",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "46399139738586884",
+        "name": "香农-威纳指数",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "218",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764078343890181",
+        "name": "群落生态学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "218",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1065",
+    "name": "航空航天复合材料",
+    "lemmaId": "39886066664107521",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1062",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886066664107521",
+        "name": "航空航天复合材料",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1065",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

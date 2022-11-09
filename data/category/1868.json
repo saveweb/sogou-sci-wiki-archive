@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1868",
+    "name": "饲料学",
+    "lemmaId": "39886088994582284",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1864",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886088994582284",
+        "name": "饲料学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1868",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1089",
+    "name": "航空航天地面设施、技术保障其他学科",
+    "lemmaId": "39886067301641732",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1084",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886067301641732",
+        "name": "航空航天地面设施、技术保障其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1089",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

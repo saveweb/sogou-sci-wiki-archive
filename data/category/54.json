@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "54",
+    "name": "发光学",
+    "lemmaId": "19764098560435465",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "46",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764098560435465",
+        "name": "发光学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "54",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

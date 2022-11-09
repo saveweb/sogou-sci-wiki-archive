@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1340",
+    "name": "化工过程动态学",
+    "lemmaId": "39886074297741063",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1339",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886074297741063",
+        "name": "化工过程动态学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1340",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

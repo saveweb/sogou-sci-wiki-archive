@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "563",
+    "name": "特种功能无机非金属材料",
+    "lemmaId": "19764073126176008",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "558",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764411673617668",
+        "name": "干电池",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "563",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "11218",
+        "name": "固体氧化物燃料电池",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "563",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "35468192587471113",
+        "name": "室温磁制冷材料",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "563",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764073126176008",
+        "name": "特种功能无机非金属材料",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "563",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

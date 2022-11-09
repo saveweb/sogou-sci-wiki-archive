@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "64",
+    "name": "电磁学其他学科",
+    "lemmaId": "19764065408656640",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "59",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764065408656640",
+        "name": "电磁学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "64",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1015",
+    "name": "应用统计数学其他学科",
+    "lemmaId": "39886065321930242",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1010",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886065321930242",
+        "name": "应用统计数学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1015",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

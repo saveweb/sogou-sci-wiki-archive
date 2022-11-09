@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "836",
+    "name": "生物药物学",
+    "lemmaId": "34555519704256777",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "835",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "68456014936092929",
+        "name": "抗菌肽",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "836",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "41331445414784775",
+        "name": "河豚毒素",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "836",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555519704256777",
+        "name": "生物药物学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "836",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

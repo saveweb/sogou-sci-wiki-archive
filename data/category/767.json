@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "767",
+    "name": "水文测量",
+    "lemmaId": "34555507725324554",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "762",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555507725324554",
+        "name": "水文测量",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "767",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

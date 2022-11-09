@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2001",
+    "name": "食品科学技术基础学科其他学科",
+    "lemmaId": "39886093054668289",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1993",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886093054668289",
+        "name": "食品科学技术基础学科其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2001",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

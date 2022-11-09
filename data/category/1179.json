@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1179",
+    "name": "湍流理论",
+    "lemmaId": "39886069734338051",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1174",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886069734338051",
+        "name": "湍流理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1179",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

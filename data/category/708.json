@@ -1,0 +1,238 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "708",
+    "name": "大地测量学",
+    "lemmaId": "19764488127390988",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 8,
+    "allCategoryLemmaNum": 0,
+    "parentId": "16",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "709",
+        "name": "地球形状学",
+        "lemmaId": "34555499890364686",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "708",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555499890364686",
+            "name": "地球形状学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "709",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "710",
+        "name": "几何大地测量学",
+        "lemmaId": "34555500007805191",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "708",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764413133235460",
+            "name": "大地水准面",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "710",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "34555500007805191",
+            "name": "几何大地测量学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "710",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "711",
+        "name": "物理大地测量学",
+        "lemmaId": "34555500192354571",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "708",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555500192354571",
+            "name": "物理大地测量学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "711",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "712",
+        "name": "动力大地测量学",
+        "lemmaId": "34555500309795073",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "708",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555500309795073",
+            "name": "动力大地测量学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "712",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "713",
+        "name": "空间大地测量学",
+        "lemmaId": "34555500477567244",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "708",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555500477567244",
+            "name": "空间大地测量学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "713",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "714",
+        "name": "行星大地测量学",
+        "lemmaId": "34555500595007754",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "708",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555500595007754",
+            "name": "行星大地测量学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "714",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "715",
+        "name": "大地测量学其他学科",
+        "lemmaId": "34555500779557131",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "708",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555500779557131",
+            "name": "大地测量学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "715",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

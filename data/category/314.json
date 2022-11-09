@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "314",
+    "name": "蛋白质工程",
+    "lemmaId": "19764062724302087",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "312",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764062724302087",
+        "name": "蛋白质工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "314",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

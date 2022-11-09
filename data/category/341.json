@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "341",
+    "name": "并行处理",
+    "lemmaId": "19764059167532301",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "339",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764059167532301",
+        "name": "并行处理",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "341",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

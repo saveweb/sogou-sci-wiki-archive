@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1597",
+    "name": "航空运输",
+    "lemmaId": "39886081629384199",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "853",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1598",
+        "name": "机场工程",
+        "lemmaId": "39886081528721155",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1597",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081528721155",
+            "name": "机场工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1598",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1599",
+        "name": "航空运输管理",
+        "lemmaId": "39886081679715840",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1597",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081679715840",
+            "name": "航空运输管理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1599",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1600",
+        "name": "航空运输其他学科",
+        "lemmaId": "39886081595830016",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1597",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081595830016",
+            "name": "航空运输其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1600",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

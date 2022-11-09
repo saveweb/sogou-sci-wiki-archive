@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "599",
+    "name": "核探测技术与核电子学",
+    "lemmaId": "34555484086227215",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "8",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "82375457709830671",
+        "name": "半导体辐照",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "599",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40816753059589637",
+        "name": "自给能中子探测器",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "599",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "28786472102410251",
+        "name": "闪烁体探测器",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "599",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

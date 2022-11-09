@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "628",
+    "name": "核动力运行技术",
+    "lemmaId": "34555489119392009",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "624",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555489119392009",
+        "name": "核动力运行技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "628",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

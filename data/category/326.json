@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "326",
+    "name": "算法理论",
+    "lemmaId": "19764085457429773",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "322",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764407546422533",
+        "name": "选择排序",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "326",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39215331587157506",
+        "name": "冒泡排序",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "326",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "36901880974039562",
+        "name": "神经网络（Neural Networks）",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "326",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764085457429773",
+        "name": "算法理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "326",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1142",
+    "name": "连续介质力学",
+    "lemmaId": "39886068593487620",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1138",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886068593487620",
+        "name": "连续介质力学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1142",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

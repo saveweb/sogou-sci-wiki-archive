@@ -1,0 +1,498 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1148",
+    "name": "固体力学",
+    "lemmaId": "10684",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 16,
+    "allCategoryLemmaNum": 0,
+    "parentId": "12",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "539",
+        "name": "材料力学",
+        "lemmaId": "19764060677481728",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764406573344013",
+            "name": "惯性矩",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "539",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764060677481728",
+            "name": "材料力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "539",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1149",
+        "name": "弹性力学",
+        "lemmaId": "39886068895477256",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068895477256",
+            "name": "弹性力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1149",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1150",
+        "name": "塑性力学",
+        "lemmaId": "39886068794814217",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068794814217",
+            "name": "塑性力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1150",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1151",
+        "name": "粘弹性、粘塑性力学",
+        "lemmaId": "39886068945808903",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068945808903",
+            "name": "粘弹性、粘塑性力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1151",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1152",
+        "name": "蠕变",
+        "lemmaId": "19775009438311690",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1153",
+        "name": "界面力学与表面力学",
+        "lemmaId": "39886068996140548",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068996140548",
+            "name": "界面力学与表面力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1153",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1154",
+        "name": "疲劳",
+        "lemmaId": "39886068912254728",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068912254728",
+            "name": "疲劳",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1154",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1155",
+        "name": "损伤力学",
+        "lemmaId": "11053",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1156",
+        "name": "断裂力学",
+        "lemmaId": "39886068962586368",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886068962586368",
+            "name": "断裂力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1156",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1157",
+        "name": "散体力学",
+        "lemmaId": "39886069113581071",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886069113581071",
+            "name": "散体力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1157",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1158",
+        "name": "细观力学",
+        "lemmaId": "39886069029695247",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886069029695247",
+            "name": "细观力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1158",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1159",
+        "name": "微观力学",
+        "lemmaId": "39886069180689927",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886069180689927",
+            "name": "微观力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1159",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1160",
+        "name": "电磁固体力学",
+        "lemmaId": "39886069080026880",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886069080026880",
+            "name": "电磁固体力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1160",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1161",
+        "name": "结构力学",
+        "lemmaId": "39886069231021578",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886069231021578",
+            "name": "结构力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1161",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1162",
+        "name": "计算固体力学",
+        "lemmaId": "39886069147135754",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886069147135754",
+            "name": "计算固体力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1162",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1163",
+        "name": "实验固体力学",
+        "lemmaId": "39886069281353230",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886069281353230",
+            "name": "实验固体力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1163",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1164",
+        "name": "固体力学其他学科",
+        "lemmaId": "39886069197467395",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1148",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886069197467395",
+            "name": "固体力学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1164",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

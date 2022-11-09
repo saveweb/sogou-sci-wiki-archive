@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1613",
+    "name": "航空摄影测量",
+    "lemmaId": "39886082065591817",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1610",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886082065591817",
+        "name": "航空摄影测量",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1613",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

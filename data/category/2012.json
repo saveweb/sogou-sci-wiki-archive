@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2012",
+    "name": "食品添加剂技术",
+    "lemmaId": "39886093239217922",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2002",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886093239217922",
+        "name": "食品添加剂技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2012",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

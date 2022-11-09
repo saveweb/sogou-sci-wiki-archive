@@ -1,0 +1,282 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1586",
+    "name": "水路运输",
+    "lemmaId": "39886081226731277",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 10,
+    "allCategoryLemmaNum": 0,
+    "parentId": "853",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1587",
+        "name": "航海技术与装备工程",
+        "lemmaId": "39886081377725966",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1586",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081377725966",
+            "name": "航海技术与装备工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1587",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1588",
+        "name": "船舶通信与导航工程",
+        "lemmaId": "39886081277062916",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1586",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081277062916",
+            "name": "船舶通信与导航工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1588",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1589",
+        "name": "航道工程",
+        "lemmaId": "39886081428057611",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1586",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081428057611",
+            "name": "航道工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1589",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1590",
+        "name": "港口工程",
+        "lemmaId": "39886081327394575",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1586",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081327394575",
+            "name": "港口工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1590",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1591",
+        "name": "疏浚工程",
+        "lemmaId": "39886081478389256",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1586",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081478389256",
+            "name": "疏浚工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1591",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1592",
+        "name": "水路运输管理",
+        "lemmaId": "39886081377726213",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1586",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081377726213",
+            "name": "水路运输管理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1592",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1593",
+        "name": "救助、打捞与潜水作业工程",
+        "lemmaId": "39886081528720901",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1586",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081528720901",
+            "name": "救助、打捞与潜水作业工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1593",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1594",
+        "name": "海事技术与装备工程",
+        "lemmaId": "39886081428057859",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1586",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081428057859",
+            "name": "海事技术与装备工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1594",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1595",
+        "name": "水路运输其他学科",
+        "lemmaId": "39886081579052545",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1586",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081579052545",
+            "name": "水路运输其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1595",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

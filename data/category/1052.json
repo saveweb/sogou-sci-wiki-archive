@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1052",
+    "name": "火箭、导弹",
+    "lemmaId": "39886066211122950",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1051",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886066211122950",
+        "name": "火箭、导弹",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1052",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "797",
+    "name": "勘探地球物理学",
+    "lemmaId": "34555512506831116",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "587",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "41075326247268099",
+        "name": "地质雷达",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "797",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "36109798021814530",
+        "name": "蚂蚁追踪",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "797",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555512506831116",
+        "name": "勘探地球物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "797",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

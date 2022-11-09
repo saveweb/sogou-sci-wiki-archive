@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "462",
+    "name": "动力机械工程",
+    "lemmaId": "19764092487083274",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "11",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "463",
+        "name": "蒸汽工程",
+        "lemmaId": "19764066817942787",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "462",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764066817942787",
+            "name": "蒸汽工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "463",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "464",
+        "name": "内燃机工程",
+        "lemmaId": "19764082588525832",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "462",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764082588525832",
+            "name": "内燃机工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "464",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "465",
+        "name": "流体机械及流体动力工程",
+        "lemmaId": "19764059553408266",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "462",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764059553408266",
+            "name": "流体机械及流体动力工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "465",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "466",
+        "name": "喷气推进机与涡轮机械",
+        "lemmaId": "19764069099644163",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "462",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764069099644163",
+            "name": "喷气推进机与涡轮机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "466",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "467",
+        "name": "动力机械工程其他学科",
+        "lemmaId": "19764087906903307",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "462",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764087906903307",
+            "name": "动力机械工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "467",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

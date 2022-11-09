@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1951",
+    "name": "军事信息工程与信息对抗技术",
+    "lemmaId": "39886091611827712",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1944",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886091611827712",
+        "name": "军事信息工程与信息对抗技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1951",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

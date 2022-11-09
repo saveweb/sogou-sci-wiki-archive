@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "327",
+    "name": "数据结构",
+    "lemmaId": "19764066247517448",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "322",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764066247517448",
+        "name": "数据结构",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "327",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

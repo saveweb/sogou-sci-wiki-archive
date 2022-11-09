@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "407",
+    "name": "光度分析",
+    "lemmaId": "19764073444943114",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "399",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764073444943114",
+        "name": "光度分析",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "407",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

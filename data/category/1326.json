@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1326",
+    "name": "膜分离",
+    "lemmaId": "39886073911865095",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1321",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886073911865095",
+        "name": "膜分离",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1326",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

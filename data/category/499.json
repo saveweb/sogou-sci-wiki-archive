@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "499",
+    "name": "铸造工艺与设备",
+    "lemmaId": "19764093107840261",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "498",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764093107840261",
+        "name": "铸造工艺与设备",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "499",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1196",
+    "name": "爆炸力学",
+    "lemmaId": "39886070069882627",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "12",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1197",
+        "name": "爆轰与爆燃理论",
+        "lemmaId": "39886070220877314",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1196",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070220877314",
+            "name": "爆轰与爆燃理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1197",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1198",
+        "name": "爆炸波、冲击波、应力波",
+        "lemmaId": "39886070120214273",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1196",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070120214273",
+            "name": "爆炸波、冲击波、应力波",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1198",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1199",
+        "name": "高速碰撞动力学",
+        "lemmaId": "39886070271208960",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1196",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070271208960",
+            "name": "高速碰撞动力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1199",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1200",
+        "name": "爆炸力学其他学科",
+        "lemmaId": "39886070170545922",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1196",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070170545922",
+            "name": "爆炸力学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1200",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

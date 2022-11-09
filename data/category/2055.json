@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2055",
+    "name": "安全工程理论",
+    "lemmaId": "39886094581394947",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2054",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886094581394947",
+        "name": "安全工程理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2055",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

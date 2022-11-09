@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1502",
+    "name": "地下矿设计",
+    "lemmaId": "39886078844366600",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "757",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886078844366600",
+        "name": "地下矿设计",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1502",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

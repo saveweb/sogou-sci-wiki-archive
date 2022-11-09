@@ -1,0 +1,322 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "22",
+    "name": "理论物理学",
+    "lemmaId": "19764065039557901",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 11,
+    "lemmaNum": 19,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "23",
+        "name": "数学物理",
+        "lemmaId": "19764072236983559",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "22",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764072236983559",
+            "name": "数学物理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "23",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "24",
+        "name": "电磁场理论",
+        "lemmaId": "19764087101596929",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "22",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39152168523034112",
+            "name": "康普顿效应",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "24",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764087101596929",
+            "name": "电磁场理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "24",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "25",
+        "name": "经典场论",
+        "lemmaId": "19764091480450314",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "22",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764091480450314",
+            "name": "经典场论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "25",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "26",
+        "name": "相对论与引力场",
+        "lemmaId": "19764058999760134",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "22",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764058999760134",
+            "name": "相对论与引力场",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "26",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "27",
+        "name": "量子力学",
+        "lemmaId": "10472",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 4,
+        "lemmaNum": 4,
+        "allCategoryLemmaNum": 0,
+        "parentId": "22",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "10471",
+            "name": "量子纠缠",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "27",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "83095178046419469",
+            "name": "时间反演对称",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "27",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40374707777728015",
+            "name": "波粒二象性",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "27",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "17764328987951625",
+            "name": "不确定性原理",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "27",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "28",
+        "name": "统计物理学",
+        "lemmaId": "19764083746153741",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "22",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764083746153741",
+            "name": "统计物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "28",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "29",
+        "name": "理论物理学其他学科",
+        "lemmaId": "19764072438310149",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 3,
+        "lemmaNum": 4,
+        "allCategoryLemmaNum": 0,
+        "parentId": "22",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "40749805642739467",
+            "name": "万有引力公式",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "29",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40746113380150790",
+            "name": "圆周运动",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "29",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "40607738996223498",
+            "name": "简谐运动",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "29",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764072438310149",
+            "name": "理论物理学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "29",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,352 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1268",
+    "name": "太阳与太阳系",
+    "lemmaId": "39886072318029569",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 17,
+    "allCategoryLemmaNum": 0,
+    "parentId": "19",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "808",
+        "name": "行星物理学",
+        "lemmaId": "34555514536874252",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 6,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1268",
+        "spread": false,
+        "children": [
+          {
+            "type": "category",
+            "id": "809",
+            "name": "行星空间物理学",
+            "lemmaId": "34555514704646400",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "808",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "810",
+            "name": "行星大气物理学",
+            "lemmaId": "34555514855641354",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "808",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "811",
+            "name": "行星地球物理学",
+            "lemmaId": "34555514989859072",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 1,
+            "lemmaNum": 2,
+            "allCategoryLemmaNum": 0,
+            "parentId": "808",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "812",
+            "name": "行星探测技术",
+            "lemmaId": "34555515157631242",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 1,
+            "allCategoryLemmaNum": 0,
+            "parentId": "808",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1269",
+        "name": "太阳物理学",
+        "lemmaId": "39886072469024265",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1268",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072469024265",
+            "name": "太阳物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1269",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1270",
+        "name": "太阳系物理学",
+        "lemmaId": "39886072368361228",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1268",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072368361228",
+            "name": "太阳系物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1270",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1271",
+        "name": "太阳系形成与演化",
+        "lemmaId": "39886072519355919",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1268",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072519355919",
+            "name": "太阳系形成与演化",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1271",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1272",
+        "name": "行星际物理学",
+        "lemmaId": "39886072418692871",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1268",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072418692871",
+            "name": "行星际物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1272",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1273",
+        "name": "陨星学",
+        "lemmaId": "39886072569687558",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1268",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072569687558",
+            "name": "陨星学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1273",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1274",
+        "name": "比较行星学",
+        "lemmaId": "39886072469024523",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1268",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "66177358272475400",
+            "name": "类地行星",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1274",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886072469024523",
+            "name": "比较行星学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1274",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1275",
+        "name": "月球科学",
+        "lemmaId": "39886072620019204",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1268",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764498764145921",
+            "name": "月相",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1275",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886072620019204",
+            "name": "月球科学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1275",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1276",
+        "name": "太阳与太阳系其他学科",
+        "lemmaId": "39886072536133376",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1268",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886072536133376",
+            "name": "太阳与太阳系其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1276",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

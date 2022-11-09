@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "915",
+    "name": "射影几何学",
+    "lemmaId": "39886062587244044",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "908",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "45231912968556302",
+        "name": "布列安桑定理",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "915",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "44197568594349068",
+        "name": "极点与极线",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "915",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886062587244044",
+        "name": "射影几何学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "915",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

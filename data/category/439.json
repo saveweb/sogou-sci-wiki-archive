@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "439",
+    "name": "聚变化学",
+    "lemmaId": "19764067203818754",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "435",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764067203818754",
+        "name": "聚变化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "439",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

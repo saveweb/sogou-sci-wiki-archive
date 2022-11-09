@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1217",
+    "name": "天体力学数值方法",
+    "lemmaId": "39886071026183682",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1213",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886071026183682",
+        "name": "天体力学数值方法",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1217",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1521",
+    "name": "油气田井开发工程",
+    "lemmaId": "39886079481900554",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "802",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "43950337911979533",
+        "name": "采油技术",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1521",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "43866761069624836",
+        "name": "三次采油",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1521",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "42264239817125632",
+        "name": "水平定向钻进技术",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1521",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886079481900554",
+        "name": "油气田井开发工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1521",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2120",
+    "name": "普通外科学",
+    "lemmaId": "59365956853495812",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2119",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "106639421188686351",
+        "name": "股疝",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2120",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "106157360770269960",
+        "name": "腹股沟疝",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2120",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "59365956853495812",
+        "name": "普通外科学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2120",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

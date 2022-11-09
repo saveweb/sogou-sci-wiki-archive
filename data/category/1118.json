@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1118",
+    "name": "信号检测",
+    "lemmaId": "39886067939176207",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1117",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886067939176207",
+        "name": "信号检测",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1118",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

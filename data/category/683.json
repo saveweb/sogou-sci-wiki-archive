@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "683",
+    "name": "电离层物理学",
+    "lemmaId": "34555497071792394",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "682",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555497071792394",
+        "name": "电离层物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "683",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

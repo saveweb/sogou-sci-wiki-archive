@@ -1,0 +1,398 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1880",
+    "name": "兽医学",
+    "lemmaId": "39886089330126593",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 14,
+    "allCategoryLemmaNum": 0,
+    "parentId": "866",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1881",
+        "name": "家畜解剖学",
+        "lemmaId": "39886089481121294",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089481121294",
+            "name": "家畜解剖学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1881",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1882",
+        "name": "家畜组织胚胎学",
+        "lemmaId": "39886089414012679",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089414012679",
+            "name": "家畜组织胚胎学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1882",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1883",
+        "name": "兽医免疫学",
+        "lemmaId": "39886089615339022",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089615339022",
+            "name": "兽医免疫学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1883",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1884",
+        "name": "亦称兽医病理学)",
+        "lemmaId": "39886089548230401",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089548230401",
+            "name": "亦称兽医病理学)",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1884",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1885",
+        "name": "兽医药理学",
+        "lemmaId": "39886089699225093",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089699225093",
+            "name": "兽医药理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1885",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1886",
+        "name": "兽医临床学",
+        "lemmaId": "39886089615339269",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089615339269",
+            "name": "兽医临床学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1886",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1887",
+        "name": "兽医卫生检疫学",
+        "lemmaId": "39886089766333966",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089766333966",
+            "name": "兽医卫生检疫学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1887",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1888",
+        "name": "家畜寄生虫学",
+        "lemmaId": "39886089665670915",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089665670915",
+            "name": "家畜寄生虫学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1888",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1889",
+        "name": "家畜传染病学",
+        "lemmaId": "39886089833442824",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089833442824",
+            "name": "家畜传染病学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1889",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1890",
+        "name": "家畜病毒学",
+        "lemmaId": "39886089749557004",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089749557004",
+            "name": "家畜病毒学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1890",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1891",
+        "name": "中兽医学",
+        "lemmaId": "39886089900551692",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089900551692",
+            "name": "中兽医学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1891",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1892",
+        "name": "兽医器械学",
+        "lemmaId": "39886089799888641",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089799888641",
+            "name": "兽医器械学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1892",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1893",
+        "name": "兽医学其他学科",
+        "lemmaId": "39886089950883332",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1880",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089950883332",
+            "name": "兽医学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1893",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "290",
+    "name": "微生物分类学",
+    "lemmaId": "19764067254150411",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "284",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "45411366953062401",
+        "name": "病原微生物",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "290",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "30925996353928462",
+        "name": "嗜酸生物",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "290",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764067254150411",
+        "name": "微生物分类学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "290",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

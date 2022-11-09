@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "122",
+    "name": "粒子加速器物理学",
+    "lemmaId": "19764064603350281",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "119",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764064603350281",
+        "name": "粒子加速器物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "122",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

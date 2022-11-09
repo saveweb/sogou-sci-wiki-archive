@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1260",
+    "name": "星系与宇宙学其他学科",
+    "lemmaId": "39886072099925771",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1252",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886072099925771",
+        "name": "星系与宇宙学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1260",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

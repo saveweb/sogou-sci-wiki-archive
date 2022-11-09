@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "775",
+    "name": "水文学其它学科",
+    "lemmaId": "34555508866175232",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "762",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555508866175232",
+        "name": "水文学其它学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "775",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

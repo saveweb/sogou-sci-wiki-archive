@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "839",
+    "name": "药剂学",
+    "lemmaId": "34555520241127694",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "13",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39225249773940487",
+        "name": "硝苯地平缓释片（Ⅱ）",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "839",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39224971624476160",
+        "name": "石蜡油",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "839",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555520241127694",
+        "name": "药剂学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "839",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

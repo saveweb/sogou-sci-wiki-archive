@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2065",
+    "name": "防尘工程技术",
+    "lemmaId": "39886094866607628",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2064",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886094866607628",
+        "name": "防尘工程技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2065",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "152",
+    "name": "免疫生物化学",
+    "lemmaId": "19764083326723343",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "143",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764083326723343",
+        "name": "免疫生物化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "152",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

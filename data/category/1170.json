@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1170",
+    "name": "振动控制理论",
+    "lemmaId": "39886069365239552",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1165",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886069365239552",
+        "name": "振动控制理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1170",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

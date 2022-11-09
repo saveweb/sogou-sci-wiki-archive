@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "27",
+    "name": "量子力学",
+    "lemmaId": "10472",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "22",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "10471",
+        "name": "量子纠缠",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "27",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "83095178046419469",
+        "name": "时间反演对称",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "27",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40374707777728015",
+        "name": "波粒二象性",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "27",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "17764328987951625",
+        "name": "不确定性原理",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "27",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

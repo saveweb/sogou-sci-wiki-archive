@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1836",
+    "name": "森林保护学其他学科",
+    "lemmaId": "39886088105389827",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1832",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886088105389827",
+        "name": "森林保护学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1836",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

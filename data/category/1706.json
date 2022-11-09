@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1706",
+    "name": "干细胞与组织工程学",
+    "lemmaId": "39886084515065613",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1700",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886084515065613",
+        "name": "干细胞与组织工程学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1706",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

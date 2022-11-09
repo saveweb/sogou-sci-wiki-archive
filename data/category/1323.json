@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1323",
+    "name": "吸收",
+    "lemmaId": "39886073962196492",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1321",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886073962196492",
+        "name": "吸收",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1323",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

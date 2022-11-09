@@ -1,0 +1,369 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "251",
+    "name": "昆虫学",
+    "lemmaId": "19764080340378884",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 90,
+    "allCategoryLemmaNum": 0,
+    "parentId": "4",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "252",
+        "name": "昆虫生物化学",
+        "lemmaId": "19764074686457094",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764074686457094",
+            "name": "昆虫生物化学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "252",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "253",
+        "name": "昆虫形态学",
+        "lemmaId": "19764061180798217",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764061180798217",
+            "name": "昆虫形态学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "253",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "254",
+        "name": "昆虫组织学",
+        "lemmaId": "19764060643927297",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764060643927297",
+            "name": "昆虫组织学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "254",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "255",
+        "name": "昆虫生理学",
+        "lemmaId": "19764072555750660",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764072555750660",
+            "name": "昆虫生理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "255",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "256",
+        "name": "昆虫生态学",
+        "lemmaId": "19764072186651910",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764072186651910",
+            "name": "昆虫生态学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "256",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "257",
+        "name": "昆虫病理学",
+        "lemmaId": "19764084064920835",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764084064920835",
+            "name": "昆虫病理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "257",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "258",
+        "name": "昆虫毒理学",
+        "lemmaId": "19764094198359310",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764094198359310",
+            "name": "昆虫毒理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "258",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "259",
+        "name": "昆虫行为学",
+        "lemmaId": "19764085289657610",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764085289657610",
+            "name": "昆虫行为学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "259",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "260",
+        "name": "昆虫分类学",
+        "lemmaId": "19764070039168265",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764070039168265",
+            "name": "昆虫分类学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "260",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "261",
+        "name": "实验昆虫学",
+        "lemmaId": "19764063143732489",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764063143732489",
+            "name": "实验昆虫学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "261",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "262",
+        "name": "昆虫病毒学",
+        "lemmaId": "19764064150365452",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764064150365452",
+            "name": "昆虫病毒学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "262",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "263",
+        "name": "昆虫学其他学科",
+        "lemmaId": "19764082672411919",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "251",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764082672411919",
+            "name": "昆虫学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "263",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

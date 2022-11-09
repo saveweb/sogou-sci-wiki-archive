@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2096",
+    "name": "康复医学",
+    "lemmaId": "59365956115298310",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2095",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365956115298310",
+        "name": "康复医学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2096",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

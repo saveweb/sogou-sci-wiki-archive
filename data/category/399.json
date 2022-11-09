@@ -1,0 +1,383 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "399",
+    "name": "分析化学",
+    "lemmaId": "19764089634956553",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 6,
+    "lemmaNum": 290,
+    "allCategoryLemmaNum": 0,
+    "parentId": "3",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "400",
+        "name": "化学分析",
+        "lemmaId": "19764096681387267",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764439574127881",
+            "name": "pH试纸",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "400",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764096681387267",
+            "name": "化学分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "400",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "401",
+        "name": "电化学分析",
+        "lemmaId": "19764090457040135",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764090457040135",
+            "name": "电化学分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "401",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "402",
+        "name": "光谱分析",
+        "lemmaId": "19764073730155779",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764073730155779",
+            "name": "光谱分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "402",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "403",
+        "name": "波谱分析",
+        "lemmaId": "19764071767221517",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764071767221517",
+            "name": "波谱分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "403",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "404",
+        "name": "质谱分析",
+        "lemmaId": "19764096949822724",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764096949822724",
+            "name": "质谱分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "404",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "405",
+        "name": "热化学分析",
+        "lemmaId": "19764085205771530",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764085205771530",
+            "name": "热化学分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "405",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "406",
+        "name": "色谱分析",
+        "lemmaId": "19764066750833929",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764066750833929",
+            "name": "色谱分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "406",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "407",
+        "name": "光度分析",
+        "lemmaId": "19764073444943114",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764073444943114",
+            "name": "光度分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "407",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "408",
+        "name": "放射分析",
+        "lemmaId": "19764070794142981",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764070794142981",
+            "name": "放射分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "408",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "409",
+        "name": "状态分析与物相分析",
+        "lemmaId": "19764070928360719",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764070928360719",
+            "name": "状态分析与物相分析",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "409",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "410",
+        "name": "分析化学计量学",
+        "lemmaId": "19764072975181058",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764072975181058",
+            "name": "分析化学计量学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "410",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "411",
+        "name": "分析化学其他学科",
+        "lemmaId": "19764097067263236",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "399",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764097067263236",
+            "name": "分析化学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "411",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

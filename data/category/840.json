@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "840",
+    "name": "药物代谢动力学",
+    "lemmaId": "33528066219197455",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "13",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "841",
+        "name": "药效学",
+        "lemmaId": "34555520559894796",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "840",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555520559894796",
+            "name": "药效学",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "841",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "842",
+        "name": "药动学",
+        "lemmaId": "34555520727666959",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "840",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555520727666959",
+            "name": "药动学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "842",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "843",
+        "name": "计量药理学",
+        "lemmaId": "34555520845107465",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "840",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "34555520845107465",
+            "name": "计量药理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "843",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

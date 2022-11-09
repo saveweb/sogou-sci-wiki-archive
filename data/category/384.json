@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "384",
+    "name": "无机合成化学",
+    "lemmaId": "19764069720401156",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "379",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764069720401156",
+        "name": "无机合成化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "384",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764397043885315",
+        "name": "置换反应",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "384",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "23677116998495749",
+        "name": "MCM-41介孔分子筛",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "384",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

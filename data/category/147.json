@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "147",
+    "name": "脂类生物化学",
+    "lemmaId": "19764096362620164",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "143",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764096362620164",
+        "name": "脂类生物化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "147",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

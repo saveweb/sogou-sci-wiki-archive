@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "644",
+    "name": "第四纪地质学",
+    "lemmaId": "34555491652751624",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "585",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "41672330627280397",
+        "name": "第四纪",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "644",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "36880688565213442",
+        "name": "风蚀地貌",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "644",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555491652751624",
+        "name": "第四纪地质学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "644",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "33845976745660680",
+        "name": "磁性地层学",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "644",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

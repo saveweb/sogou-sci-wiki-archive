@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "990",
+    "name": "极限理论",
+    "lemmaId": "39886064533401349",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "987",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886064533401349",
+        "name": "极限理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "990",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

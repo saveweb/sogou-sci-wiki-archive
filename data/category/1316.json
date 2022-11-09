@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1316",
+    "name": "化工流变学",
+    "lemmaId": "39886073643429636",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1313",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886073643429636",
+        "name": "化工流变学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1316",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

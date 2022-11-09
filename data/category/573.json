@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "573",
+    "name": "无机非金属基复合材料",
+    "lemmaId": "19764060140610821",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "571",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764060140610821",
+        "name": "无机非金属基复合材料",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "573",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

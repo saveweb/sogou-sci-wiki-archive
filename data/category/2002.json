@@ -1,0 +1,456 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2002",
+    "name": "食品加工技术",
+    "lemmaId": "39886092954005252",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 16,
+    "allCategoryLemmaNum": 0,
+    "parentId": "870",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "2003",
+        "name": "食用油脂加工技术",
+        "lemmaId": "39886093104999944",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093104999944",
+            "name": "食用油脂加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2003",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2004",
+        "name": "制糖技术",
+        "lemmaId": "39886093021114127",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093021114127",
+            "name": "制糖技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2004",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2005",
+        "name": "肉加工技术",
+        "lemmaId": "39886093172108813",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093172108813",
+            "name": "肉加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2005",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2006",
+        "name": "乳加工技术",
+        "lemmaId": "39886093071445769",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093071445769",
+            "name": "乳加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2006",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2007",
+        "name": "蛋加工技术",
+        "lemmaId": "39886093222440455",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093222440455",
+            "name": "蛋加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2007",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2008",
+        "name": "水果、蔬菜加工技术",
+        "lemmaId": "39886093121777421",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093121777421",
+            "name": "水果、蔬菜加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2008",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2009",
+        "name": "食品发酵与酿造技术",
+        "lemmaId": "39886093272772102",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093272772102",
+            "name": "食品发酵与酿造技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2009",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2010",
+        "name": "烘焙食品加工技术",
+        "lemmaId": "39886093188886279",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093188886279",
+            "name": "烘焙食品加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2010",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2011",
+        "name": "调味品加工技术",
+        "lemmaId": "39886093339880970",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093339880970",
+            "name": "调味品加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2011",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2012",
+        "name": "食品添加剂技术",
+        "lemmaId": "39886093239217922",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093239217922",
+            "name": "食品添加剂技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2012",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2013",
+        "name": "饮料冷食制造技术",
+        "lemmaId": "39886093390212613",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093390212613",
+            "name": "饮料冷食制造技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2013",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2014",
+        "name": "罐头技术",
+        "lemmaId": "39886093306326795",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093306326795",
+            "name": "罐头技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2014",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2015",
+        "name": "米面制品加工技术",
+        "lemmaId": "39886093440544267",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093440544267",
+            "name": "米面制品加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2015",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2016",
+        "name": "植物蛋白加工技术",
+        "lemmaId": "39886093356658433",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093356658433",
+            "name": "植物蛋白加工技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2016",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "2017",
+        "name": "食品加工技术其他学科",
+        "lemmaId": "39886093507653133",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2002",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886093507653133",
+            "name": "食品加工技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "2017",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

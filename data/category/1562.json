@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1562",
+    "name": "水利管理自动化系统",
+    "lemmaId": "39886080505310981",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1559",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886080505310981",
+        "name": "水利管理自动化系统",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1562",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

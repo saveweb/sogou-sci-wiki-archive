@@ -1,0 +1,193 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1571",
+    "name": "道路工程",
+    "lemmaId": "39886080907963918",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 9,
+    "allCategoryLemmaNum": 0,
+    "parentId": "853",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1572",
+        "name": "路基工程",
+        "lemmaId": "39886080807300879",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1571",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080807300879",
+            "name": "路基工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1572",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1573",
+        "name": "桥涵工程",
+        "lemmaId": "39886080941518347",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1571",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080941518347",
+            "name": "桥涵工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1573",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1574",
+        "name": "隧道工程",
+        "lemmaId": "39886080857632518",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 4,
+        "lemmaNum": 5,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1571",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "69295556119310592",
+            "name": "双侧壁导坑法",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1574",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "69293159963767051",
+            "name": "台阶法",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1574",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "69292202085396750",
+            "name": "中隔壁法",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1574",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "69291164062265859",
+            "name": "全断面开挖法",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1574",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886080857632518",
+            "name": "隧道工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1574",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1575",
+        "name": "道路工程其他学科",
+        "lemmaId": "39886081025404419",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1571",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081025404419",
+            "name": "道路工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1575",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

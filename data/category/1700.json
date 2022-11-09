@@ -1,0 +1,253 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1700",
+    "name": "生物医学工程学",
+    "lemmaId": "39886084330516226",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 9,
+    "allCategoryLemmaNum": 0,
+    "parentId": "869",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1701",
+        "name": "生物医学电子学",
+        "lemmaId": "39886084481510920",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1700",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886084481510920",
+            "name": "生物医学电子学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1701",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1702",
+        "name": "临床工程学",
+        "lemmaId": "39886084380847878",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1700",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886084380847878",
+            "name": "临床工程学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1702",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1703",
+        "name": "康复工程学",
+        "lemmaId": "39886084531842567",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1700",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886084531842567",
+            "name": "康复工程学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1703",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1704",
+        "name": "生物医学测量学",
+        "lemmaId": "39886084447956747",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1700",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886084447956747",
+            "name": "生物医学测量学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1704",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1705",
+        "name": "人工器官与生物医学材料学",
+        "lemmaId": "39886084598951435",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1700",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886084598951435",
+            "name": "人工器官与生物医学材料学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1705",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1706",
+        "name": "干细胞与组织工程学",
+        "lemmaId": "39886084515065613",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1700",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886084515065613",
+            "name": "干细胞与组织工程学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1706",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1707",
+        "name": "医学成像技术",
+        "lemmaId": "39886084666060288",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1700",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886084666060288",
+            "name": "医学成像技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1707",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1708",
+        "name": "生物医学工程学其他学科",
+        "lemmaId": "39886084565397252",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1700",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886084565397252",
+            "name": "生物医学工程学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1708",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

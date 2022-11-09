@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1447",
+    "name": "节能技术",
+    "lemmaId": "39886077384748554",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "868",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886077384748554",
+        "name": "节能技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1447",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

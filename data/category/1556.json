@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1556",
+    "name": "区域环境水利",
+    "lemmaId": "39886080354316037",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1554",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886080354316037",
+        "name": "区域环境水利",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1556",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

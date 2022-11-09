@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1804",
+    "name": "杂草防除",
+    "lemmaId": "39886087232974601",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1786",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886087232974601",
+        "name": "杂草防除",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1804",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

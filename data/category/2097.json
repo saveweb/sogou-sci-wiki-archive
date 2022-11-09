@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2097",
+    "name": "运动医学",
+    "lemmaId": "59365956148852994",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2095",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365956148852994",
+        "name": "运动医学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2097",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

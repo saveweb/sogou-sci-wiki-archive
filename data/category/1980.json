@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1980",
+    "name": "印花技术",
+    "lemmaId": "39886092333248260",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1978",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886092333248260",
+        "name": "印花技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1980",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

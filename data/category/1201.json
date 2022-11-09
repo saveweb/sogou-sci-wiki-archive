@@ -1,0 +1,238 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1201",
+    "name": "物理力学",
+    "lemmaId": "39886070321540620",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 9,
+    "allCategoryLemmaNum": 0,
+    "parentId": "12",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1202",
+        "name": "高压固体物理力学",
+        "lemmaId": "39886070220877579",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1201",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070220877579",
+            "name": "高压固体物理力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1202",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1203",
+        "name": "稠密流体物理力学",
+        "lemmaId": "39886070371872267",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1201",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070371872267",
+            "name": "稠密流体物理力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1203",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1204",
+        "name": "高温气体物理力学",
+        "lemmaId": "39886070287986435",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1201",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070287986435",
+            "name": "高温气体物理力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1204",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1205",
+        "name": "多相介质物理力学",
+        "lemmaId": "39886070438981121",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1201",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070438981121",
+            "name": "多相介质物理力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1205",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1206",
+        "name": "临界现象与相变",
+        "lemmaId": "39886070355095307",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1201",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070355095307",
+            "name": "临界现象与相变",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1206",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1207",
+        "name": "原子与分子动力学",
+        "lemmaId": "39886070489312773",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1201",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886070489312773",
+            "name": "原子与分子动力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1207",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1208",
+        "name": "物理力学其他学科",
+        "lemmaId": "39886070405426955",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1201",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "40085099324141315",
+            "name": "相互作用力",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1208",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886070405426955",
+            "name": "物理力学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1208",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

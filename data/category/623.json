@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "623",
+    "name": "核聚变工程技术其他学科",
+    "lemmaId": "34555488146313472",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "618",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555488146313472",
+        "name": "核聚变工程技术其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "623",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

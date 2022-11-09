@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "826",
+    "name": "大气污染控制工程",
+    "lemmaId": "34555517892317444",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "591",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "49742906398910222",
+        "name": "挥发性有机物",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "826",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "49486019740870408",
+        "name": "大气污染物",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "826",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555517892317444",
+        "name": "大气污染控制工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "826",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

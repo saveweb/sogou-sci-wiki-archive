@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1087",
+    "name": "航空地面设施",
+    "lemmaId": "39886067251310080",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1084",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886067251310080",
+        "name": "航空地面设施",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1087",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "226",
+    "name": "细胞神经生物学",
+    "lemmaId": "19764058093790471",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "222",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764058093790471",
+        "name": "细胞神经生物学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "226",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

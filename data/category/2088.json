@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2088",
+    "name": "症状诊断学",
+    "lemmaId": "59365955897194508",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2087",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365955897194508",
+        "name": "症状诊断学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2088",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "329",
+    "name": "计算机基础其他学科",
+    "lemmaId": "19764069183530248",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "322",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764395382940931",
+        "name": "内存",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "329",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "49080163970883078",
+        "name": "脚本",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "329",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "48743223736180482",
+        "name": "MAC地址",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "329",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39066599319170572",
+        "name": "404页面",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "329",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764069183530248",
+        "name": "计算机基础其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "329",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

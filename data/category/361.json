@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "361",
+    "name": "计算机处理器技术",
+    "lemmaId": "19764057691137281",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "359",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764057691137281",
+        "name": "计算机处理器技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "361",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

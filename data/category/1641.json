@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1641",
+    "name": "控制系统仿真技术",
+    "lemmaId": "39886082820566542",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1638",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886082820566542",
+        "name": "控制系统仿真技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1641",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

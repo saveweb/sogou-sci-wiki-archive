@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1206",
+    "name": "临界现象与相变",
+    "lemmaId": "39886070355095307",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1201",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886070355095307",
+        "name": "临界现象与相变",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1206",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

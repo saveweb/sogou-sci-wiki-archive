@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "926",
+    "name": "维数论",
+    "lemmaId": "39886062755016460",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "920",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886062755016460",
+        "name": "维数论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "926",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

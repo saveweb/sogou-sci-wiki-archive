@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1850",
+    "name": "木材加工与人造板工艺学",
+    "lemmaId": "39886088491265800",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1845",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886088491265800",
+        "name": "木材加工与人造板工艺学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1850",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

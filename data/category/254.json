@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "254",
+    "name": "昆虫组织学",
+    "lemmaId": "19764060643927297",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "251",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764060643927297",
+        "name": "昆虫组织学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "254",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "170",
+    "name": "消化生理学",
+    "lemmaId": "19764095305655558",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "165",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39770678123065095",
+        "name": "消化腺",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "170",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39640847033069057",
+        "name": "肾小体",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "170",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764095305655558",
+        "name": "消化生理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "170",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

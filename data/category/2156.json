@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2156",
+    "name": "口腔病预防学",
+    "lemmaId": "59365957927237645",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2147",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365957927237645",
+        "name": "口腔病预防学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2156",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

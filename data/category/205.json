@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "205",
+    "name": "分子放射生物学",
+    "lemmaId": "19764101714552064",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "201",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764101714552064",
+        "name": "分子放射生物学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "205",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

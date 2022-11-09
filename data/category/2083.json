@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2083",
+    "name": "应急救援",
+    "lemmaId": "39886095369924105",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2076",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886095369924105",
+        "name": "应急救援",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2083",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1111",
+    "name": "半导体测试技术",
+    "lemmaId": "39886067905621517",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1110",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886067905621517",
+        "name": "半导体测试技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1111",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

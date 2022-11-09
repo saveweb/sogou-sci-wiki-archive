@@ -1,0 +1,369 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1944",
+    "name": "兵器科学与技术",
+    "lemmaId": "39886091293060870",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 13,
+    "allCategoryLemmaNum": 0,
+    "parentId": "854",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1945",
+        "name": "兵器科学与技术基础学科",
+        "lemmaId": "39886091444055556",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091444055556",
+            "name": "兵器科学与技术基础学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1945",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1946",
+        "name": "兵器系统与运用工程",
+        "lemmaId": "39886091343392515",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091343392515",
+            "name": "兵器系统与运用工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1946",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1947",
+        "name": "兵器结构、动力、传动与平台技术",
+        "lemmaId": "39886091494387213",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091494387213",
+            "name": "兵器结构、动力、传动与平台技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1947",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1948",
+        "name": "弹道学(含发射、推进与毁伤)",
+        "lemmaId": "39886091393724165",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091393724165",
+            "name": "弹道学(含发射、推进与毁伤)",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1948",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1949",
+        "name": "兵器识别、导引与控制技术",
+        "lemmaId": "39886091544718857",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091544718857",
+            "name": "兵器识别、导引与控制技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1949",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1950",
+        "name": "军用光学与光电子技术",
+        "lemmaId": "39886091460833027",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091460833027",
+            "name": "军用光学与光电子技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1950",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1951",
+        "name": "军事信息工程与信息对抗技术",
+        "lemmaId": "39886091611827712",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091611827712",
+            "name": "军事信息工程与信息对抗技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1951",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1952",
+        "name": "含能材料技术",
+        "lemmaId": "39886091544719114",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091544719114",
+            "name": "含能材料技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1952",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1953",
+        "name": "兵器制造技术",
+        "lemmaId": "39886091695713799",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091695713799",
+            "name": "兵器制造技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1953",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1954",
+        "name": "兵器材料科学与工程",
+        "lemmaId": "39886091595050767",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091595050767",
+            "name": "兵器材料科学与工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1954",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1955",
+        "name": "兵器测试与实验技术",
+        "lemmaId": "39886091729268236",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091729268236",
+            "name": "兵器测试与实验技术",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1955",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1956",
+        "name": "兵器科学与技术其他学科",
+        "lemmaId": "39886091645382406",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1944",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886091645382406",
+            "name": "兵器科学与技术其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1956",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

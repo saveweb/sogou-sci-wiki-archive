@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1311",
+    "name": "系统工程方法论其他学科",
+    "lemmaId": "39886073609874954",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1306",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886073609874954",
+        "name": "系统工程方法论其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1311",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

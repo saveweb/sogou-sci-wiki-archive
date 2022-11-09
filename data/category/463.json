@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "463",
+    "name": "蒸汽工程",
+    "lemmaId": "19764066817942787",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "462",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764066817942787",
+        "name": "蒸汽工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "463",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

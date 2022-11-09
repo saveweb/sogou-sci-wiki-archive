@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "401",
+    "name": "电化学分析",
+    "lemmaId": "19764090457040135",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "399",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764090457040135",
+        "name": "电化学分析",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "401",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

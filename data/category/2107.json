@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2107",
+    "name": "心血管病学",
+    "lemmaId": "59365956484397320",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2106",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365956484397320",
+        "name": "心血管病学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2107",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

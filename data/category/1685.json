@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1685",
+    "name": "基因工程",
+    "lemmaId": "19764476400116995",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "312",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "24363794004192780",
+        "name": "基因编辑",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1685",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

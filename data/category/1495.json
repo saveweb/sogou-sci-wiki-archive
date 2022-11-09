@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1495",
+    "name": "钢铁冶金其他学科",
+    "lemmaId": "39886078760480258",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1491",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886078760480258",
+        "name": "钢铁冶金其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1495",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

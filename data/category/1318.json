@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1318",
+    "name": "化学工程基础学科其他学科",
+    "lemmaId": "39886073693761285",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1313",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886073693761285",
+        "name": "化学工程基础学科其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1318",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

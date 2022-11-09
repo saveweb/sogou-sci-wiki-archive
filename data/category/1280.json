@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1280",
+    "name": "时间测量与方法",
+    "lemmaId": "39886072653573888",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1278",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886072653573888",
+        "name": "时间测量与方法",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1280",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

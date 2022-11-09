@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1532",
+    "name": "水利工程基础学科",
+    "lemmaId": "39886079666450191",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "864",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1533",
+        "name": "水力学",
+        "lemmaId": "39886079817444873",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1532",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079817444873",
+            "name": "水力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1533",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1534",
+        "name": "河流与海岸动力学",
+        "lemmaId": "39886079733559046",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1532",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079733559046",
+            "name": "河流与海岸动力学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1534",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1535",
+        "name": "水利工程基础学科其他学科",
+        "lemmaId": "39886079884553729",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1532",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079884553729",
+            "name": "水利工程基础学科其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1535",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

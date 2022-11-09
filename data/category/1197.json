@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1197",
+    "name": "爆轰与爆燃理论",
+    "lemmaId": "39886070220877314",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1196",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886070220877314",
+        "name": "爆轰与爆燃理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1197",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

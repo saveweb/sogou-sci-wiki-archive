@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "765",
+    "name": "水文地理学",
+    "lemmaId": "34555507406557449",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "762",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555507406557449",
+        "name": "水文地理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "765",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

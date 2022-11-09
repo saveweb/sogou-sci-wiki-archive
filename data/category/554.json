@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "554",
+    "name": "非晶、微晶金属材料",
+    "lemmaId": "19764070324380937",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "551",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764070324380937",
+        "name": "非晶、微晶金属材料",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "554",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "395",
+    "name": "物理有机化学",
+    "lemmaId": "19764099751617796",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "389",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764099751617796",
+        "name": "物理有机化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "395",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

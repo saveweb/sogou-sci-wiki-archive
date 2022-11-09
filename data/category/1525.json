@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1525",
+    "name": "选矿机械",
+    "lemmaId": "39886079599341061",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1523",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886079599341061",
+        "name": "选矿机械",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1525",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

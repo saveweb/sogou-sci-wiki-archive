@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1725",
+    "name": "真空技术",
+    "lemmaId": "39886085152599563",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1722",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886085152599563",
+        "name": "真空技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1725",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

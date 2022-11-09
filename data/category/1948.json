@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1948",
+    "name": "弹道学(含发射、推进与毁伤)",
+    "lemmaId": "39886091393724165",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1944",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886091393724165",
+        "name": "弹道学(含发射、推进与毁伤)",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1948",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

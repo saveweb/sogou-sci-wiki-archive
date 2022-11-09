@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1119",
+    "name": "参数估计",
+    "lemmaId": "39886068090170891",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1117",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886068090170891",
+        "name": "参数估计",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1119",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "731",
+    "name": "地理学其他学科",
+    "lemmaId": "34555503161921796",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "586",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "730",
+    "name": "历史地理学",
+    "lemmaId": "34555503044481288",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "586",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555503044481288",
+        "name": "历史地理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "730",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

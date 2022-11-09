@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1707",
+    "name": "医学成像技术",
+    "lemmaId": "39886084666060288",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1700",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886084666060288",
+        "name": "医学成像技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1707",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

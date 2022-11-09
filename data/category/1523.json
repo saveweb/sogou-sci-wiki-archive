@@ -1,0 +1,221 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1523",
+    "name": "矿山机械工程",
+    "lemmaId": "39886079549009414",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 28,
+    "lemmaNum": 33,
+    "allCategoryLemmaNum": 0,
+    "parentId": "802",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1524",
+        "name": "采矿机械",
+        "lemmaId": "39886079448346383",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 6,
+        "lemmaNum": 7,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1523",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "96027508486521350",
+            "name": "端头支架",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1524",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "69228661701685514",
+            "name": "滚筒采煤机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1524",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "69219136235975175",
+            "name": "装载机械",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1524",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "69213345579872527",
+            "name": "气动凿岩机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1524",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "69204432247665163",
+            "name": "金属铰接顶梁",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1524",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "42096454168243974",
+            "name": "连续采煤机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1524",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886079448346383",
+            "name": "采矿机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1524",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1525",
+        "name": "选矿机械",
+        "lemmaId": "39886079599341061",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1523",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079599341061",
+            "name": "选矿机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1525",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1526",
+        "name": "矿山运输机械",
+        "lemmaId": "39886079498678023",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1523",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079498678023",
+            "name": "矿山运输机械",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1526",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1527",
+        "name": "矿山机械工程其他学科",
+        "lemmaId": "39886079649672711",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1523",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079649672711",
+            "name": "矿山机械工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1527",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1451",
+    "name": "水能",
+    "lemmaId": "39886077502189070",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1448",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886077502189070",
+        "name": "水能",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1451",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

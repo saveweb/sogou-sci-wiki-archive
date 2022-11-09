@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "120",
+    "name": "基本粒子物理学",
+    "lemmaId": "19764058982982927",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "119",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "28279907268180231",
+        "name": "正比计数器",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "120",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "20336695228509709",
+        "name": "反物质",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "120",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764058982982927",
+        "name": "基本粒子物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "120",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

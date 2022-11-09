@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1842",
+    "name": "风景园林工程",
+    "lemmaId": "39886088289939201",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1840",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886088289939201",
+        "name": "风景园林工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1842",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

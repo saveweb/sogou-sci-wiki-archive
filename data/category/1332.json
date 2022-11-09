@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1332",
+    "name": "催化剂工程",
+    "lemmaId": "39886074079637260",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1330",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886074079637260",
+        "name": "催化剂工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1332",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

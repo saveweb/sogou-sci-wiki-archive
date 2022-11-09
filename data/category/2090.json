@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2090",
+    "name": "机能诊断学",
+    "lemmaId": "59365955947526157",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2087",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365955947526157",
+        "name": "机能诊断学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2090",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

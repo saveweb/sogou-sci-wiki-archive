@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "517",
+    "name": "特种加工机床",
+    "lemmaId": "19764083897148673",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "513",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764083897148673",
+        "name": "特种加工机床",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "517",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "324",
+    "name": "可计算性理论",
+    "lemmaId": "19764070156608778",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "322",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764070156608778",
+        "name": "可计算性理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "324",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

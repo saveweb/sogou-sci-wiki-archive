@@ -1,0 +1,311 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1625",
+    "name": "海洋测绘",
+    "lemmaId": "39886082384358921",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 11,
+    "allCategoryLemmaNum": 0,
+    "parentId": "865",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1626",
+        "name": "海洋大地测量",
+        "lemmaId": "39886082300473092",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082300473092",
+            "name": "海洋大地测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1626",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1627",
+        "name": "海洋重力测量",
+        "lemmaId": "39886082451467782",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082451467782",
+            "name": "海洋重力测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1627",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1628",
+        "name": "海洋磁力测量",
+        "lemmaId": "39886082350804748",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082350804748",
+            "name": "海洋磁力测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1628",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1629",
+        "name": "海洋跃层测量",
+        "lemmaId": "39886082485022210",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082485022210",
+            "name": "海洋跃层测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1629",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1630",
+        "name": "海洋声速测盘",
+        "lemmaId": "39886082401136390",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082401136390",
+            "name": "海洋声速测盘",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1630",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1631",
+        "name": "海道测量",
+        "lemmaId": "39886082535353863",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082535353863",
+            "name": "海道测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1631",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1632",
+        "name": "海底地形测量",
+        "lemmaId": "39886082451468044",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082451468044",
+            "name": "海底地形测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1632",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1633",
+        "name": "海图制图",
+        "lemmaId": "39886082585685514",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082585685514",
+            "name": "海图制图",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1633",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1634",
+        "name": "海洋工程测量",
+        "lemmaId": "39886082501799689",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082501799689",
+            "name": "海洋工程测量",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1634",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1635",
+        "name": "海洋测绘其他学科",
+        "lemmaId": "39886082636017152",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1625",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886082636017152",
+            "name": "海洋测绘其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1635",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

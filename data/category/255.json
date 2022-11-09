@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "255",
+    "name": "昆虫生理学",
+    "lemmaId": "19764072555750660",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "251",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764072555750660",
+        "name": "昆虫生理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "255",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1391",
+    "name": "特种建筑材料(包括隔音、防水、防火、绝热、耐震、防蚀、装修材料等)",
+    "lemmaId": "39886075841244677",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1387",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "69149808081842437",
+        "name": "PVC防水卷材",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1391",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "69145114571780616",
+        "name": "丙凝防水涂料",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1391",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886075841244677",
+        "name": "特种建筑材料(包括隔音、防水、防火、绝热、耐震、防蚀、装修材料等)",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1391",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

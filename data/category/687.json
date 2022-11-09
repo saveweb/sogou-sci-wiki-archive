@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "687",
+    "name": "空间环境学",
+    "lemmaId": "34555497658994959",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "682",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555497658994959",
+        "name": "空间环境学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "687",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

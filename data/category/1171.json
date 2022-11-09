@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1171",
+    "name": "固体中的波",
+    "lemmaId": "39886069516234248",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1165",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886069516234248",
+        "name": "固体中的波",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1171",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

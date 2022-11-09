@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "612",
+    "name": "裂变堆热工与水力",
+    "lemmaId": "34555486200156419",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "610",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555486200156419",
+        "name": "裂变堆热工与水力",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "612",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

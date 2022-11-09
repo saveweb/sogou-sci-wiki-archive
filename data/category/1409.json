@@ -1,0 +1,224 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1409",
+    "name": "土木建筑工程设计",
+    "lemmaId": "39886076327783940",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 8,
+    "allCategoryLemmaNum": 0,
+    "parentId": "850",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1410",
+        "name": "建筑设计方法与理论",
+        "lemmaId": "39886076227120906",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1409",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076227120906",
+            "name": "建筑设计方法与理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1410",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1411",
+        "name": "城乡规划方法与理论",
+        "lemmaId": "39886076361338370",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1409",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076361338370",
+            "name": "城乡规划方法与理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1411",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1412",
+        "name": "建筑美学",
+        "lemmaId": "39886076277452556",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1409",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076277452556",
+            "name": "建筑美学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1412",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1413",
+        "name": "建筑室内设计",
+        "lemmaId": "39886076428447241",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1409",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076428447241",
+            "name": "建筑室内设计",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1413",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1414",
+        "name": "建筑室外环境设计",
+        "lemmaId": "39886076344561408",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1409",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076344561408",
+            "name": "建筑室外环境设计",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1414",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1415",
+        "name": "土木工程设计",
+        "lemmaId": "39886076495556108",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1409",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076495556108",
+            "name": "土木工程设计",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1415",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1416",
+        "name": "土木建筑工程设计其他学科",
+        "lemmaId": "39886076394893067",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1409",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886076394893067",
+            "name": "土木建筑工程设计其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1416",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

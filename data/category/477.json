@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "477",
+    "name": "电力系统及其自动化",
+    "lemmaId": "19764059519853825",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "468",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764059519853825",
+        "name": "电力系统及其自动化",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "477",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

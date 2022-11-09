@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "709",
+    "name": "地球形状学",
+    "lemmaId": "34555499890364686",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "708",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555499890364686",
+        "name": "地球形状学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "709",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

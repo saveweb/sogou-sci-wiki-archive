@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1824",
+    "name": "森林培育学其他学科",
+    "lemmaId": "39886087786622725",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1821",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886087786622725",
+        "name": "森林培育学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1824",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

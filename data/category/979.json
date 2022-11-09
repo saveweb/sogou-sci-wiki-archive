@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "979",
+    "name": "常微分方程数值解",
+    "lemmaId": "39886064365628933",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "977",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886064365628933",
+        "name": "常微分方程数值解",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "979",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

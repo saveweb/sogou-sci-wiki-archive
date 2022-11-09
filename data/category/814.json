@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "814",
+    "name": "行星岩石圈科学",
+    "lemmaId": "34555515459621130",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "813",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555515459621130",
+        "name": "行星岩石圈科学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "814",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

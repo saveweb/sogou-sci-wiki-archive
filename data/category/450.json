@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "450",
+    "name": "工程热力学",
+    "lemmaId": "11215",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 2,
+    "allCategoryLemmaNum": 0,
+    "parentId": "449",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "75241738020663558",
+        "name": "超临界二氧化碳布雷顿循环",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "450",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "26861265343231753",
+        "name": "㶲",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "450",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

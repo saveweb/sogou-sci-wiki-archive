@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "217",
+    "name": "种群生态学",
+    "lemmaId": "19764090540926214",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "211",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "40356413179981569",
+        "name": "种间关系",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "217",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "50520013739697926",
+        "name": "奠基者效应",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "217",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "41546207520124419",
+        "name": "婚配制度",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "217",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "33956468738773512",
+        "name": "生物防治",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "217",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764090540926214",
+        "name": "种群生态学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "217",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

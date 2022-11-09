@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "346",
+    "name": "计算机体系结构",
+    "lemmaId": "19764085507761410",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 28,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "347",
+        "name": "并行计算",
+        "lemmaId": "10158",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "346",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "348",
+        "name": "操作系统与操作环境",
+        "lemmaId": "19764078964647181",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "346",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764078964647181",
+            "name": "操作系统与操作环境",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "348",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "349",
+        "name": "计算机组成原理",
+        "lemmaId": "19764058311894280",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "346",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764058311894280",
+            "name": "计算机组成原理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "349",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

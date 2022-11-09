@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1008",
+    "name": "时间序列分析",
+    "lemmaId": "19764419777012999",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "997",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

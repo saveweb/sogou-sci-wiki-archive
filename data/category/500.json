@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "500",
+    "name": "焊接工艺与设备",
+    "lemmaId": "19764091262346511",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "498",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764429574907148",
+        "name": "焊缝",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "500",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "60621899427806983",
+        "name": "电焊机",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "500",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764091262346511",
+        "name": "焊接工艺与设备",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "500",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

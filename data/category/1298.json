@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1298",
+    "name": "系统学其他学科",
+    "lemmaId": "39886073123335937",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1290",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886073123335937",
+        "name": "系统学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1298",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

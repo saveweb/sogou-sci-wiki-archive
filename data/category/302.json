@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "302",
+    "name": "人类起源与演化学",
+    "lemmaId": "19764081598670090",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "301",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764081598670090",
+        "name": "人类起源与演化学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "302",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

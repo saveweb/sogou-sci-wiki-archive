@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "780",
+    "name": "海洋气象学",
+    "lemmaId": "34555509654704389",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "594",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555509654704389",
+        "name": "海洋气象学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "780",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

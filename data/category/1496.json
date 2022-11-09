@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1496",
+    "name": "有色金属冶金",
+    "lemmaId": "39886078676594445",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "858",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886078676594445",
+        "name": "有色金属冶金",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1496",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1783",
+    "name": "土壤调查与评价",
+    "lemmaId": "39886086763212299",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1773",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886086763212299",
+        "name": "土壤调查与评价",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1783",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

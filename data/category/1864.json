@@ -1,0 +1,499 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1864",
+    "name": "畜牧学",
+    "lemmaId": "39886088893918983",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 18,
+    "allCategoryLemmaNum": 0,
+    "parentId": "866",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1769",
+        "name": "畜产品贮藏与加工",
+        "lemmaId": "39886086394113545",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886086394113545",
+            "name": "畜产品贮藏与加工",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1769",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1865",
+        "name": "家畜育种学",
+        "lemmaId": "39886089044913672",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089044913672",
+            "name": "家畜育种学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1865",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1866",
+        "name": "家畜繁殖学",
+        "lemmaId": "39886088944250636",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088944250636",
+            "name": "家畜繁殖学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1866",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1867",
+        "name": "动物营养学",
+        "lemmaId": "39886089095245325",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089095245325",
+            "name": "动物营养学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1867",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1868",
+        "name": "饲料学",
+        "lemmaId": "39886088994582284",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886088994582284",
+            "name": "饲料学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1868",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1869",
+        "name": "家畜饲养管理学",
+        "lemmaId": "39886089145576974",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089145576974",
+            "name": "家畜饲养管理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1869",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1870",
+        "name": "特种经济动物饲养学",
+        "lemmaId": "39886089061691136",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089061691136",
+            "name": "特种经济动物饲养学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1870",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1871",
+        "name": "家畜行为学",
+        "lemmaId": "39886089212685830",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089212685830",
+            "name": "家畜行为学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1871",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1872",
+        "name": "家畜卫生学",
+        "lemmaId": "39886089112022792",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089112022792",
+            "name": "家畜卫生学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1872",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1873",
+        "name": "草原学",
+        "lemmaId": "59365948917872899",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "59365948917872899",
+            "name": "草原学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1873",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886089263017481",
+            "name": "草原学(包括牧草学、牧草育种学、牧草栽培学、草地生态学、草地保护学等)",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1873",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1874",
+        "name": "畜牧机械化",
+        "lemmaId": "39886089179131649",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089179131649",
+            "name": "畜牧机械化",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1874",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1875",
+        "name": "养禽学",
+        "lemmaId": "39886089330126337",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089330126337",
+            "name": "养禽学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1875",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1876",
+        "name": "养蜂学",
+        "lemmaId": "39886089229463296",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089229463296",
+            "name": "养蜂学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1876",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1877",
+        "name": "养蚕学",
+        "lemmaId": "39886089380457995",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089380457995",
+            "name": "养蚕学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1877",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1878",
+        "name": "畜牧经济学",
+        "lemmaId": "39886089279794953",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089279794953",
+            "name": "畜牧经济学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1878",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1879",
+        "name": "畜牧学其他学科",
+        "lemmaId": "39886089414012430",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1864",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886089414012430",
+            "name": "畜牧学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1879",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

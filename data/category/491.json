@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "491",
+    "name": "车身方向",
+    "lemmaId": "19764096530392320",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "488",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "51476931396289033",
+        "name": "中置后驱",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "491",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "49874457807857416",
+        "name": "火花塞",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "491",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "40516358617722628",
+        "name": "车身电子稳定系统",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "491",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764096530392320",
+        "name": "车身方向",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "491",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

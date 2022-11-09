@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1077",
+    "name": "航天器飞行试验",
+    "lemmaId": "39886066982874628",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1073",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886066982874628",
+        "name": "航天器飞行试验",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1077",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

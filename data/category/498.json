@@ -1,0 +1,352 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "498",
+    "name": "机械制造工艺与设备",
+    "lemmaId": "19764057993127169",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 12,
+    "lemmaNum": 22,
+    "allCategoryLemmaNum": 0,
+    "parentId": "6",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "499",
+        "name": "铸造工艺与设备",
+        "lemmaId": "19764093107840261",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "498",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764093107840261",
+            "name": "铸造工艺与设备",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "499",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "500",
+        "name": "焊接工艺与设备",
+        "lemmaId": "19764091262346511",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 3,
+        "allCategoryLemmaNum": 0,
+        "parentId": "498",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764429574907148",
+            "name": "焊缝",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "500",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "60621899427806983",
+            "name": "电焊机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "500",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764091262346511",
+            "name": "焊接工艺与设备",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "500",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "501",
+        "name": "塑性加工工艺与设备",
+        "lemmaId": "19764076297069837",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "498",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39079901352979974",
+            "name": "液压机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "501",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764076297069837",
+            "name": "塑性加工工艺与设备",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "501",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "502",
+        "name": "热处理工艺与设备",
+        "lemmaId": "19764098963088640",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "498",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764098963088640",
+            "name": "热处理工艺与设备",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "502",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "503",
+        "name": "切削加工工艺",
+        "lemmaId": "19764066264294660",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "498",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764066264294660",
+            "name": "切削加工工艺",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "503",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "504",
+        "name": "特种加工工艺",
+        "lemmaId": "19764070710256904",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "498",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39318231890030343",
+            "name": "盾构机",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "504",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764070710256904",
+            "name": "特种加工工艺",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "504",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "505",
+        "name": "机器装配工艺",
+        "lemmaId": "19764091933435149",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "498",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "57116000654518799",
+            "name": "变速器",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "505",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764091933435149",
+            "name": "机器装配工艺",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "505",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "506",
+        "name": "非金属加工工艺",
+        "lemmaId": "19764065626760459",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "498",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764065626760459",
+            "name": "非金属加工工艺",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "506",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "507",
+        "name": "机械制造工艺与设备其他学科",
+        "lemmaId": "19764068680213768",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "498",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764068680213768",
+            "name": "机械制造工艺与设备其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "507",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

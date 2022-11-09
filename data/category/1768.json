@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1768",
+    "name": "果蔬贮藏与加工",
+    "lemmaId": "39886086243118853",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1766",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886086243118853",
+        "name": "果蔬贮藏与加工",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1768",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1849",
+    "name": "木材学",
+    "lemmaId": "39886088591928845",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1845",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886088591928845",
+        "name": "木材学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1849",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

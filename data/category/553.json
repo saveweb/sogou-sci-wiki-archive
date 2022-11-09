@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "553",
+    "name": "有色金属及其合金",
+    "lemmaId": "19764073344279819",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "551",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764456217126149",
+        "name": "铝合金",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "553",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "67569831532114178",
+        "name": "铜及铜合金",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "553",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39806965630660098",
+        "name": "铜",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "553",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764073344279819",
+        "name": "有色金属及其合金",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "553",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

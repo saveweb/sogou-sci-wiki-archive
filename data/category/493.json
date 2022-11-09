@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "493",
+    "name": "机械设计原理与方法",
+    "lemmaId": "19764062204208397",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "492",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764062204208397",
+        "name": "机械设计原理与方法",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "493",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

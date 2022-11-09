@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "484",
+    "name": "机械动力学、机械振动",
+    "lemmaId": "19764080222938369",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "482",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764080222938369",
+        "name": "机械动力学、机械振动",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "484",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

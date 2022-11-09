@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1011",
+    "name": "统计质量控制",
+    "lemmaId": "39886065204489733",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1010",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886065204489733",
+        "name": "统计质量控制",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1011",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

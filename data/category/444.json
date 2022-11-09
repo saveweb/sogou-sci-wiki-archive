@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "444",
+    "name": "应用化学",
+    "lemmaId": "19764068663436545",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "3",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "445",
+        "name": "具体应用人有关学科",
+        "lemmaId": "19764083041510667",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "444",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764083041510667",
+            "name": "具体应用人有关学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "445",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

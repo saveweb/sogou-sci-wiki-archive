@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "567",
+    "name": "功能高分子材料",
+    "lemmaId": "19764062002881795",
+    "edited": true,
+    "partnerNum": 0,
+    "editedLemmaNum": 1,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "565",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764062002881795",
+        "name": "功能高分子材料",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "567",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

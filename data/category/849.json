@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "849",
+    "name": "药学其他学科",
+    "lemmaId": "34555521935626505",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "13",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "40290159400349196",
+        "name": "尼古丁",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "849",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39054492041244429",
+        "name": "阿托品化",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "849",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "34555521935626505",
+        "name": "药学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "849",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

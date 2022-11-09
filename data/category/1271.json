@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1271",
+    "name": "太阳系形成与演化",
+    "lemmaId": "39886072519355919",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1268",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886072519355919",
+        "name": "太阳系形成与演化",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1271",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

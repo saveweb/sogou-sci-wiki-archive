@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2013",
+    "name": "饮料冷食制造技术",
+    "lemmaId": "39886093390212613",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2002",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886093390212613",
+        "name": "饮料冷食制造技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2013",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

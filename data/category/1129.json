@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1129",
+    "name": "通信网络技术",
+    "lemmaId": "39886068375383559",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1124",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764394476971266",
+        "name": "局域网",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1129",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39886068375383559",
+        "name": "通信网络技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1129",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39776943591157263",
+        "name": "通信协议",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1129",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

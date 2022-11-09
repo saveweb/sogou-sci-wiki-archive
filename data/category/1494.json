@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1494",
+    "name": "铁合金治炼",
+    "lemmaId": "39886078626262788",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1491",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886078626262788",
+        "name": "铁合金治炼",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1494",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

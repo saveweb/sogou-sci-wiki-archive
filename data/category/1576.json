@@ -1,0 +1,165 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1576",
+    "name": "公路运输",
+    "lemmaId": "39886080924741389",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 17,
+    "lemmaNum": 25,
+    "allCategoryLemmaNum": 0,
+    "parentId": "853",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "488",
+        "name": "车辆工程",
+        "lemmaId": "19764065291216137",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 17,
+        "lemmaNum": 21,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1576",
+        "spread": true,
+        "children": [
+          {
+            "type": "category",
+            "id": "489",
+            "name": "发动机方向",
+            "lemmaId": "19764079501518084",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 5,
+            "lemmaNum": 6,
+            "allCategoryLemmaNum": 0,
+            "parentId": "488",
+            "spread": true,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "490",
+            "name": "底盘方向",
+            "lemmaId": "19764100389152003",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 6,
+            "lemmaNum": 7,
+            "allCategoryLemmaNum": 0,
+            "parentId": "488",
+            "spread": true,
+            "children": null
+          },
+          {
+            "type": "category",
+            "id": "491",
+            "name": "车身方向",
+            "lemmaId": "19764096530392320",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 3,
+            "lemmaNum": 4,
+            "allCategoryLemmaNum": 0,
+            "parentId": "488",
+            "spread": true,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1577",
+        "name": "公路标志、信号、监控工程",
+        "lemmaId": "39886081075736064",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1576",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081075736064",
+            "name": "公路标志、信号、监控工程",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1577",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1578",
+        "name": "公路运输管理",
+        "lemmaId": "39886080975073024",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1576",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080975073024",
+            "name": "公路运输管理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1578",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1579",
+        "name": "公路运输其他学科",
+        "lemmaId": "39886081126067713",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1576",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886081126067713",
+            "name": "公路运输其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1579",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

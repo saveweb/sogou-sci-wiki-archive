@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "34",
+    "name": "超声学",
+    "lemmaId": "19764060258051328",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "30",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764060258051328",
+        "name": "超声学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "34",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

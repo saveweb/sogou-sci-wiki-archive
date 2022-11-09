@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "633",
+    "name": "同位素应用技术",
+    "lemmaId": "34555489941475598",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "630",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555489941475598",
+        "name": "同位素应用技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "633",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

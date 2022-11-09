@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "615",
+    "name": "裂变堆屏蔽与防护",
+    "lemmaId": "34555486720250126",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "610",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555486720250126",
+        "name": "裂变堆屏蔽与防护",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "615",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

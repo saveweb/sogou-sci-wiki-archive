@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1149",
+    "name": "弹性力学",
+    "lemmaId": "39886068895477256",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1148",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886068895477256",
+        "name": "弹性力学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1149",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

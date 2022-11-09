@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2103",
+    "name": "麻醉药理学",
+    "lemmaId": "59365956316625164",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2101",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "59365956316625164",
+        "name": "麻醉药理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2103",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

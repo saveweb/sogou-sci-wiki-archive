@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "2052",
+    "name": "安全模拟与安全仿真学",
+    "lemmaId": "39886094380068608",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2048",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886094380068608",
+        "name": "安全模拟与安全仿真学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "2052",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

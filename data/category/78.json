@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "78",
+    "name": "凝聚态理论",
+    "lemmaId": "19764060459377931",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "77",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764060459377931",
+        "name": "凝聚态理论",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "78",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

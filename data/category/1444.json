@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1444",
+    "name": "能源地理学",
+    "lemmaId": "39886077183422211",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "868",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886077183422211",
+        "name": "能源地理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1444",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "345",
+    "name": "计算机系统结构其他学科",
+    "lemmaId": "19764063496054024",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "339",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764063496054024",
+        "name": "计算机系统结构其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "345",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

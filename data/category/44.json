@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "44",
+    "name": "传热学",
+    "lemmaId": "19764065911973125",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "41",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764065911973125",
+        "name": "传热学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "44",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

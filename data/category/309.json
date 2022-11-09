@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "309",
+    "name": "人种学",
+    "lemmaId": "19764062623638793",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "301",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764062623638793",
+        "name": "人种学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "309",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

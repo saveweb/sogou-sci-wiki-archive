@@ -1,0 +1,208 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1321",
+    "name": "化学分离工程",
+    "lemmaId": "39886073895087616",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 6,
+    "allCategoryLemmaNum": 0,
+    "parentId": "859",
+    "spread": false,
+    "children": [
+      {
+        "type": "category",
+        "id": "1322",
+        "name": "蒸馏",
+        "lemmaId": "10255",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1321",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1323",
+        "name": "吸收",
+        "lemmaId": "39886073962196492",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1321",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073962196492",
+            "name": "吸收",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1323",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1324",
+        "name": "萃取",
+        "lemmaId": "19764403402450188",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1321",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1325",
+        "name": "吸附与离子交换",
+        "lemmaId": "39886073995750920",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1321",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073995750920",
+            "name": "吸附与离子交换",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1325",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1326",
+        "name": "膜分离",
+        "lemmaId": "39886073911865095",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1321",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886073911865095",
+            "name": "膜分离",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1326",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1327",
+        "name": "蒸发与结晶",
+        "lemmaId": "39886074062859784",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1321",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074062859784",
+            "name": "蒸发与结晶",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1327",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1328",
+        "name": "干燥",
+        "lemmaId": "19764401825391875",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1321",
+        "spread": false,
+        "children": []
+      },
+      {
+        "type": "category",
+        "id": "1329",
+        "name": "化学分离工程其他学科",
+        "lemmaId": "39886074129968642",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1321",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886074129968642",
+            "name": "化学分离工程其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1329",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

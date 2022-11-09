@@ -1,0 +1,513 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "77",
+    "name": "凝聚态物理学",
+    "lemmaId": "19764066448844035",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 19,
+    "allCategoryLemmaNum": 0,
+    "parentId": "2",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "78",
+        "name": "凝聚态理论",
+        "lemmaId": "19764060459377931",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764060459377931",
+            "name": "凝聚态理论",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "78",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "79",
+        "name": "金属物理学",
+        "lemmaId": "19764082471085316",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764082471085316",
+            "name": "金属物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "79",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "80",
+        "name": "半导体物理学",
+        "lemmaId": "19764070559261963",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 2,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764395500381451",
+            "name": "半导体",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "80",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764070559261963",
+            "name": "半导体物理学",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "80",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "81",
+        "name": "电介质物理学",
+        "lemmaId": "19764081498006788",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764081498006788",
+            "name": "电介质物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "81",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "82",
+        "name": "晶体学",
+        "lemmaId": "19764067975570689",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 1,
+        "lemmaNum": 2,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "42090436700958208",
+            "name": "低能透射电子显微学",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "82",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "19764067975570689",
+            "name": "晶体学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "82",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "83",
+        "name": "非晶态物理学",
+        "lemmaId": "19764074233472263",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764074233472263",
+            "name": "非晶态物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "83",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "84",
+        "name": "液晶物理学",
+        "lemmaId": "19764068495664398",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764068495664398",
+            "name": "液晶物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "84",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "85",
+        "name": "薄膜物理学",
+        "lemmaId": "19764083393832206",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764083393832206",
+            "name": "薄膜物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "85",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "86",
+        "name": "低维物理",
+        "lemmaId": "19764084819895563",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764084819895563",
+            "name": "低维物理",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "86",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "87",
+        "name": "表面与界面物理学",
+        "lemmaId": "19764067421922563",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764067421922563",
+            "name": "表面与界面物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "87",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "88",
+        "name": "固体发光",
+        "lemmaId": "19764057775023364",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764057775023364",
+            "name": "固体发光",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "88",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "89",
+        "name": "磁学",
+        "lemmaId": "19764090725475588",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764090725475588",
+            "name": "磁学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "89",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "90",
+        "name": "超导物理学",
+        "lemmaId": "19764075139441934",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764075139441934",
+            "name": "超导物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "90",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "91",
+        "name": "低温物理学",
+        "lemmaId": "19764060543264011",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764060543264011",
+            "name": "低温物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "91",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "92",
+        "name": "高压物理学",
+        "lemmaId": "19764094533903631",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764094533903631",
+            "name": "高压物理学",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "92",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "93",
+        "name": "凝聚态物理学其他学科",
+        "lemmaId": "19764089014199558",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "77",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "19764089014199558",
+            "name": "凝聚态物理学其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "93",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

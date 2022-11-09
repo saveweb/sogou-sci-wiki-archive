@@ -1,0 +1,150 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1538",
+    "name": "水工结构",
+    "lemmaId": "39886079850999561",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 3,
+    "lemmaNum": 7,
+    "allCategoryLemmaNum": 0,
+    "parentId": "864",
+    "spread": true,
+    "children": [
+      {
+        "type": "category",
+        "id": "1539",
+        "name": "一般水工建筑物",
+        "lemmaId": "39886080001994254",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 3,
+        "lemmaNum": 4,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1538",
+        "spread": true,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "68710076109631744",
+            "name": "拱坝",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1539",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "68456690302923267",
+            "name": "重力坝",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1539",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "68447408241062155",
+            "name": "水闸",
+            "lemmaId": "0",
+            "edited": true,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1539",
+            "spread": false,
+            "children": null
+          },
+          {
+            "type": "lemma",
+            "id": "39886080001994254",
+            "name": "一般水工建筑物",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1539",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1540",
+        "name": "专门水工建筑物",
+        "lemmaId": "39886079918108425",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1538",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886079918108425",
+            "name": "专门水工建筑物",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1540",
+            "spread": false,
+            "children": null
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "id": "1541",
+        "name": "水工结构其他学科",
+        "lemmaId": "39886080052325903",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 1,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1538",
+        "spread": false,
+        "children": [
+          {
+            "type": "lemma",
+            "id": "39886080052325903",
+            "name": "水工结构其他学科",
+            "lemmaId": "0",
+            "edited": false,
+            "partnerNum": 0,
+            "editedLemmaNum": 0,
+            "lemmaNum": 0,
+            "allCategoryLemmaNum": 0,
+            "parentId": "1541",
+            "spread": false,
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

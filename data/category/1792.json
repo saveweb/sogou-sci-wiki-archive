@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1792",
+    "name": "植物病毒学",
+    "lemmaId": "39886086914207491",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1786",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886086914207491",
+        "name": "植物病毒学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1792",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

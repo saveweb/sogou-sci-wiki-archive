@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "138",
+    "name": "分子生物物理学",
+    "lemmaId": "19764088494105860",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "129",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764088494105860",
+        "name": "分子生物物理学",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "138",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

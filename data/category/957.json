@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "957",
+    "name": "非线性偏微分方程",
+    "lemmaId": "19764576375547143",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 0,
+    "allCategoryLemmaNum": 0,
+    "parentId": "953",
+    "spread": false,
+    "children": []
+  },
+  "success": true
+}

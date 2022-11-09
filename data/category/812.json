@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "812",
+    "name": "行星探测技术",
+    "lemmaId": "34555515157631242",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "808",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "34555515157631242",
+        "name": "行星探测技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "812",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

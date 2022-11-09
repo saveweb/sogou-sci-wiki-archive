@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1422",
+    "name": "土木施工电器工程",
+    "lemmaId": "39886076579442444",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1417",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886076579442444",
+        "name": "土木施工电器工程",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1422",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

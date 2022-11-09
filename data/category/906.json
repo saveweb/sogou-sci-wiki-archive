@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "906",
+    "name": "代数学其他学科",
+    "lemmaId": "39886062234922761",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "890",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886062234922761",
+        "name": "代数学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "906",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

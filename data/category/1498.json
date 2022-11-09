@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1498",
+    "name": "治金机械及自动化",
+    "lemmaId": "39886078743703301",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "858",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886078743703301",
+        "name": "治金机械及自动化",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1498",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

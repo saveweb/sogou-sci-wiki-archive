@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "448",
+    "name": "化学其他学科",
+    "lemmaId": "19764082286535937",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 5,
+    "allCategoryLemmaNum": 0,
+    "parentId": "3",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "84156123686449678",
+        "name": "化学信息学",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "448",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "49888973824239108",
+        "name": "清洁能源",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "448",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "49660458143098372",
+        "name": "氧化还原反应",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "448",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "36764786893019393",
+        "name": "分子蒸馏技术",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "448",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764082286535937",
+        "name": "化学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "448",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "548",
+    "name": "材料检测与分析技术",
+    "lemmaId": "19764088259224834",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 2,
+    "lemmaNum": 3,
+    "allCategoryLemmaNum": 0,
+    "parentId": "7",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "48756760114142726",
+        "name": "渗透检测",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "548",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "23578245978926607",
+        "name": "X射线衍射",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "548",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "19764088259224834",
+        "name": "材料检测与分析技术",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "548",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

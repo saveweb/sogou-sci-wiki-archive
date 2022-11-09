@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "421",
+    "name": "电化学",
+    "lemmaId": "16869521440637452",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 4,
+    "lemmaNum": 4,
+    "allCategoryLemmaNum": 0,
+    "parentId": "412",
+    "spread": true,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "42346696612540169",
+        "name": "电极极化",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "421",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "41914981851098631",
+        "name": "三电极体系",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "421",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "39329847293537797",
+        "name": "电解水",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "421",
+        "spread": false,
+        "children": null
+      },
+      {
+        "type": "lemma",
+        "id": "23518337090727681",
+        "name": "质子交换膜燃料电池",
+        "lemmaId": "0",
+        "edited": true,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "421",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

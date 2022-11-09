@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "263",
+    "name": "昆虫学其他学科",
+    "lemmaId": "19764082672411919",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "251",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "19764082672411919",
+        "name": "昆虫学其他学科",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "263",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}

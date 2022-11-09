@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "suc",
+  "tips": null,
+  "data": {
+    "type": "category",
+    "id": "1660",
+    "name": "信息隐藏",
+    "lemmaId": "39886083223219969",
+    "edited": false,
+    "partnerNum": 0,
+    "editedLemmaNum": 0,
+    "lemmaNum": 1,
+    "allCategoryLemmaNum": 0,
+    "parentId": "1654",
+    "spread": false,
+    "children": [
+      {
+        "type": "lemma",
+        "id": "39886083223219969",
+        "name": "信息隐藏",
+        "lemmaId": "0",
+        "edited": false,
+        "partnerNum": 0,
+        "editedLemmaNum": 0,
+        "lemmaNum": 0,
+        "allCategoryLemmaNum": 0,
+        "parentId": "1660",
+        "spread": false,
+        "children": null
+      }
+    ]
+  },
+  "success": true
+}
