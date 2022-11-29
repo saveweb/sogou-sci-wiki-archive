@@ -13,7 +13,7 @@ for i in lemmaId_set:
     time.sleep(0.5)
     # https://baike.sogou.com/kexue/d69917841985450255.htm
     r = http_get_request(f'https://baike.sogou.com/kexue/d{i}.htm')
-    with open(f'running.html', 'w') as f:
+    with open(f'running.htm', 'w') as f:
         f.write(r.text)
-    with open(f'data/kexue/d{i}.html', 'w') as f:
+    with open(f'data/kexue/d{i}.htm', 'w') as f:
         f.write(r.text)
