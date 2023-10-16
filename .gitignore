@@ -1,5 +1,11 @@
+# 爬好了就注释掉
 data/category/
 running.json
+running.html
 error/
-bak_gle/
+# bak_gle/
 __pycache__/
+
+
+# 临时禁用
+# data/kexue/
